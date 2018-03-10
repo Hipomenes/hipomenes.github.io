@@ -10,7 +10,7 @@ permalink:        /:categories/:title
 title:            DHC
 tagline:          ''
 description:      ''
-url:              https://github.com/Hipomenes/dhc.github.io
+url:              https://dhc.github.io
 
 # Required if you want to move pages into a a separate directory
 include: ['_pages']
