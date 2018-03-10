@@ -1,0 +1,26 @@
+# Dependencies
+
+# kramdown to support footnotes
+markdown:         kramdown
+
+# Permalinks
+permalink:        /:categories/:title
+
+# Setup
+title:            DHC
+tagline:          ''
+description:      ''
+url:              http:///
+
+# Required if you want to move pages into a a separate directory
+include: ['_pages']
+relative_permalinks: false
+
+author:
+  name:           'David H. Colmenares'
+  url:            https://twitter.com/dhcolmenares
+
+# Custom vars
+
+github:
+  repo:           https://github.com/denten/denten.github.io

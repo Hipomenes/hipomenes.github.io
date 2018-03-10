@@ -1,0 +1,25 @@
+<p>This repository contains the source code for my personal website and portfolio built in plain text and markdown on top of the <a href="http://jekyllrb.com">Jekyll</a> Ruby framework and hosted on GitHub Pages. You cannot use custom Ruby plugins if you want to use the Jackyll compiler on Github pages.</p>
+
+<h3 id="credits">Credits</h3>
+
+<p>The theme is a fork of <a href="http://andhyde.com/">Hyde</a>, which is itself a based on <a href="http://getpoole.com">Poole</a> (incidentally, made by Mark Otto who is also respobsible for Twitter Bootstrap).</p>
+
+<p>The artwork is by <a href="http://www.turnislefthome.com/">Timothy Reynolds</a>. Many design ideas were inspired by the work of <a href="https://github.com/toin0u">toin0u</a> from <a href="http://sbin.dk">sbin.dk</a>, <a href="http://www.divshot.com/blog/web-development/advanced-jekyll-features/">Divshot</a>, <a href="pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/">PixelCog</a>, and <a href="http://www.marran.com/tech/category-pagination-in-jekyll/">Keith Morran</a>.</p>
+
+<h3 id="site-structure">Site structure</h3>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_pages/         # contains page content in .md
+_layouts/       # contains page templates in .html
+_posts/         # contains post content in .md 
+_includes/      # contains partial reusable snippets like header, sidebar, footer etc.
+_data/          # contains arbitrary data .yml
+</code></pre></div></div>
+
+<h3 id="notes">Notes</h3>
+
+<ul>
+  <li>Index page is slightly different from others, in that it needs to live in the root.</li>
+  <li>To add pages create a new file in _pages/ and specify the template. Omit the title to exclude it from sidebar navigation.</li>
+  <li>Add a page to _pages for each new category, using the categories template.</li>
+  <li>There are different templates for posts in different categories. This allows us to format Talks in a different way from Publicaitons, for example.</li>
+</ul>
+

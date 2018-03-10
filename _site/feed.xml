@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+
+        <title>Dennis Tenen - News and Updates</title>
+        <description>  </description>
+        <link>http://localhost:4000</link> 
+
+        
+        
+
+            <item>
+
+                <title> En la viña del texto </title>
+
+                <description>&lt;p&gt;Estas palabras de Ivan Illich:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/@illich2002vi%C3%B1edo78.jpg&quot; alt=&quot;La página como viñedo.&quot; /&gt;&lt;/p&gt;
+
+</description>
+
+                <pubDate>Sat, 02 Dec 2017 00:00:00 -0800</pubDate>
+
+                <link>http://localhost:4000/think.stack/Vi%C3%B1edodelTexto</link>
+
+                <guid isPermaLink="true">http://localhost:4000/think.stack/Vi%C3%B1edodelTexto</guid>
+
+            </item>
+
+        
+        
+        
+
+            <item>
+
+                <title> Programming as a Foreign Language </title>
+
+                <description>&lt;p&gt;Should programming languages count for the graduate-level foreign language
+requirement in a Humanities department? Yes and no. My initial thoughts
+towards a department policy are as follows:&lt;/p&gt;
+
+&lt;p&gt;Knowledge of computer languages can both reveal new literary-cultural
+formations and serve as a powerful tool for the study of such formations.
+However, it should not be viewed as a substitute for foreign language
+proficiency, except for cases where such substitution is convincingly
+justified and where it is warranted by sustained, deep engagement with the
+material.&lt;sup&gt;†&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The following guidelines can be used when evaluating graduate student requests
+to fulfill their foreign language as a programming (computer) language.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Proficiency in computer/artificial languages should not be generally viewed
+as a supplement to foreign languages.&lt;/li&gt;
+  &lt;li&gt;The substitution can be allowed in cases where a student’s work benefits
+from computational literacy either as a &lt;em&gt;subject or a method of study&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Students are encouraged to articulate the exception in writing, in the form
+of a concise (one page) proposal, which describes the scope of the project,
+relevant technologies involved, and a brief synopsis of secondary literature
+using similar approaches.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are two specific cases where a computer language as a foreign language
+request is particularly appropriate:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Where a student’s projected research program involves aspects of
+computational culture as a &lt;strong&gt;subject of study&lt;/strong&gt;. These include (but not
+limited to) topics in electronic literature, software studies, game studies,
+online deliberation, combinatorial poetics, virtual communities, fan culture,
+media studies, platform studies, sociology of knowledge, book piracy, politics
+of the archive, human-computer interaction, and history and future of the
+book, among other potentially relevant applications. Specific languages in
+this category often include (but are not limited to) historical or otherwise
+obscure dialects. Examples from proposed studies include FORTRAN, 6502
+Assembler (Nintendo), and &lt;em&gt;troff&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Where computer languages are used instrumentally, as a &lt;strong&gt;method of study&lt;/strong&gt;.
+For example, medievalists may wish to acquire reading knowledge of German
+to understand the secondary literature in that language. Similarly, a scholar
+of Victorian British literature learns Python to facilitate analysis of
+numerous texts across long periods of time. The proposed language in this
+category should reasonably belong to the family of “major research languages,”
+used in advanced courses of instruction. This list typically includes
+languages such as Python, R, C, Java, and Julia. It does not include markup
+languages (or typesetting systems) such as HTML, CSS, or LaTeX, since these do
+not typically sustain advanced graduate research methodology.&lt;sup&gt;‡&lt;/sup&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;format-of-the-exam&quot;&gt;Format of the Exam&lt;/h3&gt;
+
+&lt;p&gt;When possible the exam will be administered via a Jupyter Notebook following
+the format of similar exams in foreign languages: one “annotation” exercise
+that tests code comprehension and one “translation” exercise that tests for
+reasoning and basic literacy. Two hours are generally sufficient. Students can
+expect to exhibit “intermediate” level of proficiency, equivalent to
+one-year’s worth of coursework in the field (or similar experience).&lt;/p&gt;
+
+&lt;p&gt;A sample test can be found
+&lt;a href=&quot;https://github.com/denten/python-language-exam/blob/master/english-python-exam-sample.ipynb&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;sup&gt;†&lt;/sup&gt; Written in consideration of: Geisler, Michael, Claire
+Kramsch, Scott McGinnis, Peter Patrikis, Mary Louise Pratt, Karin Ryding, and
+Haun Saussy.  “Foreign Languages and Higher Education: New Structures for a
+Changed World: MLA Ad Hoc Committee on Foreign Languages.” &lt;em&gt;Profession&lt;/em&gt;, 2007,
+234–45.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;sup&gt;‡&lt;/sup&gt; The presence of advanced graduate-level classes in the proposed
+language are a good indicator of a major research language.&lt;/small&gt;&lt;/p&gt;
+</description>
+
+                <pubDate>Tue, 25 Apr 2017 00:00:00 -0700</pubDate>
+
+                <link>http://localhost:4000/think.stack/foreignlang</link>
+
+                <guid isPermaLink="true">http://localhost:4000/think.stack/foreignlang</guid>
+
+            </item>
+
+        
+        
+        
+
+            <item>
+
+                <title> Bachofen, Hercules </title>
+
+                <description>&lt;p&gt;&lt;img src=&quot;http://www.artic.edu/aic/collections/citi/images/standard/WebLarge/WebImg_000047/29488_489351.jpg&quot; alt=&quot;Hercules&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En una pasaje lacónico del &lt;em&gt;Mutterrecht&lt;/em&gt;, Bachofen afirma que la transgresión de Prometeo fue naturalizada “trece generaciones más tarde” por Hércules. Es evidente que Bachofen se refiere a uno de los eventos menos comentados que integran el XI Trabajo de Hércules. De camino a las Hespérides, tras librarse de Kyknos, hijo de Ares, y Antaeus, hijo de Poseidón, Hércules recala en el Cáucaso. Ahí, en un risco, yace Prometeo encadenado. Hércules da muerte al águila que, cada noche, devora el hígado del antiguo titán. En agradecimiento, Prometeo revela al héroe la ubicación del jardín de las Hespérides, que resguarda las manzanas de oro. De acuerdo al jurista suizo, este evento constituye el postergado desenlace de pugna de Prometeo y los dioses olímpicos. A Hércules, el vencedor de monstruos, le corresponde, sin saberlo, naturalizar el “ethos prometeico” más allá de todo reparo de los olímpicos. De ahí que a menudo se le atribuya la invención de las artes, notablemente la escritura y la astronomía, artes que permiten a los hombres acceder a las formas futuras y remediar así la incuria de Epimeteo, ese titán que vive absorto en la inmanencia. La celebridad de Hércules supondría así, siguiendo a Bachofen, el definitivo olvido de Epimeteo, que ya en el tardío Hesiodo se ha convertido en el tonto por antonomasia. Desde entonces, la inmanencia que regía el orden matriarcal es sacrificada en los altares del Telos, que rige el orden del patriarcado: el paso del reino de la material al reino de la forma. Para entonces, la &lt;em&gt;physis&lt;/em&gt; primigenia sólo puede ya ser pensada como lo monstruoso, lo que el héroe, ufano en su &lt;em&gt;phronesis&lt;/em&gt; y primera víctima de la razón instrumental, debe destruir. De esto y otros temas me gusta imaginar que discutieron Ivan Illich y Erich Fromm una tarde de 1970 en Cuernavaca.&lt;/p&gt;
+
+</description>
+
+                <pubDate>Mon, 06 Mar 2017 00:00:00 -0800</pubDate>
+
+                <link>http://localhost:4000/think.stack/Hercules_Bachofen</link>
+
+                <guid isPermaLink="true">http://localhost:4000/think.stack/Hercules_Bachofen</guid>
+
+            </item>
+
+        
+        
+        
+
+            <item>
+
+                <title> Didascalia from the Didascalicon </title>
+
+                <description>&lt;p&gt;I’ve &lt;a href=&quot;http://hipomenes.github.io/2015/11/24/motto/&quot;&gt;written before&lt;/a&gt; about the pleasures of knowledge according to a Roman academy and Kircher’s adoption of a Platonic motto on the beauty of knowing everything. Last night, a little before falling asleep, I stumbled upon Hugh of Saint Victor’s praise of &lt;em&gt;meditatio&lt;/em&gt;, a practice closely related to the &lt;em&gt;lectio divina&lt;/em&gt;. It is, without doubt, the most beautiful praise of intellectual work I’ve read, an activity that according to Hugh gives us, in Jerome Taylor’s elegant translation, a “foretaste of the sweetness of eternal quiet”. In &lt;em&gt;meditatio&lt;/em&gt;, the rumination characteristic of the &lt;em&gt;lectio divina&lt;/em&gt; is carried forth beyond the confines of the book and into the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/med1.jpg&quot; alt=&quot;On Meditation 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/med2.jpg&quot; alt=&quot;On Meditation 2&quot; /&gt;&lt;/p&gt;
+
+</description>
+
+                <pubDate>Tue, 25 Oct 2016 00:00:00 -0700</pubDate>
+
+                <link>http://localhost:4000/think.stack/A-didascalia-from-the-Didascalicon</link>
+
+                <guid isPermaLink="true">http://localhost:4000/think.stack/A-didascalia-from-the-Didascalicon</guid>
+
+            </item>
+
+        
+        
+        
+
+            <item>
+
+                <title> Reclaiming the good life from the Segundos Pisos </title>
+
+                <description>&lt;p&gt;&lt;img src=&quot;https://robbbeck.files.wordpress.com/2011/05/illich.jpg&quot; alt=&quot;Ivan Illich&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While this winter break has been packed with activities, and a dissertation chapter is due in January, these following weeks I plan to spend as much as possible re-reading one of the intellectual (dare I say: spiritual) heroes of my youth: Ivan Illich. In the past year, I encountered Illich once again while reading about the Medieval encyclopedic tradition and Hugh of Saint Victor’s &lt;em&gt;Didascalicon&lt;/em&gt;, the 12th-century treatise on reading to which Illich dedicated a detailed commentary. A few months ago I read the engaging &lt;em&gt;Rivers North of the Future&lt;/em&gt;, a series of interviews in which Illich spelled out the theological underpinnings of his criticism of modern society.  I also came across a little book, &lt;em&gt;The Prophet from Cuernavaca&lt;/em&gt;, the first reconstruction of Illich’s activities at the CIDOC. However, it’s been my recent experiences in Mexico City that have sparked my interest in Illich’s thought once again. Mexico City in many ways stands as an example of the utter failure of the political intervention that Illich thought was still feasible in the 1970s, and through which the “Developing” world could have been spared from the ills of Capitalist modernization. While his reading of the situation, I believe, was correct, he failed to identify or address the possible agents of such an intervenetion, and he squandered his energies chastizising and re-educating American missionaries while entirely neglecting local policy-makers or institutions such as the CEPAL. At any rate, Mexico City and its sprawling net of  &lt;em&gt;segundos pisos&lt;/em&gt; feels precisely as the kind urban distopia that Illich sought to prevent.&lt;/p&gt;
+
+&lt;p&gt;A growing number of recent publications have set out to reassess Illich’s legacy, but my aim is to dive directly into his ouevre through the wonderful FCE’s &lt;em&gt;Obras Completas&lt;/em&gt;, edited by Javier Sicilia.  I plan to re-read works that had a lasting impact in my coming of age, such as &lt;em&gt;Tools for Conviventiality&lt;/em&gt;, but also books I didn’t read back then and that now seem all the more urgent: &lt;em&gt;The Right to Useful Unemployment&lt;/em&gt;, &lt;em&gt;Disabling Professions&lt;/em&gt; and &lt;em&gt;Energy and Equity&lt;/em&gt;.  Finally, I will try to breath new life into these books by reading them side by side to Christopher Alexander’s &lt;em&gt;The Nature of Order&lt;/em&gt;, a work that I’ve been meaning to read for a while after spending several months musing over his beautiful &lt;em&gt;Pattern language&lt;/em&gt;.&lt;/p&gt;
+</description>
+
+                <pubDate>Sat, 12 Dec 2015 00:00:00 -0800</pubDate>
+
+                <link>http://localhost:4000/think.stack/vernacular</link>
+
+                <guid isPermaLink="true">http://localhost:4000/think.stack/vernacular</guid>
+
+            </item>
+
+        
+        
+        
+
+            <item>
+
+                <title> El saber y el goce </title>
+
+                <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/mondo.jpg&quot; alt=&quot;Mundus Symbolicus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todo proyecto intelectual que se precie debe colocarse bajo la advocación de un mote o empresa. Uno de los primeros eventos organizados tras la fundación de la &lt;em&gt;Accademia degli Umoristi&lt;/em&gt;, en Roma, fue la serie de conferencias dictadas por el erudito friulano Girolamo Aleandro sobre el mote lucreciano de la Accademia: REDDIT AGMINE DULCI (“todo lo vuelve dulce”). A lo largo de tres jornadas, Aleandro fue desmadejando el sentido y las implicaciones del mote, cuya &lt;em&gt;pictura&lt;/em&gt; consistía en una nube, que&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“[C]he formata dalle amare essalationi del mare, e sollevata in alto per virtù de raggi del Sole, si vede poco dopo in minuta, e spessa, ma gratiosa pioggia, risolta, all’in giù stillare, co ‘l motto, tolto da Lucretio nel Lib. 6: REDDIT AGMINE DULCI.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;La frase proviene del VI libro de &lt;em&gt;De Rerum Natura&lt;/em&gt; (631):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Postremo quoniam raro cum corpore tellus&lt;br /&gt;
+est et coniunctast oras maris undique cingens,&lt;br /&gt;
+debet, ut in mare de terris venit umor aquai,&lt;br /&gt;
+in terras itidem manare ex aequore salso;&lt;br /&gt;
+percolatur enim virus retroque remanat&lt;br /&gt;
+materies umoris et ad caput amnibus omnis&lt;br /&gt;
+confluit, inde super terras redit agmine dulci&lt;br /&gt;
+qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O en la versión de Francisco Socas:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Y por último, como la tierra está ahí con su cuerpo poroso, junto a la que hay costa marina por doquier ciñéndola, debe, tal como hasta el mar desde las tierras llega flujo de agua, manar lo mismo hasta las tierras desde la salada llanura; se va colocando pues el salitre y atrás rebota la materia líquida, y toda junta corre a la cabecera de los ríos, desde la que en dulce desfile vuelve sobre las tierras por donde el camino que por una vez abrió conduce el claro paso del agua.”&lt;sup id=&quot;fnref:fn-rerum&quot;&gt;&lt;a href=&quot;#fn:fn-rerum&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En su &lt;em&gt;Mundus Symbolicus&lt;/em&gt;, compendio enciclopédico de empresas, el teórico milanés Filippo Picinelli, abrevando sin duda en el tratado manuscrito que el propio Aleandro preparó tras su conferencia, describe así el mote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“HACER BIEN A LOS ENEMIGOS. 
+El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas contra él. Los académicos Humoristas pintaron como su emblema general a una nube sobre el mar, la cual derrama lluvia dulce, aunque ella esté llena de vapor amargo y le pusieron el lema de Lucrecio: REDDIT AGMINE DULCIS (todo lo vuelve dulce). Filón Carpatio dice “Es propio de los cristianos hacer el bien y soportar los males”. Y Hugo Cardenal: “Como la nube convierte en dulces las aguas del mar, así el recuerdo de la pasión de Cristo, que soportó en su cuerpo, convierte en dulzura todos los sufrimientos y amarguras que los fieles padecen por él.”&lt;sup id=&quot;fnref:fn-1&quot;&gt;&lt;a href=&quot;#fn:fn-1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fiel a su raíz carnavalesca—la Accademia surgió de un grupo de “belli humori” congregados para organizar las festividades del casamiento de Paolo Mancini—la Accademia se presenta como el espacio de la transmutación de los humores; espacio en que los sinsabores y desavenencias mundanas pueden volverse dulces por virtud del ejercicio de la erudición y la curiosidad.&lt;/p&gt;
+
+&lt;p&gt;No lejos de este espíritu, Athanasius Kircher colocó su propio proyecto intelectual bajo la advocación de un mote en el que el goce sosegado de la erudición da paso a una resolución rayana en la &lt;em&gt;hybris&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ars.png&quot; alt=&quot;Frontispicio del *Ars Magna Sciendis, Sive Combinatoria*&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En el frontispicio de su propia “Gran Arte”, que buscaba rivalizar con el &lt;em&gt;Ars&lt;/em&gt; lulliana, Kircher introdujo un mote griego tomado del &lt;em&gt;Cratilo&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Medèn kàllion è pànta eidènai&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No hay nada más hermoso que el conocimiento de todas las cosas: un mote que sor Juana Inés de la Cruz bien podría añadido en epígrafe al &lt;em&gt;Primero sueño&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;adenda-nov-2017&quot;&gt;Adenda, Nov. 2017&lt;/h3&gt;
+&lt;p&gt;Nada más apropiado que, en el prefacio de &lt;em&gt;Esferas I&lt;/em&gt;, Peter Sloterdijk coloque los 3 volúmenes que conforman su épica filosófica bajo la advocación de un mote conocido y uno secreto. El primero es la conocida fórmula que de acuerdo a los comentaristas antiguos presidía el umbral de la Academia, frente al templo de las musas: “Que no entre el que no sepa geometría” (&lt;em&gt;ageometros me eisito&lt;/em&gt;). De acuerdo a Diógenes Laercio (IV, 10), fue por esta razón que Platón negó el acceso a la academia a Jenócrates. La filosofía está vedada a los ageómetras. Pero frente a esta advertencia, Sloterdijk sugiere que la geometría no es tanto una técnica o un saber como un disposición a la rememoración:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“¿Qué es un geómetra? Una inteligencia que viene del mundo de los muertos y trae consigo vagos recuerdos de su estancia en una esfera perfecta.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-rerum&quot;&gt;
+      &lt;p&gt;&lt;em&gt;De la naturaleza de las cosas&lt;/em&gt;, Ed. y trad. de Francisco Socas, Gredos 2003, p. 421. &lt;a href=&quot;#fnref:fn-rerum&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn-1&quot;&gt;
+      &lt;p&gt;&lt;em&gt;El mundo simbólico&lt;/em&gt;, Ed. y trad. del Colegio de Michoacán, p. 121-2. &lt;a href=&quot;#fnref:fn-1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+
+                <pubDate>Tue, 24 Nov 2015 00:00:00 -0800</pubDate>
+
+                <link>http://localhost:4000/think.stack/motto</link>
+
+                <guid isPermaLink="true">http://localhost:4000/think.stack/motto</guid>
+
+            </item>
+
+        
+        
+
+    </channel></rss>

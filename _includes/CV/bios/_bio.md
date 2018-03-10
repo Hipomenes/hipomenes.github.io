@@ -1,0 +1,2 @@
+
+I'm David Horacio Colmenares, doctoral candidate at the LAIC departament at Columbia University, and this is my home page. It's matter: musings, lists, notes and informal piece of writing.
