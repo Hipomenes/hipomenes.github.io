@@ -35,95 +35,6 @@
 
             <item>
 
-                <title> Programming as a Foreign Language </title>
-
-                <description>&lt;p&gt;Should programming languages count for the graduate-level foreign language
-requirement in a Humanities department? Yes and no. My initial thoughts
-towards a department policy are as follows:&lt;/p&gt;
-
-&lt;p&gt;Knowledge of computer languages can both reveal new literary-cultural
-formations and serve as a powerful tool for the study of such formations.
-However, it should not be viewed as a substitute for foreign language
-proficiency, except for cases where such substitution is convincingly
-justified and where it is warranted by sustained, deep engagement with the
-material.&lt;sup&gt;†&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;The following guidelines can be used when evaluating graduate student requests
-to fulfill their foreign language as a programming (computer) language.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Proficiency in computer/artificial languages should not be generally viewed
-as a supplement to foreign languages.&lt;/li&gt;
-  &lt;li&gt;The substitution can be allowed in cases where a student’s work benefits
-from computational literacy either as a &lt;em&gt;subject or a method of study&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Students are encouraged to articulate the exception in writing, in the form
-of a concise (one page) proposal, which describes the scope of the project,
-relevant technologies involved, and a brief synopsis of secondary literature
-using similar approaches.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are two specific cases where a computer language as a foreign language
-request is particularly appropriate:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Where a student’s projected research program involves aspects of
-computational culture as a &lt;strong&gt;subject of study&lt;/strong&gt;. These include (but not
-limited to) topics in electronic literature, software studies, game studies,
-online deliberation, combinatorial poetics, virtual communities, fan culture,
-media studies, platform studies, sociology of knowledge, book piracy, politics
-of the archive, human-computer interaction, and history and future of the
-book, among other potentially relevant applications. Specific languages in
-this category often include (but are not limited to) historical or otherwise
-obscure dialects. Examples from proposed studies include FORTRAN, 6502
-Assembler (Nintendo), and &lt;em&gt;troff&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Where computer languages are used instrumentally, as a &lt;strong&gt;method of study&lt;/strong&gt;.
-For example, medievalists may wish to acquire reading knowledge of German
-to understand the secondary literature in that language. Similarly, a scholar
-of Victorian British literature learns Python to facilitate analysis of
-numerous texts across long periods of time. The proposed language in this
-category should reasonably belong to the family of “major research languages,”
-used in advanced courses of instruction. This list typically includes
-languages such as Python, R, C, Java, and Julia. It does not include markup
-languages (or typesetting systems) such as HTML, CSS, or LaTeX, since these do
-not typically sustain advanced graduate research methodology.&lt;sup&gt;‡&lt;/sup&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;format-of-the-exam&quot;&gt;Format of the Exam&lt;/h3&gt;
-
-&lt;p&gt;When possible the exam will be administered via a Jupyter Notebook following
-the format of similar exams in foreign languages: one “annotation” exercise
-that tests code comprehension and one “translation” exercise that tests for
-reasoning and basic literacy. Two hours are generally sufficient. Students can
-expect to exhibit “intermediate” level of proficiency, equivalent to
-one-year’s worth of coursework in the field (or similar experience).&lt;/p&gt;
-
-&lt;p&gt;A sample test can be found
-&lt;a href=&quot;https://github.com/denten/python-language-exam/blob/master/english-python-exam-sample.ipynb&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;&lt;sup&gt;†&lt;/sup&gt; Written in consideration of: Geisler, Michael, Claire
-Kramsch, Scott McGinnis, Peter Patrikis, Mary Louise Pratt, Karin Ryding, and
-Haun Saussy.  “Foreign Languages and Higher Education: New Structures for a
-Changed World: MLA Ad Hoc Committee on Foreign Languages.” &lt;em&gt;Profession&lt;/em&gt;, 2007,
-234–45.&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;&lt;sup&gt;‡&lt;/sup&gt; The presence of advanced graduate-level classes in the proposed
-language are a good indicator of a major research language.&lt;/small&gt;&lt;/p&gt;
-</description>
-
-                <pubDate>Tue, 25 Apr 2017 00:00:00 -0700</pubDate>
-
-                <link>https://hipomenes.github.io/think.stack/foreignlang</link>
-
-                <guid isPermaLink="true">https://hipomenes.github.io/think.stack/foreignlang</guid>
-
-            </item>
-
-        
-        
-        
-
-            <item>
-
                 <title> Bachofen, Hercules </title>
 
                 <description>&lt;p&gt;&lt;img src=&quot;http://www.artic.edu/aic/collections/citi/images/standard/WebLarge/WebImg_000047/29488_489351.jpg&quot; alt=&quot;Hercules&quot; /&gt;&lt;/p&gt;
@@ -200,33 +111,33 @@ language are a good indicator of a major research language.&lt;/small&gt;&lt;/p&
 &lt;p&gt;Todo proyecto intelectual que se precie debe colocarse bajo la advocación de un mote o empresa. Uno de los primeros eventos organizados tras la fundación de la &lt;em&gt;Accademia degli Umoristi&lt;/em&gt;, en Roma, fue la serie de conferencias dictadas por el erudito friulano Girolamo Aleandro sobre el mote lucreciano de la Accademia: REDDIT AGMINE DULCI (“todo lo vuelve dulce”). A lo largo de tres jornadas, Aleandro fue desmadejando el sentido y las implicaciones del mote, cuya &lt;em&gt;pictura&lt;/em&gt; consistía en una nube, que&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“[C]he formata dalle amare essalationi del mare, e sollevata in alto per virtù de raggi del Sole, si vede poco dopo in minuta, e spessa, ma gratiosa pioggia, risolta, all’in giù stillare, co ‘l motto, tolto da Lucretio nel Lib. 6: REDDIT AGMINE DULCI.”&lt;/p&gt;
+  &lt;p&gt;[C]he formata dalle amare essalationi del mare, e sollevata in alto per virtù de raggi del Sole, si vede poco dopo in minuta, e spessa, ma gratiosa pioggia, risolta, all’in giù stillare, co ‘l motto, tolto da Lucretio nel Lib. 6: REDDIT AGMINE DULCI.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;La frase proviene del VI libro de &lt;em&gt;De Rerum Natura&lt;/em&gt; (631):&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Postremo quoniam raro cum corpore tellus&lt;br /&gt;
+  &lt;p&gt;Postremo quoniam raro cum corpore tellus&lt;br /&gt;
 est et coniunctast oras maris undique cingens,&lt;br /&gt;
 debet, ut in mare de terris venit umor aquai,&lt;br /&gt;
 in terras itidem manare ex aequore salso;&lt;br /&gt;
 percolatur enim virus retroque remanat&lt;br /&gt;
 materies umoris et ad caput amnibus omnis&lt;br /&gt;
 confluit, inde super terras redit agmine dulci&lt;br /&gt;
-qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
+qua via secta semel liquido pede detulit undas.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;O en la versión de Francisco Socas:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Y por último, como la tierra está ahí con su cuerpo poroso, junto a la que hay costa marina por doquier ciñéndola, debe, tal como hasta el mar desde las tierras llega flujo de agua, manar lo mismo hasta las tierras desde la salada llanura; se va colocando pues el salitre y atrás rebota la materia líquida, y toda junta corre a la cabecera de los ríos, desde la que en dulce desfile vuelve sobre las tierras por donde el camino que por una vez abrió conduce el claro paso del agua.”&lt;sup id=&quot;fnref:fn-rerum&quot;&gt;&lt;a href=&quot;#fn:fn-rerum&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;Y por último, como la tierra está ahí con su cuerpo poroso, junto a la que hay costa marina por doquier ciñéndola, debe, tal como hasta el mar desde las tierras llega flujo de agua, manar lo mismo hasta las tierras desde la salada llanura; se va colocando pues el salitre y atrás rebota la materia líquida, y toda junta corre a la cabecera de los ríos, desde la que en dulce desfile vuelve sobre las tierras por donde el camino que por una vez abrió conduce el claro paso del agua.&lt;sup id=&quot;fnref:fn-rerum&quot;&gt;&lt;a href=&quot;#fn:fn-rerum&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;En su &lt;em&gt;Mundus Symbolicus&lt;/em&gt;, compendio enciclopédico de empresas, el teórico milanés Filippo Picinelli, abrevando sin duda en el tratado manuscrito que el propio Aleandro preparó tras su conferencia, describe así el mote:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“HACER BIEN A LOS ENEMIGOS. 
-El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas contra él. Los académicos Humoristas pintaron como su emblema general a una nube sobre el mar, la cual derrama lluvia dulce, aunque ella esté llena de vapor amargo y le pusieron el lema de Lucrecio: REDDIT AGMINE DULCIS (todo lo vuelve dulce). Filón Carpatio dice “Es propio de los cristianos hacer el bien y soportar los males”. Y Hugo Cardenal: “Como la nube convierte en dulces las aguas del mar, así el recuerdo de la pasión de Cristo, que soportó en su cuerpo, convierte en dulzura todos los sufrimientos y amarguras que los fieles padecen por él.”&lt;sup id=&quot;fnref:fn-1&quot;&gt;&lt;a href=&quot;#fn:fn-1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;HACER BIEN A LOS ENEMIGOS. 
+El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas contra él. Los académicos Humoristas pintaron como su emblema general a una nube sobre el mar, la cual derrama lluvia dulce, aunque ella esté llena de vapor amargo y le pusieron el lema de Lucrecio: REDDIT AGMINE DULCIS (todo lo vuelve dulce). Filón Carpatio dice “Es propio de los cristianos hacer el bien y soportar los males”. Y Hugo Cardenal: “Como la nube convierte en dulces las aguas del mar, así el recuerdo de la pasión de Cristo, que soportó en su cuerpo, convierte en dulzura todos los sufrimientos y amarguras que los fieles padecen por él.&lt;sup id=&quot;fnref:fn-1&quot;&gt;&lt;a href=&quot;#fn:fn-1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Fiel a su raíz carnavalesca—la Accademia surgió de un grupo de “belli humori” congregados para organizar las festividades del casamiento de Paolo Mancini—la Accademia se presenta como el espacio de la transmutación de los humores; espacio en que los sinsabores y desavenencias mundanas pueden volverse dulces por virtud del ejercicio de la erudición y la curiosidad.&lt;/p&gt;
