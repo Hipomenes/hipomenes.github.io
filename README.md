@@ -1,7 +1,7 @@
-This recpository contains the source code for my personal sight. 
+This repository contains the source code for my personal site,[davidcolmenares.org](davicolmenares.org). 
 
 ### Credits
-This site is a fork of Dennis Tenen's Tachyons-based theme, used for his [personal site](http://denten.plaintext.in). 
+This site is a fork of Dennis Tenen's Tachyons-based theme, used for his own [personal site](http://denten.plaintext.in). 
 
 ### Site structure
 ```
