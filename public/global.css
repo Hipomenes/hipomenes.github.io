@@ -46,7 +46,7 @@ blockquote:before {
     font-family: Times, serif;
     position: absolute;
     left: -1rem;
-    top: -1.75rem;
+    top: -.75rem;
     color: silver;
 }
 
@@ -59,8 +59,7 @@ h4 {
 }
 
 h2 {
-    text-transform: uppercase;
-    font-weight: inherit;
+    font-weight: bold;
 }
 
 ul, ol {
@@ -85,10 +84,10 @@ p {
 
 
 .footnotes ol {
-    margin-left: -1em;
+    margin-left: 1em;
 }
 
 .footnotes li {
-    font-size: .75em;
+    font-size: .8em;
     padding-bottom: 0em;
 }
