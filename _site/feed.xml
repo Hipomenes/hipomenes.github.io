@@ -6,7 +6,7 @@
 
         <title>Dennis Tenen - News and Updates</title>
         <description>  </description>
-        <link>https://hipomenes.github.io</link> 
+        <link>http://localhost:4000</link> 
 
         
         
@@ -17,15 +17,46 @@
 
                 <description>&lt;p&gt;Estas palabras de Ivan Illich:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://hipomenes.github.io/assets/@illich2002vi%C3%B1edo78.jpg&quot; alt=&quot;La página como viñedo.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/@illich2002vi%C3%B1edo78.jpg&quot; alt=&quot;La página como viñedo.&quot; /&gt;&lt;/p&gt;
 
 </description>
 
                 <pubDate>Sat, 02 Dec 2017 00:00:00 -0800</pubDate>
 
-                <link>https://hipomenes.github.io/think.stack/Vi%C3%B1edodelTexto</link>
+                <link>http://localhost:4000/think.stack/Vi%C3%B1edodelTexto</link>
 
-                <guid isPermaLink="true">https://hipomenes.github.io/think.stack/Vi%C3%B1edodelTexto</guid>
+                <guid isPermaLink="true">http://localhost:4000/think.stack/Vi%C3%B1edodelTexto</guid>
+
+            </item>
+
+        
+        
+        
+
+            <item>
+
+                <title> Bibliógrafos y recolectores de documentos </title>
+
+                <description>&lt;p&gt;Por razones que valdría la pena explorar, en México han escollado como en pocos sitios los bibliofilos y bibliógrafos. “Algunos de estos maniacos—escribía Luis González y González—han llegado a ser glorias nacionales, epónimos de avenidas como don Francisco del Paso y Troncoso.” En esta entrada, me propongo recopilar las principales colecciones documentales publicadas de documentos relativos a la Nueva España. Empiezo con los repertorios publicados por la española Academia de la Historia a mediados del siglo XIX.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://catalog.hathitrust.org/Record/009647708&quot;&gt;&lt;em&gt;Colección de documentos inéditos relativos al descubrimiento, conquista y organización de las posesiones españolas de América y Oceanía&lt;/em&gt;&lt;/a&gt;, Madrid, 1864-1888, 42 vols.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://catalog.hathitrust.org/Record/006128301&quot;&gt;&lt;em&gt;Colección de documentos ineditos relativos al descubrimiento, conquista y organización de las antiguas posesiones españolas de Ultramar (Segunda serie)&lt;/em&gt;&lt;/a&gt;, Madrid, 1885-1932, 25 vols.&lt;/li&gt;
+  &lt;li&gt;Francisco del Paso y Troncoso, &lt;a href=&quot;https://catalog.hathitrust.org/Record/000502833&quot;&gt;&lt;em&gt;Papeles de la Nueva España&lt;/em&gt;&lt;/a&gt;, Madrid, 1905-1906, 7 vols. &lt;a href=&quot;https://catalog.hathitrust.org/Record/000502833&quot;&gt;Suplementos&lt;/a&gt;, 1945-1948, 3 vols.&lt;/li&gt;
+  &lt;li&gt;Francisco del Paso y Troncoso, &lt;a href=&quot;https://catalog.hathitrust.org/Record/010520238&quot;&gt;&lt;em&gt;Epistolario de la Nueva España, 1505-1818&lt;/em&gt;&lt;/a&gt;, México, 1939-1942, 16 vols.&lt;/li&gt;
+  &lt;li&gt;Joaquín García Icazbalceta, &lt;a href=&quot;https://catalog.hathitrust.org/Record/001445216&quot;&gt;&lt;em&gt;Colección de documentos para la historia de México&lt;/em&gt;&lt;/a&gt;, México 1858, 1866, 2 vols.&lt;/li&gt;
+  &lt;li&gt;Joaquín García Icazbalceta, &lt;a href=&quot;https://babel.hathitrust.org/cgi/ls?field1=ocr;q1=Nueva%20colección%20de%20documentos%20para%20la%20historia%20de%20Mexico;a=srchls;lmt=ft&quot;&gt;&lt;em&gt;Nueva colección de documentos para la historia de México&lt;/em&gt;&lt;/a&gt;, México, 1886-1892, 5 vols.&lt;/li&gt;
+  &lt;li&gt;Joaquín García Icazbalceta, &lt;a href=&quot;https://catalog.hathitrust.org/Record/000699116&quot;&gt;&lt;em&gt;Códice Mendieta: documentos franciscanos, siglos XVI y XVII&lt;/em&gt;&lt;/a&gt;, México, 1982, 2 vols.&lt;/li&gt;
+  &lt;li&gt;Manuel Orozco y Berra, &lt;em&gt;Documentos para la historia de México&lt;/em&gt;, México, 1853-1857, 4 series, 15 vols.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+
+                <pubDate>Sat, 13 May 2017 00:00:00 -0700</pubDate>
+
+                <link>http://localhost:4000/Bibliographers</link>
+
+                <guid isPermaLink="true">http://localhost:4000/Bibliographers</guid>
 
             </item>
 
@@ -45,9 +76,9 @@
 
                 <pubDate>Mon, 06 Mar 2017 00:00:00 -0800</pubDate>
 
-                <link>https://hipomenes.github.io/think.stack/Hercules_Bachofen</link>
+                <link>http://localhost:4000/think.stack/Hercules_Bachofen</link>
 
-                <guid isPermaLink="true">https://hipomenes.github.io/think.stack/Hercules_Bachofen</guid>
+                <guid isPermaLink="true">http://localhost:4000/think.stack/Hercules_Bachofen</guid>
 
             </item>
 
@@ -61,17 +92,48 @@
 
                 <description>&lt;p&gt;I’ve &lt;a href=&quot;http://hipomenes.github.io/2015/11/24/motto/&quot;&gt;written before&lt;/a&gt; about the pleasures of knowledge according to a Roman academy and Kircher’s adoption of a Platonic motto on the beauty of knowing everything. Last night, a little before falling asleep, I stumbled upon Hugh of Saint Victor’s praise of &lt;em&gt;meditatio&lt;/em&gt;, a practice closely related to the &lt;em&gt;lectio divina&lt;/em&gt;. It is, without doubt, the most beautiful praise of intellectual work I’ve read, an activity that according to Hugh gives us, in Jerome Taylor’s elegant translation, a “foretaste of the sweetness of eternal quiet”. In &lt;em&gt;meditatio&lt;/em&gt;, the rumination characteristic of the &lt;em&gt;lectio divina&lt;/em&gt; is carried forth beyond the confines of the book and into the world.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://hipomenes.github.io/assets/med1.jpg&quot; alt=&quot;On Meditation 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/med1.jpg&quot; alt=&quot;On Meditation 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://hipomenes.github.io/assets/med2.jpg&quot; alt=&quot;On Meditation 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/med2.jpg&quot; alt=&quot;On Meditation 2&quot; /&gt;&lt;/p&gt;
 
 </description>
 
                 <pubDate>Tue, 25 Oct 2016 00:00:00 -0700</pubDate>
 
-                <link>https://hipomenes.github.io/think.stack/A-didascalia-from-the-Didascalicon</link>
+                <link>http://localhost:4000/think.stack/A-didascalia-from-the-Didascalicon</link>
 
-                <guid isPermaLink="true">https://hipomenes.github.io/think.stack/A-didascalia-from-the-Didascalicon</guid>
+                <guid isPermaLink="true">http://localhost:4000/think.stack/A-didascalia-from-the-Didascalicon</guid>
+
+            </item>
+
+        
+        
+        
+
+            <item>
+
+                <title> Mediterranean </title>
+
+                <description>&lt;p&gt;Judíos, musulmanes, cristianos en el (nuevo) Mediterráneo. Un crash-course con énfasis en Al Andalus:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;David Abulafia, &lt;a href=&quot;https://www.amazon.com/Great-Sea-Human-History-Mediterranean/dp/019931599X?ie=UTF8&amp;amp;*Version*=1&amp;amp;*entries*=0&quot;&gt;&lt;em&gt;The Great Sea: A Human History of the Mediterranean&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Peter N. Miller, &lt;a href=&quot;https://www.amazon.com/Peirescs-Mediterranean-World-Peter-Miller-ebook/dp/B00W98ZUNS/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1464764319&amp;amp;sr=1-1&amp;amp;keywords=miller+peiresc&quot;&gt;&lt;em&gt;Peiresc’s Mediterranean&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Emilio González Ferrín, &lt;a href=&quot;http://www.casadellibro.com/libro-historia-general-de-al-andalus/9788488586810/1101167&quot;&gt;&lt;em&gt;Historia general de Al Andalús&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;David Niremberg, &lt;a href=&quot;http://www.press.uchicago.edu/ucp/books/book/chicago/N/bo18602093.html&quot;&gt;&lt;em&gt;Neighboring Faiths, Christianity, Islam and Judaism in the Middle Ages and Today&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Steven M. Wasserstrom, &lt;a href=&quot;http://press.princeton.edu/titles/5729.html&quot;&gt;&lt;em&gt;Between Muslim and Jew: The Problem of Symbiosis under Early Islam&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Al-Andalus: paradigma y continuidad&lt;/em&gt;, ed. por González Ferrín&lt;/li&gt;
+  &lt;li&gt;Simon R. Doubleday, &lt;a href=&quot;http://simondoubleday.com/writings/wise-king-christian-prince-muslim-spain-birth-renaissance&quot;&gt;The Wise King: A Christian Prince, Muslim Spain, and the Birth of the Renaissance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ver también la nota &lt;a href=&quot;http://bactra.org/notebooks/world-history.html&quot;&gt;World History, Macrohistory&lt;/a&gt; de C. Bactra. Y, por qué no, la serie &lt;a href=&quot;http://www.bbc.co.uk/programmes/b06rwgdf&quot;&gt;Blood and Gold&lt;/a&gt; de la BBC.&lt;/p&gt;
+</description>
+
+                <pubDate>Mon, 30 May 2016 00:00:00 -0700</pubDate>
+
+                <link>http://localhost:4000/Mediterraneo</link>
+
+                <guid isPermaLink="true">http://localhost:4000/Mediterraneo</guid>
 
             </item>
 
@@ -85,15 +147,15 @@
 
                 <description>&lt;p&gt;En ocasiones, el porvenir de la ciencia y, con ello, del mundo, se juega en el abismo que separa dos temperamentos. En este caso, el frío racionalismo de Mommsen, encumbrado en Berlin y la Academia Prusiana de las Ciencias, saldría airoso. Pero en la vida de las ideas, las genealogías truncas no equivalen a la muerte: la progenie electiva de Bachofen aún recorre Europa.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://hipomenes.github.io/assets/bachofen-mommsen.jpg&quot; alt=&quot;Gossman, &amp;quot;Orpheus Philologus&amp;quot;, p. 21&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/bachofen-mommsen.jpg&quot; alt=&quot;Gossman, &amp;quot;Orpheus Philologus&amp;quot;, p. 21&quot; /&gt;&lt;/p&gt;
 
 </description>
 
                 <pubDate>Mon, 01 Feb 2016 00:00:00 -0800</pubDate>
 
-                <link>https://hipomenes.github.io/Bachofen</link>
+                <link>http://localhost:4000/Bachofen</link>
 
-                <guid isPermaLink="true">https://hipomenes.github.io/Bachofen</guid>
+                <guid isPermaLink="true">http://localhost:4000/Bachofen</guid>
 
             </item>
 
@@ -114,9 +176,9 @@
 
                 <pubDate>Sat, 12 Dec 2015 00:00:00 -0800</pubDate>
 
-                <link>https://hipomenes.github.io/think.stack/vernacular</link>
+                <link>http://localhost:4000/think.stack/vernacular</link>
 
-                <guid isPermaLink="true">https://hipomenes.github.io/think.stack/vernacular</guid>
+                <guid isPermaLink="true">http://localhost:4000/think.stack/vernacular</guid>
 
             </item>
 
@@ -128,7 +190,7 @@
 
                 <title> El saber y el goce </title>
 
-                <description>&lt;p&gt;&lt;img src=&quot;https://hipomenes.github.io/assets/mondo.jpg&quot; alt=&quot;Mundus Symbolicus&quot; /&gt;&lt;/p&gt;
+                <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/mondo.jpg&quot; alt=&quot;Mundus Symbolicus&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Todo proyecto intelectual que se precie debe colocarse bajo la advocación de un mote o empresa. Uno de los primeros eventos organizados tras la fundación de la &lt;em&gt;Accademia degli Umoristi&lt;/em&gt;, en Roma, fue la serie de conferencias dictadas por el erudito friulano Girolamo Aleandro sobre el mote lucreciano de la Accademia: REDDIT AGMINE DULCI (“todo lo vuelve dulce”). A lo largo de tres jornadas, Aleandro fue desmadejando el sentido y las implicaciones del mote, cuya &lt;em&gt;pictura&lt;/em&gt; consistía en una nube, que&lt;/p&gt;
 
@@ -166,7 +228,7 @@ El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas con
 
 &lt;p&gt;No lejos de este espíritu, Athanasius Kircher colocó su propio proyecto intelectual bajo la advocación de un mote en el que el goce sosegado de la erudición da paso a una resolución rayana en la &lt;em&gt;hybris&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://hipomenes.github.io/assets/ars.png&quot; alt=&quot;Frontispicio del *Ars Magna Sciendis, Sive Combinatoria*&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ars.png&quot; alt=&quot;Frontispicio del *Ars Magna Sciendis, Sive Combinatoria*&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;En el frontispicio de su propia “Gran Arte”, que buscaba rivalizar con el &lt;em&gt;Ars&lt;/em&gt; lulliana, Kircher introdujo un mote griego tomado del &lt;em&gt;Cratilo&lt;/em&gt;:&lt;/p&gt;
 
@@ -197,9 +259,9 @@ El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas con
 
                 <pubDate>Tue, 24 Nov 2015 00:00:00 -0800</pubDate>
 
-                <link>https://hipomenes.github.io/think.stack/motto</link>
+                <link>http://localhost:4000/think.stack/motto</link>
 
-                <guid isPermaLink="true">https://hipomenes.github.io/think.stack/motto</guid>
+                <guid isPermaLink="true">http://localhost:4000/think.stack/motto</guid>
 
             </item>
 
@@ -221,9 +283,9 @@ El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas con
 
                 <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
 
-                <link>https://hipomenes.github.io/think.stack/commonplace</link>
+                <link>http://localhost:4000/think.stack/commonplace</link>
 
-                <guid isPermaLink="true">https://hipomenes.github.io/think.stack/commonplace</guid>
+                <guid isPermaLink="true">http://localhost:4000/think.stack/commonplace</guid>
 
             </item>
 
