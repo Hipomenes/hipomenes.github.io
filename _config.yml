@@ -7,7 +7,7 @@ markdown:         kramdown
 permalink:        /:categories/:title
 
 # Setup
-title:            DHC
+title:            dhc
 tagline:          ''
 description:      ''
 url:              https://hipomenes.github.io
@@ -18,7 +18,7 @@ relative_permalinks: false
 
 author:
   name:           'David H. Colmenares'
-  url:            https://twitter.com/dhcolmenares
+  url:            https://davidcolmenares.org
 
 # Custom vars
 
