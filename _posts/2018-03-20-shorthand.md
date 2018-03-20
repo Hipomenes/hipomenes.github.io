@@ -14,11 +14,11 @@ In the December 1893 issue of *The Shorthand Review*, a diligent reader reported
 > "With diligence and trvst most exemplary\
 Did William Laurence serve as Prebendary
 
-> And for his paines now past before not lost
-> Gain'd this remembrance at his master's costs.
+> |And for his paines now past before not lost
+> |Gain'd this remembrance at his master's costs.
 
-| O read these lines again; you seldome find
-| A Servant faithfvl and a master kind.
+|   O read these lines again; you seldome find
+|   A Servant faithfvl and a master kind.
 
 
 
