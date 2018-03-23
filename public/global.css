@@ -19,8 +19,8 @@ html *
 
 a {
     color: slategray;
-    text-decoration: none;
-    }
+    text-decoration: none;   
+}
 
 a:hover {
     color: red;
