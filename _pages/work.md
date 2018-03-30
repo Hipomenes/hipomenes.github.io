@@ -1,7 +1,7 @@
 ---
 layout: cats
 permalink: /work/
-title: "academia"
+title: "work"
 
 ---
 
