@@ -2,7 +2,6 @@
 layout: cats
 permalink: /courses/
 title: 
-
 ---
 
 # Content Courses taught at Columbia University:
