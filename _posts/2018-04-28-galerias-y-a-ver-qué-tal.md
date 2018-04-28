@@ -7,4 +7,4 @@ categories: galeria
 
 Esta es una nueva galería hecha con Vim + Jekyll.
 
-![Esto](/Users/davidcolmenares/Pictures/ahora.png)
+![Esto](/Users/davidcolmenares/Pictures/ahora.jpg)
