@@ -25,4 +25,4 @@ In the December 1893 issue of *The Shorthand Review*, a diligent reader reported
 >|Wherein he lyes so geometricall;
 >|Art maketh some, but thus will Nature all.
 
-Let's ignore, for a moment, that this is the oldest use of the word "shorthand" on record for a lost art that until then was known as tachygraphy, or the likelihood that the term arose out of the need to fit this somber joke in a verse at the expense of a young prebend beloved by his master. The image is striking, and I personally find it deeply saddening: Death as a dutiful secretary, abridging lifes so save paper.
+Let's ignore, for a moment, that this is the oldest use of the word "shorthand" on record for a lost art that until then was known as tachygraphy, or the likelihood that the term arose out of the need to fit this somber joke in a verse at the expense of a young prebend beloved by his master. The image is striking, and I personally find it deeply saddening: Death as a dutiful secretary, abridging lives so save paper.
