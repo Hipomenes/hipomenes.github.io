@@ -27,7 +27,7 @@ No recuerdo cómo ni donde descubrí a Tycho, el proyecto musical del talentosí
 
 Mi descubrimiento de Alessandro Cortini, a diferencia de Tycho, tiene fecha, hora y lugar. Acontenció en el gran festival de música experimental de Berlín: Craftwerk, en 2016. Su nombre siempre estará aúnado a una de las experiencias estéticas más grandes de mi vida, y *Risveglio* es uno de mis discos favoritos, si bien en una primera audición puede parecer difícil de escuchar. 
 
-<iframe src="https://open.spotify.com/embed/album/5fAdZa0NA7lkx1SSH5i7OG" width="300" height="380" frameborder="0" align=center allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/5fAdZa0NA7lkx1SSH5i7OG" width="300" height="380" frameborder="5" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## *Mourning*, Wander (2016)
 
