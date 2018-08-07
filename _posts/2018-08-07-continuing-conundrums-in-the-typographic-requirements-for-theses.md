@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuing Conundrums in the Typographic Requirements
+title: Continuing Conundrums in Typographic Requirements
 published: true
 categories: think.stack
 ---
