@@ -23,6 +23,6 @@ But my favourite jab against the Secret Cabal appears in a footnote to the doubl
 
 ![Committes apply the rules except for themselves.]({{"/assets/wilson-fn.jpg" | absolute_url}})
 
-Let me formulate the self-defeating paradox once again: why are dissertation requirements that prescribe double space always type in single space?
+Let me formulate the self-defeating paradox once again: why are dissertation requirements that prescribe double space always typed in single space?
 
 Oh, Wilson.
