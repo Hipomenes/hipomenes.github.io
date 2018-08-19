@@ -13,7 +13,7 @@ Como los franciscanos observantes del siglo XVI, cuya espiritualidad, no pudiend
 
 Resulta significativo constatar que aún los artífices de la interpretación dominante del sermón guadalupano de Mier como manifestación de la conciencia criolla no sean inmunes al poder de sus imágenes. Es una instancia de verdadera justicia poética, en la que el poder de las imágenes termina por trastocar el orden de los argumentos y el prurito historiográfico. Hoy por la mañana me encontré con una instancia de este tipo en uno de los libros de David Brading. 
 
-En un pasaje de *Los orígenes del nacionalismo mexicano* (1971), Brading da un súbito cambio de tono y se pregunta: "¿Qué soñaba Mier". El historiador sospecha que la reconstrucción de los hechos no basta, y adivina la presencia de la imagen y el sueño como un única forma de dar cuenta del sermón. Brading continúa:
+En un pasaje de *Los orígenes del nacionalismo mexicano* (1971), Brading da un súbito cambio de tono y se pregunta: "¿Qué soñaba Mier?" El historiador sospecha que la reconstrucción de los hechos no basta, y adivina la presencia de la imagen y el sueño como un única forma de dar cuenta del sermón. Brading continúa:
 
 >La conjunción de Santo Tomás y Quetzalcóatl con Nuestra Señora de Guadalupe ofrece material para un análisis junguiano conforme a los arquetipos del viejo sabio y de la diosa virgen.[^1]
 
@@ -21,7 +21,7 @@ Y así, de pronto, espoleado por la imaginación de Mier, Brading nos revela un 
 
 >Cerca de la abrupta ladera de una roca vi a dos figuras, un viejo con una barba blanca y un bella joven.[^2]
 
-¿Soñaban lo mismo Jung y Teresa de Mier? 
+¿Soñaban lo mismo Jung y fray Servando? 
 
 [^1]: David Brading, *Los orígenes del nacionalismo mexicano*, 1971, p. 48.
 [^2]: C.G. Jung, *Memories, Dreams, Refections*, p. 181, quoted in Brading p. 48 n. 3. 
