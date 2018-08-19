@@ -19,7 +19,7 @@ En un pasaje de *Los orígenes del nacionalismo mexicano* (1971), Brading da un 
 
 Y así, de pronto, espoleado por la imaginación de Mier, Brading nos revela un poco de sus propios sueños diurnos. Las Proposiciones de Mier le recuerdan un sueño narrado por Jung en su célebra autobiografía, y la similitud claramente le parece tan sugerente que respondiendo a un impulso más primario que el sentido de pertinencia, incluso nos provee, en nota, el pasaje en el que Jung describe su sueño:
 
->Cerca la abrupta ladera de una roca vi a dos figuras, un viejo con una barba blanca y un bella joven.[^2]
+>Cerca de la abrupta ladera de una roca vi a dos figuras, un viejo con una barba blanca y un bella joven.[^2]
 
 [^1]: David Brading, *Los orígenes del nacionalismo mexicano*, 1971, p. 48.
 [^2]: C.G. Jung, *Memories, Dreams, Refections*, p. 181, quoted in Brading p. 48 n. 3. 
