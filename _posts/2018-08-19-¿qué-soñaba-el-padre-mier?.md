@@ -5,7 +5,7 @@ published: true
 categories: think.stack
 ---
 
-![Coatlicue, León y Gama](/Users/davidcolmenares/Documents/hipomenes.github.io/assets/03134002.jpg)
+![Coatlicue, León y Gama]({{"/assets/02124002.jpg" | absolute_url}})
 
 El célebre sermón guadalupano de 1794 que tantos descalabros causaría a fray Servando Teresa de Mier ha sido generalmente desdeñado por la crítica moderna como la  extravagancia de un criollo patriota. En efecto, las 4 Proposiciones mediante las que Mier articuló en un solo aliento la veracidad de la aparición, la presencia evangélica en el Nuevo Mundo viviendo los apóstoles, y la identificación de Quetzalcoatl con Santo Tomás, amén de transformar el sayal de Juan Diego en una pieza de arte paleocristiano impresa del propio cuerpo de la virgen previa, parecen dignas de una imaginación febril. Sin embargo, leyendo el sermón con atención, al lado de los argumentos históricos implausibles, llama la atención la presencia de una imaginación teológica o espiritual estremecedora. En efecto, la retahila de imágenes, epítetos y "frasismos" nahuas, jalonada de apartes eruditos, etimologías imaginativas e invocaciones marianas, resulta poco menos que incediaria, y si bien el ánimo patriótico, a la luz de la biografía de Mier, es inobjetable, cabe cuando menos admitir también la vehemencia de una espiritualidd erizada de imágenes.
 
