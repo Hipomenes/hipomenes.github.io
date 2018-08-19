@@ -17,7 +17,7 @@ En un pasaje de *Los orígenes del nacionalismo mexicano* (1971), Brading da un 
 
 >La conjunción de Santo Tomás y Quetzalcóatl con Nuestra Señora de Guadalupe ofrece material para un análisis junguiano conforme a los arquetipos del viejo sabio y de la diosa virgen.[^1]
 
-Y así, de pronto, provocado por la imaginación de Mier, Brading nos revela un poco de sus propios sueños diurnos. Las Proposiciones de Mier le recuerdan un sueño narrado por Jung en su célebra autobiografía, y la similitud claramente le parece tan sugerente que respondiendo a un impulso más primario que el sentido de pertinencia, incluso nos provee, en nota, el pasaje en el que Jung describe su sueño:
+Y así, de pronto, espoleado por la imaginación de Mier, Brading nos revela un poco de sus propios sueños diurnos. Las Proposiciones de Mier le recuerdan un sueño narrado por Jung en su célebra autobiografía, y la similitud claramente le parece tan sugerente que respondiendo a un impulso más primario que el sentido de pertinencia, incluso nos provee, en nota, el pasaje en el que Jung describe su sueño:
 
 >Cerca la abrupta ladera de una roca vi a dos figuras, un viejo con una barba blanca y un bella joven.[^2]
 
