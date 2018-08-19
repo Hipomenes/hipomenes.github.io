@@ -21,5 +21,7 @@ Y así, de pronto, espoleado por la imaginación de Mier, Brading nos revela un 
 
 >Cerca de la abrupta ladera de una roca vi a dos figuras, un viejo con una barba blanca y un bella joven.[^2]
 
+¿Soñaban lo mismo Jung y Teresa de Mier? 
+
 [^1]: David Brading, *Los orígenes del nacionalismo mexicano*, 1971, p. 48.
 [^2]: C.G. Jung, *Memories, Dreams, Refections*, p. 181, quoted in Brading p. 48 n. 3. 
