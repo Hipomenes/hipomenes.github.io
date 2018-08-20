@@ -28,4 +28,4 @@ Let me formulate this self-defeating paradox as a question: Why are dissertation
 Oh, Wilson.
 
 [^1]: Which, by the way, reminds me of a famous apothegm that only makes sense in Spanish: "¿Por qué 'todo junto' se escribe separado y 'separado' todo junto?"
-[^2]: For those unlikely to be interested, the correct Memoir command is ``\DoubleSpacing``.
+[^2]: For those unlikely to be interested, the correct Memoir command is \DoubleSpacing.
