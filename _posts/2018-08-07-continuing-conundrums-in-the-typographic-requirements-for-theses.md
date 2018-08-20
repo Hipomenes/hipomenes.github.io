@@ -19,12 +19,13 @@ The section that is meant to provide technical instruction to the humble student
 
 This is not to say that Wilson fails to accommodate for the typographic requirements of the Secret Cabal of Bad Typographic Taste. In this, as in everything else, he's minute to the point of obsession. In fact, one of the most detailed examples of the Memoir manual is the one devoted precisely to an hypothetical thesis, that spans over dozens of pages and illustrates the way to use LaTeX almost against itself to produce the capricious and ugly format of a Standard Dissertation. But even in doing so, Wilson's jabs never cease. Consider, for example, the dissertation's title, that is also the title of this blog post. 
 
-But my favourite jab against the Secret Cabal appears in a footnote to the double space command (``\DoubleSpacing``, for those that might be interested), in which Wilson notes the ultimate paradox of dissertation requirement committees: by stating their capricious rules in a different format, they inevitably undermine their own authority. Lest I'm not believed, I transcribe this precious moment of Borgesian poetry:
+But my favourite jab against the Secret Cabal appears in a footnote to the double space command,[^2] in which Wilson notes the ultimate paradox of dissertation requirement committees: by stating their capricious rules in a different format, they inevitably undermine their own authority. Lest I'm not believed, I transcribe this precious moment of Borgesian poetry:
 
 ![Committes apply the rules except for themselves.]({{"/assets/wilson-fn.jpg" | absolute_url}})
 
-Let me formulate this self-defeating paradox as a question: Why are dissertation requirements prescribing double-space text invariably typed in single space?:[^1]
+Let me formulate this self-defeating paradox as a question: Why are dissertation requirements prescribing double-space text invariably typed in single space?[^1]
 
 Oh, Wilson.
 
 [^1]: Which, by the way, reminds me of a famous apothegm that only makes sense in Spanish: "¿Por qué 'todo junto' se escribe separado y 'separado' todo junto?"
+[^2]: For those unlikely to be interested, the correct Memoir command is ``\DoubleSpacing``.
