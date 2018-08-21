@@ -11,6 +11,9 @@ title: De la curiosidad
 
 En alguna ocasión comencé un curso con un muestrario de textos clásicos sobre la curiosidad y la búsqueda del conocimiento, de la *Metafísica* de Aristóteles al prólogo del Evangelio de Lucas. En este blog he escrito también [sobre la relación entre el saber y goce]({{ site.baseurl }}{% post_url 2015-11-24-motto %}). En ambos casos, pasé por alto este bello pasaje de la epístola proemial que el erasmista Francisco de Támara añadió a su traducción del célebre *De Invetoribus* de Polidoro Virgilio (Venecia, 1499). Como se sabe, el *De Inventoribus* se presenta como un catálogo universal de los inventores de todas las ciencias y artes, aún sí de acuerdo al [juicio lapidario del licenciado Basilio](https://cvc.cervantes.es/literatura/clasicos/quijote/edicion/parte2/cap22/cap22_02.htm) (*Quijote*, II, cap xxii), el humanista de Urbino pasó por alto aclarar "quién fue el primero que tuvo catarro en el mundo" y quién el primero en untarse ungüentos para la sífilis. 
 
+<blockquote class="ph0 f4 f1-ns measure-narrow center">
+<p class="fw9 lh-copy lh-title-ns">The punches of Claude Garamond, cut around 1530 in Paris, are simply unsurpassed in their clarity, readability and beauty. </p> </blockquote>
+
 El pasaje de Támara se inserta, me parece, en otra tradición, que se remonta quizá a los *Problemata* pseudo-artistotélicos. Para Támara, la inopia, la ignorancia de las cosas, se vive como una zozobra.
 
 
