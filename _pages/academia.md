@@ -5,7 +5,7 @@ title: "academia"
 
 ---
 
-# Teaching
+## Teaching
 
 {% include CV/teaching.md %}
 
