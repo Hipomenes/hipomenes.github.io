@@ -5,6 +5,5 @@ title: "academia"
 
 ---
 
-These are the [courses](/_pages/courses) I've tought at Columbia University. And here's a list of [presentations and invited talks](). 
+{% include CV/teaching.md %}
 
-This is the [current course](/span3350-fall2018.html) I'm teaching.
