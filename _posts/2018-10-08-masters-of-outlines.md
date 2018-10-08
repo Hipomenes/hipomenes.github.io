@@ -14,7 +14,7 @@ has repeatedly claimed that a two-level hierarchical structure should suffice to
 he mentions the 3-volume Feyman lectures, a grand sum of physics in 1800 pages. "Undergraduate Caltech physics is very complicated material, he wrote,
 but it didn't require an elaborate hierarchy to organize."[^tufte]
 
-![Tsong-Khapa](http://resources.christian-steinert.de/site/Buddhism/Reference%20Material/Visual%20Outline%20of%20Tsongkhapa%27s%20commentary%20on%20the%20Madhyamakavatara/MMA.png)
+![Tsong-Khapa](http://resources.christian-steinert.de/site/Buddhism/Reference%20Material/Visual%20Outline%20of%20Tsongkhapa%27s%20commentary%20on%20the%20Madhyamakavatara/illumination-outline-1.png)
 
 Despite Tufte's advice, there are and have been three-level outlines. Almost
 anything could be made to fit within such structure, the first to
@@ -57,7 +57,7 @@ there are  Tibetan outlines, sa-bcad (ས་བཅད).
 Consider, for instance
 Tsong-Khapa's *Illumination of the Thought*, his commentary on Chandrakirti’s *Madhyamakavatara*. The structure of this
 commentary would drive Edward Tufte mad: it spans into a gloriously detailed 20-level outline. See Christian Steinert's [recent 
-visualization](http://resources.christian-steinert.de/site/Buddhism/Reference%20Material/Visual%20Outline%20of%20Tsongkhapa%27s%20commentary%20on%20the%20Madhyamakavatara/illumination-outline-1.png) of this outline to get a sense of its maddening complexity.
+visualization](http://www.christian-steinert.de/home/buddhist-reference-material/visual-outline-of-tsongkhapas-commentary-on-the-madhyamakavatara) of this outline to get a sense of its maddening complexity.
 
 (To be continued...)
 
