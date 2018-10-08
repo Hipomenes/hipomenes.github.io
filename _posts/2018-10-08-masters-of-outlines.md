@@ -12,7 +12,7 @@ used. Count a man happy if he spent his days being able to distinguish
 something from its parts. Edward Tufte, the world-renowned expert on data visualization and book design,
 has repeatedly claimed that a two-level hierarchical structure should suffice to organized anything, and as an example
 he mentions the 3-volume Feyman lectures, a grand sum of physics in 1800 pages. "Undergraduate Caltech physics is very complicated material, he wrote,
-but it didn't require an elaborate hierarchy to organize.[^tufte]
+but it didn't require an elaborate hierarchy to organize."[^tufte]
 
 ![Tsong-Khapa](http://resources.christian-steinert.de/site/Buddhism/Reference%20Material/Visual%20Outline%20of%20Tsongkhapa%27s%20commentary%20on%20the%20Madhyamakavatara/MMA.png)
 
