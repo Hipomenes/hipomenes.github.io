@@ -32,7 +32,7 @@ Contrary to popular opinion, the Holy Spirit was not particularly inclined to sp
 by means of cumbersome paratexts or typographical aids: the Hebrew and the Babylonian Talmud were
 organized in a one-level structure of sections. Editorial outlining seized the Scripture only at the time of
 Eusebius of Caesarea. The famed
-Biblical scholars divided the Gospels in thematic sections, but
+Biblical scholar divided the Gospels in thematic sections, but
 the current chapter structure was created much later: in 13th-century Paris, by
 Hugh of Saint-Cher. Compared to these age-old traditions, the numbering
 of versicles is a recent fad---the mid-16th-century--- and it's hard to
@@ -48,9 +48,13 @@ can't recall ever encountering a six-level structure or outline. Playing
 with the automated indented-list function in my word processor, the
 deepest I was able to reach without breathing was a dizzying ninth
 level. After the seventh level, the standard Harvard Outline notation
-starts to repeat, as in the further reaches of Pi.[^5] These are all
-outlines. Even absurdly cumbersome outlines. But there's outlines and
-there's Tibetan outlines, sa-bcad (ས་བཅད). Consider, for instance
+starts to repeat, as in the further reaches of Pi.[^5]
+
+These are all
+outlines. Even absurdly cumbersome outlines. But there are outlines and
+there are  Tibetan outlines, sa-bcad (ས་བཅད).
+
+Consider, for instance
 Tsong-Khapa's *Illumination of the Thought*, his commentary on Chandrakirti’s *Madhyamakavatara*. The structure of this
 commentary would drive Edward Tufte mad: it spans into a gloriously detailed 20-level outline. See Christian Steinert's [recent 
 visualization](http://resources.christian-steinert.de/site/Buddhism/Reference%20Material/Visual%20Outline%20of%20Tsongkhapa%27s%20commentary%20on%20the%20Madhyamakavatara/illumination-outline-1.png) of this outline to get a sense of it's maddening complexity.
