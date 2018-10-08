@@ -80,8 +80,8 @@ visualization](http://www.christian-steinert.de/home/buddhist-reference-material
 
 [^5]: A malevolent reader of Borges would retort than in fact, the whole
     of human knowledge, the universe, God and everything that can be
-    named could be organized in the simple two-level alphabetic
-    structure of an infinite dictionary.
+    named could be organized in the simple one-level alphabetic list:
+    an infite dictionary.
 
 [^tufte]: This claim, however, flies in the face of actual books written and typeset by Edward Tufte, 
 which as a rule distinguish between Parts, Chapters, Sections, Subsections and Paragraphs: 5 levels! See for instance Edward R. Tufte.
