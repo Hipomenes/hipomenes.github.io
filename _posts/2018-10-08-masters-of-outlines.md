@@ -53,7 +53,7 @@ outlines. Even absurdly cumbersome outlines. But there's outlines and
 there's Tibetan outlines, sa-bcad (ས་བཅད). Consider, for instance
 Tsong-Khapa's *Illumination of the Thought*, his commentary on Chandrakirti’s *Madhyamakavatara*. The structure of this
 commentary would drive Edward Tufte mad: it spans into a gloriously detailed 20-level outline. See Christian Steinert's [recent 
-visualization](http://www.christian-steinert.de/home/buddhist-reference-material/visual-outline-of-tsongkhapas-commentary-on-the-madhyamakavatara) of this outline to get a sense of it's maddening complexity.
+visualization](http://resources.christian-steinert.de/site/Buddhism/Reference%20Material/Visual%20Outline%20of%20Tsongkhapa%27s%20commentary%20on%20the%20Madhyamakavatara/illumination-outline-1.png) of this outline to get a sense of it's maddening complexity.
 
 (To be continued...)
 
@@ -83,6 +83,4 @@ visualization](http://www.christian-steinert.de/home/buddhist-reference-material
     named could be organized in the simple one-level alphabetic list:
     an infite dictionary.
 
-[^tufte]: This claim, however, flies in the face of actual books written and typeset by Edward Tufte, 
-which as a rule distinguish between Parts, Chapters, Sections, Subsections and Paragraphs: 5 levels! See for instance Edward R. Tufte.
-*The Visual Display of Quantitative Information*. Graphics Press, Cheshire, Connecticut, 2001.
+[^tufte]: This claim, however, flies in the face of actual books written and typeset by Edward Tufte, which as a rule distinguish between Parts, Chapters, Sections, Subsections and Paragraphs: 5 levels! See for instance Edward R. Tufte. *The Visual Display of Quantitative Information*. Graphics Press, Cheshire, Connecticut, 2001.
