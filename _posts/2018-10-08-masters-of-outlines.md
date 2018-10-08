@@ -57,7 +57,7 @@ there are  Tibetan outlines, sa-bcad (ས་བཅད).
 Consider, for instance
 Tsong-Khapa's *Illumination of the Thought*, his commentary on Chandrakirti’s *Madhyamakavatara*. The structure of this
 commentary would drive Edward Tufte mad: it spans into a gloriously detailed 20-level outline. See Christian Steinert's [recent 
-visualization](http://resources.christian-steinert.de/site/Buddhism/Reference%20Material/Visual%20Outline%20of%20Tsongkhapa%27s%20commentary%20on%20the%20Madhyamakavatara/illumination-outline-1.png) of this outline to get a sense of it's maddening complexity.
+visualization](http://resources.christian-steinert.de/site/Buddhism/Reference%20Material/Visual%20Outline%20of%20Tsongkhapa%27s%20commentary%20on%20the%20Madhyamakavatara/illumination-outline-1.png) of this outline to get a sense of its maddening complexity.
 
 (To be continued...)
 
