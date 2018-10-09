@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Isabel de Obaldía: luz, memoria y arqueología[^1]'
+title: 'Isabel de Obaldía: luz, memoria y arqueología'
 published: true
 categories: think.stack
 ---
 
 Entre la luz y el vidrio se dirime una pugna de inevitables visos
-cosmogónicos. Inasible e incolora, la luz es esencialmente lo que se
+cosmogónicos.[^1] Inasible e incolora, la luz es esencialmente lo que se
 escapa. La invención del vidrio supuso acaso su primer sometimiento al
 mundo de la forma, la entrada del tiempo en la historia. Es imposible no
 escuchar en la conocida afirmación de Bertil Vallien---"el vidrio devora
