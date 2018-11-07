@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minimal Computing"
-published: true
+published: false
 categories: think.stack
 ---
 
