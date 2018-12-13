@@ -18,7 +18,7 @@ And here's how the environment actually looks::
 
 Bibkey auto-completion from my Zotero bibliography via Vim-Pandoc:
 
-![Autocompletion.]({{"/assets/david-irer5.jpg" | absolute_url}})
+![Autocompletion.]({{"/assets/david-ire5.jpg" | absolute_url}})
 
 Finally, this is how the final PDF looks like:
 
