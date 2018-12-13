@@ -8,11 +8,17 @@ categories: convivial.tools
 In an upcoming post, I'll describe in detail and make a beta release of what I've called David's IRE.
 Here are a few snapshots of my gorgeous VIM-based research, note-taking and academic writing environment.
 
+Here's the start screen, with recent edited files and some Cow Says wisdom:
+
 ![IRE's welcome screen.]({{"/assets/david-ire.jpg" | absolute_url}})
 
-And here's how the environment actually looks:
+And here's how the environment actually looks::
 
 ![The actual IRE.]({{"/assets/david-ire2.jpg" | absolute_url}})
+
+Bibkey auto-completion from my Zotero bibliography via Vim-Pandoc:
+
+![Autocompletion.]({{"/assets/david-irer5.jpg" | absolute_url}})
 
 Finally, this is how the final PDF looks like:
 
