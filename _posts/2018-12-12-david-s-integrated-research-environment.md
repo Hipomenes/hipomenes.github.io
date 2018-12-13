@@ -5,15 +5,16 @@ published: true
 categories: convivial.tools
 ---
 
-In an upcoming post, I'll describe in detail and make a beta release of what I've called David's IRE.
+In an upcoming post, I'll describe in detail what I've called David's IRE, also known as a Poor Man's Zettelkasten of the Future.
 Here are a few snapshots of my gorgeous VIM-based research, note-taking and academic writing environment.
 Think of a Zettelkasten à la Luhmann meets a Wiki meets Devonthink's fuzzy finding meets a Scrivener-like writing environment.
 But 10 times better.
 And all in free, sustainable plain text, granular version control, and running blazingly fast in a 2011 laptop.
+And never mind bloated Emac's org-mode: all in (almost) plain-vanila Vim.
 
-# David's IRE Shocase 
+## David's IRE Showcase 
 
-Here's the start screen, with recent edited files and some Cow Says wisdom (via Vim-Startify):
+Here's the start screen, with recent edited files and some Cow Says wisdom, via Vim-Startify:
 
 ![IRE's welcome screen.]({{"/assets/david-ire.jpg" | absolute_url}})
 
@@ -37,7 +38,7 @@ Or, for more portability, as an Epub file that I read in my Kindle:
 
 ![Epub output.]({{"/assets/david-ire6.jpg" | absolute_url}})
 
-Beautiful LaTeX typography, automatic cross references and figure numeration, and dynamic bibliographies are all nice and incredibly convenient. 
+Beautiful LaTeX typography, automatic cross references, TOCs, and figure numeration; and dynamic bibliographies and lists of figures, are all nice and incredibly convenient. 
 
-But this is nothing compared to the IRE's wiki functionality, to be shown in a upcoming post.
+But this is nothing compared to the IRE's wiki/Zettelkasten functionality, to be shown in a upcoming post. Forget about Evernote or Devonthink: this is like growing a second brain.
 
