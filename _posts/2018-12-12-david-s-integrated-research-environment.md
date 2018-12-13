@@ -28,4 +28,12 @@ Or, as a webpage using my note-taking color code:
 
 ![HTML output.]({{"/assets/david-ire4.jpg" | absolute_url}})
 
+Or as Epub file that I read in my Kindle:
+
+![Epub output.]({{"/assets/david-ire6.jpg" | absolute_url}})
+
+Beautiful typography, automatic cross-references and figure numeration, and dynamic bibliographies are all nice and convenient. 
+
+But this is nothing compared to the IRE's wiki functionality, to be shown in a upcoming post.
+
 
