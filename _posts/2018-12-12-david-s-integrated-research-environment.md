@@ -6,13 +6,13 @@ categories: convivial.tools
 ---
 
 In an upcoming post, I'll describe in detail what I've called David's IRE, also known as a Poor Man's Zettelkasten of the Future.
-Here are a few snapshots of my gorgeous VIM-based research, note-taking and academic writing environment.
+Here are a few snapshots of my gorgeous Vim-based research, note-taking and academic writing environment.
 Think of a Zettelkasten à la Luhmann meets a Wiki meets Devonthink's fuzzy finding meets a Scrivener-like writing environment.
 But 10 times better.
 And all in free, sustainable plain text, granular version control, and running blazing fast in a 2011 laptop.
 And never mind bloated Emac's org-mode: all in (almost) plain-vanilla Vim.
 
-## David's IRE Showcase 
+## David's IRE - A Showcase 
 
 Here's the start screen, with recent edited files and some Cow Says wisdom, via Vim-Startify:
 
