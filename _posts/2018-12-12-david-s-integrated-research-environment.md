@@ -9,8 +9,8 @@ In an upcoming post, I'll describe in detail what I've called David's IRE, also 
 Here are a few snapshots of my gorgeous VIM-based research, note-taking and academic writing environment.
 Think of a Zettelkasten à la Luhmann meets a Wiki meets Devonthink's fuzzy finding meets a Scrivener-like writing environment.
 But 10 times better.
-And all in free, sustainable plain text, granular version control, and running blazingly fast in a 2011 laptop.
-And never mind bloated Emac's org-mode: all in (almost) plain-vanila Vim.
+And all in free, sustainable plain text, granular version control, and running blazing fast in a 2011 laptop.
+And never mind bloated Emac's org-mode: all in (almost) plain-vanilla Vim.
 
 ## David's IRE Showcase 
 
@@ -34,7 +34,7 @@ Or, as a webpage using my note-taking color code:
 
 ![HTML output.]({{"/assets/david-ire4.jpg" | absolute_url}})
 
-Or, for more portability, as an Epub file that I read in my Kindle:
+Or, for more portability, as an Epub file that I can read in my Kindle:
 
 ![Epub output.]({{"/assets/david-ire6.jpg" | absolute_url}})
 
