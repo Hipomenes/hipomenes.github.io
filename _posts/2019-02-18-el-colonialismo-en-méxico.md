@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El colonialismo en México"
+title: "La literatura colonialista en México"
 published: true
 categories: think.stack
 ---
@@ -9,7 +9,7 @@ categories: think.stack
 
 Se nutrió de discursos académicos, cronísticos, de la historia del arte, etc. 
 
-# Los antecesores
+# Antecedentes costumbristas e históricos
 
 - Ricardo Palma, [*Tradiciones peruanas*, Lima, 1872–1910](https://archive.org/search.php?query=tradiciones%20peruanas)
 - Luis González de Obregón, [*México viejo; noticias históricas, tradiciones, leyendas y costumbres*, México, 1900](https://archive.org/details/mxicoviejoyane00gonz/page/n4)
