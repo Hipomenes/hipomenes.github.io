@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "La literatura colonialista en México"
+title: "«El alma nueva de las cosas viejas»: la literatura colonialista en México"
 published: true
 categories: think.stack
 ---
 
 ![Gabinete de Don Manuel Romero de Terreros en París](https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size4/53.180.1.jpg)
 
-Se nutrió de discursos académicos, cronísticos, de la historia del arte, etc. 
+> | *En el estanque añoso del jardín colonial*
+> | *duerme el rumor ilustre del ensueño ancestral.*
+> |                                      Alfonso Cravioto
 
 # Antecedentes costumbristas e históricos
 
@@ -19,4 +21,5 @@ Se nutrió de discursos académicos, cronísticos, de la historia del arte, etc.
 - Manuel Romero de Terreros y Vinent, [*Ex antiquis : bocetos de la vida social en la Nueva España*, Guadalajara, 1919](https://archive.org/details/exantiquisboceto00romeuoft/page/n5)
 - Manuel Romero de Terreros y Vinent, [*La puerta de bronce y otros cuentos*, México, 1922]
 - Manuel Romero de Terreros y Vinent, [*Los jardines de la Nueva España*, México, 1919](https://babel.hathitrust.org/cgi/pt?id=uc1.31158006029622;view=1up;seq=10)
+- Alfonso Cravioto, [*El alma nueva de las cosas viejas*, México, 1921](https://babel.hathitrust.org/cgi/pt?id=txu.059173025262872;view=1up;seq=13)
 
