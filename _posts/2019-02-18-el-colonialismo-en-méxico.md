@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "«El alma nueva de las cosas viejas»: la literatura colonialista en México"
+title: "El alma nueva de las cosas viejas"
 published: true
 categories: think.stack
 ---
@@ -23,7 +23,7 @@ categories: think.stack
 - Luis González de Obregón, [*México viejo y anecdotario*, México, 1911](https://archive.org/details/mxicoviejoyane00gonz)
 - Luis González de Obregón, *Vetusteces*, México, 1917
 - Manuel Romero de Terreros y Vinent, [*Ex antiquis : bocetos de la vida social en la Nueva España*, Guadalajara, 1919](https://archive.org/details/exantiquisboceto00romeuoft/page/n5)
-- Manuel Romero de Terreros y Vinent, [*La puerta de bronce y otros cuentos*, México, 1922]
+- Manuel Romero de Terreros y Vinent, [*La puerta de bronce y otros cuentos*, México, 1922]()
 - Manuel Romero de Terreros y Vinent, [*Los jardines de la Nueva España*, México, 1919](https://babel.hathitrust.org/cgi/pt?id=uc1.31158006029622;view=1up;seq=10)
 - Alfonso Cravioto, [*El alma nueva de las cosas viejas*, México, 1921](https://babel.hathitrust.org/cgi/pt?id=txu.059173025262872;view=1up;seq=13)
 
