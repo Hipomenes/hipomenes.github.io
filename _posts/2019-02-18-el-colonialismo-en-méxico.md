@@ -13,14 +13,19 @@ categories: think.stack
 
 ## Antecedentes costumbristas e históricos
 
-El colonialismo literario en México comienza con una extraña comisión: en 1861, el presidente Juárez encarga al periodista y escritor Vicente Riva Palacio la publicación de los expedientes más sonados de la Inquisición, cuyo archivo resguardó Riva Palacio durante esta convulsa década. 
-Riva Palacio decidió no publicar estos expedientes, que habría de abonar la causa liberal, sin más. 
-En cambio, comenzó un ciclo de novelas, relatos y ensayos que abrevando en el archivo inquisitorial, fueron publicándose en entregas.
-Cinco años después y seis novelas más tarde --casi todas de tema colonial-- el pensamiento histórico de Riva Palacio tomó forma.
+Hasta donde puedo ver, el colonialismo literario en México comienza con una comisión: en 1861, el presidente Juárez encarga al periodista y escritor Vicente Riva Palacio la publicación de los expedientes más sonados de la Inquisición, cuyo archivo resguardó Riva Palacio durante esta convulsa década. 
+Riva Palacio juzgó que la mejor forma de abonar la causa liberal y magnifíciar el oprobio de la más española de todas las instituciones era no publicar una enésima *Colección de documentos para la historia de México*, sino emplear los recursos de la literatura para dar nueva vida a los expedientes. 
+Fue así que, durante los siguientes cinco años, abrevó en el archivo inquisitorial en pos de materiales novelables. 
+Riva Palacio escribiría seis novelas —casi todas de tema virreinal— así como un buen número de relatos, publicados de forma independiente o en el *Libro Rojo*, escrito con Manuel Payno. 
+Su uso de las fuentes históricas fue siempre creaativo, y adoptó diversas formas. 
+Así, por ejemplo, el expediente de la familia Carvajal fue transcrito sin más en uno de los capítulos más dramáticos del *Libro Rojo*, pero utilizado libremenete como el transfondo de la primera sección ("Los criollos") del *Martín Garatuza*.
+En estos relatos y novelas por entregas, que adoptan a menudo la forma del melodrama y el relato folletinesco, Riva Palacio desarrolló también un pensamiento histórico que, en diálogo con el Renán de *Qu'est-ce qu'une nation?*, desembocaría en el monumental segundo volumen de *México a través de los siglos*.
+
+Así, la comisión juarista, que antecede las *Tradiciones* de Ricardo Palma, es el detonante directo de esta literatura que hará fortuna a lo largo de un siglo, para ser prácticamente olvidada hoy en día.
 
 - Vicente Riva Palacio, *Martín Garatuza*, México 
-- Vicente Riva Palacio, *México a travéz de los siglos*, vol. II
 - Vicente Riva Palacio, *La vuelta de los muertos*, 1870
+- Vicente Riva Palacio, *México a travéz de los siglos*, vol. II
 - Manuel Payno y Vicente Riva Palacio, *El libro rojo*, 1871
 - Ricardo Palma, [*Tradiciones peruanas*, Lima, 1872–1910](https://archive.org/search.php?query=tradiciones%20peruanas)
 - Luis González de Obregón, [*México viejo; noticias históricas, tradiciones, leyendas y costumbres*, México, 1900](https://archive.org/details/mxicoviejoyane00gonz/page/n4)
@@ -32,7 +37,7 @@ Cinco años después y seis novelas más tarde --casi todas de tema colonial-- e
 - Manuel Romero de Terreros y Vinent, [*Los jardines de la Nueva España*, México, 1919](https://babel.hathitrust.org/cgi/pt?id=uc1.31158006029622;view=1up;seq=10)
 - Alfonso Cravioto, [*El alma nueva de las cosas viejas*, México, 1921](https://babel.hathitrust.org/cgi/pt?id=txu.059173025262872;view=1up;seq=13)
 
-# Un género en forma
+## Un género en forma
 
 - Francisco Monterde, *El secreto de la "Escala"*, 1918
 - Francisco Monterde, *El madrigal de Cetina*, 
