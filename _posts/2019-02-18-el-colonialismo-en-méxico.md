@@ -13,13 +13,13 @@ categories: think.stack
 
 ## Los antecedentes
 
-Hasta donde puedo ver, el colonialismo literario en México realmente comienza con una comisión: en 1861, el presidente Juárez encarga al periodista y escritor Vicente Riva Palacio la publicación de los expedientes más sonados de la Inquisición, setenta volúmenes del cual Riva Palacio resguardó sobre esta convulsa década.
-Riva Palacio juzgó que la mejor forma de abonar la causa liberal y magnifíciar el oprobio de la más española de todas las instituciones era no publicar una enésima *Colección de documentos para la historia de México*, sino emplear los recursos de la literatura para dar nueva vida a los expedientes. 
+Hasta donde puedo ver, el colonialismo literario en México realmente comienza con una comisión: en 1861, el presidente Juárez encarga al periodista y escritor Vicente Riva Palacio la publicación de los expedientes más sonados de la Inquisición, setenta volúmenes que Riva Palacio resguardó durante esta convulsa década.
+Riva Palacio juzgó que la mejor forma de abonar la causa liberal y magnifíciar el oprobio de la más española de todas las instituciones era no publicar una *Colección de documentos para la historia de México*, sino emplear los recursos de la literatura para dar nueva vida a los expedientes. 
 Fue así que, durante los siguientes cinco años, abrevó en el archivo inquisitorial en pos de materiales novelables. 
 Riva Palacio escribiría seis novelas —casi todas de tema virreinal— así como un buen número de relatos, publicados de forma independiente o en el *Libro Rojo*, escrito con Manuel Payno. 
 Su uso de las fuentes históricas fue siempre creativo, y adoptó diversas formas. 
 Así, por ejemplo, el expediente de la familia Carvajal fue transcrito sin más en uno de los capítulos más dramáticos del *Libro Rojo*, pero utilizado libremenete como el transfondo de la primera sección ("Los criollos") del *Martín Garatuza*.
-En estos relatos y novelas por entregas, que adoptan a menudo la forma del melodrama y el relato folletinesco, Riva Palacio desarrolló también un pensamiento histórico que, en diálogo con el Renán de *Qu'est-ce qu'une nation?*, desembocaría en el monumental segundo volumen de *México a través de los siglos*.
+En estos relatos y novelas por entregas, que adoptan a menudo la forma del melodrama y el relato folletinesco, Riva Palacio desarrolló también un pensamiento histórico que, en diálogo con el Renan de *Qu'est-ce qu'une nation?*, desembocaría en el monumental segundo volumen de *México a través de los siglos*.
 
 Así, la comisión juarista, que antecede las *Tradiciones* de Ricardo Palma, es el detonante directo de esta literatura que hará fortuna a lo largo de un siglo, para ser prácticamente olvidada hoy en día.
 
@@ -34,7 +34,6 @@ Así, la comisión juarista, que antecede las *Tradiciones* de Ricardo Palma, es
 - Vicente Riva Palacio, *La vuelta de los muertos: novela histórica*, México, 1870
 - Vicente Riva Palacio, *México a travéz de los siglos*, vol. II
 - Manuel Payno y Vicente Riva Palacio, *El libro rojo*, 1871
-- Ricardo Palma, [*Tradiciones peruanas*, Lima, 1872–1910](https://archive.org/search.php?query=tradiciones%20peruanas)
 - Luis González de Obregón, [*México viejo; noticias históricas, tradiciones, leyendas y costumbres*, México, 1900](https://archive.org/details/mxicoviejoyane00gonz/page/n4)
 - Luis González de Obregón, [*Vida en México en 1811*, México, 1911](https://archive.org/details/lavidademexicoen00gonz/page/14)
 - Luis González de Obregón, [*México viejo y anecdotario*, México, 1911](https://archive.org/details/mxicoviejoyane00gonz)
