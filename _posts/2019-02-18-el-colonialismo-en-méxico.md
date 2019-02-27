@@ -11,7 +11,7 @@ categories: think.stack
 > | *duerme el rumor ilustre del ensueño ancestral.*
 > |                                      Alfonso Cravioto
 
-## Antecedentes costumbristas e históricos
+## Los antecedentes
 
 Hasta donde puedo ver, el colonialismo literario en México comienza con una comisión: en 1861, el presidente Juárez encarga al periodista y escritor Vicente Riva Palacio la publicación de los expedientes más sonados de la Inquisición, cuyo archivo resguardó Riva Palacio durante esta convulsa década. 
 Riva Palacio juzgó que la mejor forma de abonar la causa liberal y magnifíciar el oprobio de la más española de todas las instituciones era no publicar una enésima *Colección de documentos para la historia de México*, sino emplear los recursos de la literatura para dar nueva vida a los expedientes. 
