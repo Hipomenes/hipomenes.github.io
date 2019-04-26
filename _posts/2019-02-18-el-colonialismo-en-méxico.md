@@ -23,7 +23,8 @@ Su uso de las fuentes históricas fue siempre creativo, y adoptó diversas forma
 Así, por ejemplo, optó por transcibir sin más el expediente de la familia Carvajal en uno de los capítulos más dramáticos del *Libro Rojo*, pero lo utilizó libremenente como transfondo de la primera sección ("Los criollos") del *Martín Garatuza*.
 En estos relatos y novelas por entregas, que adoptan a menudo la forma del melodrama y el relato folletinesco, Riva Palacio desarrolló también un pensamiento histórico que, en diálogo con el Renan de *Qu'est-ce qu'une nation?*, desembocaría en el monumental segundo volumen de *México a través de los siglos*.
 
-Así, la comisión juarista, que antecede a las *Tradiciones* de Ricardo Palma, es el detonante directo de esta literatura que hará fortuna a lo largo de un siglo, hasta que Octavio Paz decretara su olvido al escribir, en el *Laberinto de la soledad*, que la modernidad literaria de México solo podía fundarse en una literatura capaz de abordar sin ambages la zozobra revolucionaria y no en fugas complacientes al pasado.
+Así, la comisión juarista, que antecede a las *Tradiciones* de Ricardo Palma, es el detonante directo de esta literatura que hará fortuna a lo largo de un siglo.
+Al promediar el siglo XX, Octavio Paz decretaría el olvido de esta literatura al escribir, en el *Laberinto de la soledad*, que la modernidad literaria de México solo podía fundarse en una literatura capaz de abordar sin ambages la zozobra revolucionaria y no en fugas complacientes al pasado.
 
 Ya veremos si su juicio fue válido.
 
