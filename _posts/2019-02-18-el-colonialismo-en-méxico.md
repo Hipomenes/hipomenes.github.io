@@ -26,8 +26,7 @@ En estos relatos y novelas por entregas, que adoptan a menudo la forma del melod
 Así, la comisión juarista, que antecede a las *Tradiciones* de Ricardo Palma, es el detonante directo de esta literatura que hará fortuna a lo largo de un siglo.
 Al promediar el siglo XX, Octavio Paz decretaría el olvido de esta literatura al escribir, en el *Laberinto de la soledad*, que la modernidad literaria de México solo podía fundarse en una literatura capaz de abordar sin ambages la zozobra revolucionaria y no en fugas complacientes al pasado.
 
-Ya veremos si su juicio fue válido.
-
+Ya veremos si su juicio fue certero.
 
 - José Gómez de la Cortina, *La calle de don Juan Manuel*, 1835
 - José Joaquín Pesado, *El inquisidor de México*, 1835
@@ -51,8 +50,11 @@ Ya veremos si su juicio fue válido.
 
 ## Un género en forma
 
-- Francisco Monterde, *El secreto de la "Escala"*, 1918
-- Francisco Monterde, *El madrigal de Cetina*, 
+- Francisco Monterde García Icazbalceta, *El secreto de la "Escala"*, 1918
+- Francisco Monterde García Icazbalceta, *El madrigal de Cetina*, 1918
+- Francisco Monterde García Icazbalceta, *La careta de cristal*, 1918
+- Francisco Monterde García Icazbalceta, *Moctezuma, el de la silla de oro, 1945*, 1918
+- Francisco Monterde García Icazbalceta, *El temor de Hernán Cortés y otras narraciones de la Nueva España*, 1943.
 - Ermilo Abreu Gómez, *La vida del venerable siervo de Dios, Gregorio López*, 1923
 - Genaro Estrada, *Pero Galín*, 1927
 - Julio Jiménez Rueda, *Vidas reales que parecen imaginarias*, México, 1947
