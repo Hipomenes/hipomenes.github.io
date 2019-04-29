@@ -20,8 +20,8 @@ Fue así que, durante los siguientes cinco años, Riva Palacio abrevó en el arc
 
 Riva Palacio escribiría seis novelas —casi todas de tema virreinal— así como un buen número de relatos, publicados de forma independiente o incluidos en el *Libro Rojo*, escrito con Manuel Payno. 
 Su uso de las fuentes históricas fue siempre creativo, y adoptó diversas formas según la naturaleza del material. 
-Así, por ejemplo, optó por transcibir sin más el expediente de la familia Carvajal en uno de los capítulos más dramáticos del *Libro Rojo*, pero lo utilizó libremenente como transfondo de la primera sección ("Los criollos") del *Martín Garatuza*.
-En estos relatos y novelas por entregas, que adoptan a menudo la forma del melodrama y el relato folletinesco, Riva Palacio desarrolló también un pensamiento histórico que, en diálogo con el Renan de *Qu'est-ce qu'une nation?*, desembocaría en el monumental segundo volumen de *México a través de los siglos*.
+Así, por ejemplo, optó por transcibir sin más el expediente de causa judaizantes contra la familia Carvajal, en uno de los capítulos más dramáticos del *Libro Rojo*, pero lo utilizó libremenente como transfondo de la primera parte de *Martín Garatuza* ("Los criollos"), esa novela folletinesca que ocula la tesis perversa según la cual la nación mexicana —el primer criollo— es producto de la unión ilegítima entre una critpto-judía y la nobleza nahua. 
+En estos relatos y novelas por entregas, que adoptan a menudo la forma del melodrama y el relato folletinesco, Riva Palacio desarrolló un pensamiento histórico que, en diálogo con el Renan de *Qu'est-ce qu'une nation?*, desembocaría en el monumental segundo volumen de *México a través de los siglos*.
 
 Así, la comisión juarista, que antecede a las *Tradiciones* de Ricardo Palma, es el detonante directo de esta literatura que hará fortuna a lo largo de un siglo.
 Al promediar el siglo XX, Octavio Paz decretaría el olvido de esta literatura al escribir, en el *Laberinto de la soledad*, que la modernidad literaria de México solo podía fundarse en una literatura capaz de abordar sin ambages la zozobra revolucionaria y no en fugas complacientes al pasado.
