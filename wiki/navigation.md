@@ -1,5 +1,6 @@
-# Vitae 
+# Introduction to Analysis of Hispanic Texts (LS 350) 
 
-[Home](home.md)
-[About](about.md)
-[Download](download.md)
+[Información](info.md)
+[Descripción](about.md)
+[Temario](syllabus.md)
+[Recursos](resources.md)
