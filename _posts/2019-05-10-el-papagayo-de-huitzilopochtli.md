@@ -5,6 +5,8 @@ published: true
 categories: reprints
 ---
 
+ <a class="f6 link dim br1 ph3 pv2 mb2 dib white bg-black" href="#0">Descargar en PDF</a>
+
 # El papagago de Huichilobos
 ## Manuel Romero de Terreros, Marquís de San Francisco, 1922
 
@@ -89,7 +91,7 @@ advertí trazas de sangre en el barandal de la ventana. A poco tuve
 todo aquello por una alucinación y quedé desconcertado. ¿Sería un
 preludio de locura?
 
-       *       *       *       *       *
+***
 
 No pude encontrar en el Archivo de Protocolos de Alcalá del Río los
 documentos que el Duque de Ayamonte necesitaba, y el encargado de
