@@ -58,4 +58,10 @@ Ya veremos si su juicio fue certero.
 - Ermilo Abreu Gómez, *La vida del venerable siervo de Dios, Gregorio López*, 1923
 - Genaro Estrada, *Pero Galín*, 1927
 - Julio Jiménez Rueda, *Vidas reales que parecen imaginarias*, México, 1947
+- Manuel Horta 
+- Alfonso Cravioto
+- Genaro Estrada, *Pero Galín*, 1926
+- Mariano  Silva
+- Manuel Toussaint 
+- Artemio de Valle-Arizpe.
 
