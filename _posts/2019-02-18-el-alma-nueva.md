@@ -32,7 +32,7 @@ Ya veremos si su juicio fue certero.
 - José Joaquín Pesado, *El inquisidor de México*, 1835
 - Ignacio Rodríguez Galván, *La hija del inquisidor*, 1837
 - Justo Sierra, *La hija del judío*, 1848-50
-- Vicente Riva Palacio
+- Vicente Riva Palacio:
     - *Monja y casada, virgen y mártir: historia de los tiempos de la Inquisición*, México, Imprenta de "La Constitución Social", 1868 
     - *Martín Garatuza: novela histórica*, México, 1868
     - *Las dos emparedadas: Memorias de los tiempos de la Inquisición*, México, 1869
@@ -40,12 +40,12 @@ Ya veremos si su juicio fue certero.
     - *La vuelta de los muertos: novela histórica*, México, 1870
     - *México a través de los siglos*, vol. II
 - Manuel Payno y Vicente Riva Palacio, *El libro rojo*, 1871
-- Luis González Obregón
+- Luis González Obregón:
     - [*México viejo; noticias históricas, tradiciones, leyendas y costumbres*, México, 1900](https://archive.org/details/mxicoviejoyane00gonz/page/n4)
     - [*Vida en México en 1811*, México, 1911](https://archive.org/details/lavidademexicoen00gonz/page/14)
     - [*México viejo y anecdotario*, México, 1911](https://archive.org/details/mxicoviejoyane00gonz)
     - *Vetusteces*, México, 1917
-- Manuel Romero de Terreros y Vinent
+- Manuel Romero de Terreros y Vinent:
     - [*Ex antiquis : bocetos de la vida social en la Nueva España*, Guadalajara, 1919](https://archive.org/details/exantiquisboceto00romeuoft/page/n5)
     - [*La puerta de bronce y otros cuentos*, México, 1922]()
     - [*Los jardines de la Nueva España*, México, 1919](https://babel.hathitrust.org/cgi/pt?id=uc1.31158006029622;view=1up;seq=10)
