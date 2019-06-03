@@ -32,13 +32,13 @@ Ya veremos si su juicio fue certero.
 - José Joaquín Pesado, *El inquisidor de México*, 1835
 - Ignacio Rodríguez Galván, *La hija del inquisidor*, 1837
 - Justo Sierra, *La hija del judío*, 1848-50
-- Vicente Riva Palacio:
+- Los "novelones" de Vicente Riva Palacio:
     - *Monja y casada, virgen y mártir: historia de los tiempos de la Inquisición*, México, Imprenta de "La Constitución Social", 1868 
     - *Martín Garatuza: novela histórica*, México, 1868
     - *Las dos emparedadas: Memorias de los tiempos de la Inquisición*, México, 1869
     - *Los piratas del golfo: novela histórica*, México, 1869
     - *La vuelta de los muertos: novela histórica*, México, 1870
-    - *México a través de los siglos*, vol. II
+    - Y su importante *México a través de los siglos*, vol. II
 - Manuel Payno y Vicente Riva Palacio, *El libro rojo*, 1871
 - Luis González Obregón:
     - [*México viejo; noticias históricas, tradiciones, leyendas y costumbres*, México, 1900](https://archive.org/details/mxicoviejoyane00gonz/page/n4)
@@ -48,8 +48,6 @@ Ya veremos si su juicio fue certero.
 - Manuel Romero de Terreros y Vinent:
     - [*Ex antiquis : bocetos de la vida social en la Nueva España*, Guadalajara, 1919](https://archive.org/details/exantiquisboceto00romeuoft/page/n5)
     - [*La puerta de bronce y otros cuentos*, México, 1922]()
-    - [*Los jardines de la Nueva España*, México, 1919](https://babel.hathitrust.org/cgi/pt?id=uc1.31158006029622;view=1up;seq=10)
-- Alfonso Cravioto, [*El alma nueva de las cosas viejas*, México, 1921](https://babel.hathitrust.org/cgi/pt?id=txu.059173025262872;view=1up;seq=13)
 
 ## Un género en forma
 
@@ -63,7 +61,7 @@ Ya veremos si su juicio fue certero.
 - Genaro Estrada, *Pero Galín*, 1927
 - Julio Jiménez Rueda, *Vidas reales que parecen imaginarias*, México, 1947
 - Manuel Horta 
-- Alfonso Cravioto
+- El poeta del colonialismo Alfonso Cravioto: [*El alma nueva de las cosas viejas*, México, 1921](https://babel.hathitrust.org/cgi/pt?id=txu.059173025262872;view=1up;seq=13)
 - Genaro Estrada, *Pero Galín*, 1926
 - Mariano  Silva
 - Manuel Toussaint 
