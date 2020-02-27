@@ -10,7 +10,7 @@ permalink:        /:categories/:title
 title:            dhc
 tagline:          ''
 description:      ''
-url:              https://hipomenes.github.io
+url:              https://hipomenes.github.io/dhc
 
 # Required if you want to move pages into a a separate directory
 include: ['_pages']
@@ -18,9 +18,9 @@ relative_permalinks: false
 
 author:
   name:           'David H. Colmenares'
-  url:            https://davidcolmenares.org
+  url:            https://hipomenes.github.io/dhc
 
 # Custom vars
 
 github:
-  repo:          https://github.com/hipomenes/hipomenes.github.io 
+  repo:          https://github.com/hipomenes/dhc 
