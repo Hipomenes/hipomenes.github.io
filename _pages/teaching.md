@@ -4,6 +4,7 @@ permalink: /teaching/
 title: "teaching"
 ---
 
-Thaught courses:
+## Teaching
 
-"""""{% include CV/07-teaching.md %}
+
+{% include CV/teaching.md %}
