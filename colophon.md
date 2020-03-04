@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: colophon.html
+permalink: /colophon/
 ---
 
 This is a static site writen in plain-text markdown, renderd by [Jekyll](https://jekyllrb.com), and hosted freely at [Github Pages](https://pages.github.com). The design is a fork of Dennis Tenen's [site](http://denten.plaintext.in), which uses the [Tachyons](http://tachyons.io) CSS framework. The type used is [Egenolff-Berner Garamond](http://www.georgduffner.at/ebgaramond/), an open source Garamond based on the [homonimous specimen (Frankfurt, 1592)](http://signes.org/set.php?id=122) and digitalized by Georg Duffner. 
