@@ -1,7 +1,7 @@
 ---
 layout: about
-permalink: /about/
-title: "Vitae"
+permalink: /vitae/
+title: "vitae"
 ---
 
 I'm **David Horacio Colmenares**, Assistant Professor of Spanish at the Department of Romance Studies in Boston University.
