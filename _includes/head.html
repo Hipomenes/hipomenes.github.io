@@ -31,13 +31,13 @@
 
 <body class="center f4 fw1 mw9 mw7-ns near-black normal pa3 ph4-ns">
 
-    <div class="bt bw2 helvetica fw4 mb3 mt0 pt2 ph2 tc tl-ns">
+    <div class="bt bw2 helvetica fw6 mb3 mt0 pt2 ph2 tc tl-ns">
        david h. colmenares 
        
         {% if page.title %}
-            <a href="{{ site.url }}" class="black code fw1 hover-red no-underline">⨳</a>
+            <a href="{{ site.url }}" class="black code fw2 hover-red no-underline">⨳</a>
         {% else %}
-            <a href="{{ site.url }}" class="code fw1 no-underline red">⨳</a>
+            <a href="{{ site.url }}" class="code fw2 no-underline red">⨳</a>
         {% endif %}
 
         {% assign sorted_pages = site.pages | sort:"title" %}
