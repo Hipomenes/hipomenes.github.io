@@ -1,7 +1,7 @@
 ---
 layout: cats
-permalink: /teaching/
-title: "teaching"
+permalink: /projects/
+title: "projects"
 ---
 
 ## Teaching

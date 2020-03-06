@@ -1,7 +1,7 @@
 ---
 layout: notes
-permalink: /blog/
-title: "blog"
+permalink: /notes/
+title: "notes"
 ---
 
 Here are some of my daily and always untimely mussings. 
