@@ -25,7 +25,7 @@ For bibliographic references, the `IRE` has Bibkey auto-completion from my Zoter
 
 ![Autocompletion.]({{"/assets/david-ire5.jpg" | absolute_url}})
 
-Finally, this is how a PDF looks like:
+Finally, this is how a PDF looks like, via PANDOC-XeLaTeX conversion:
 
 ![PDF output.]({{"/assets/david-ire3.jpg" | absolute_url}})
 
