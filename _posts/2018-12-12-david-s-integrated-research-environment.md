@@ -7,7 +7,7 @@ categories: convivial.tools
 
 In an upcoming post, I will describe in detail what I've called `David's IRE`, also known as the Poor Man's Wiki or the Luddite's Ultimate Techno-Zettelkasten. 
 Here are a few snapshots of my VIM-based note-taking, research and academic writing environment.
-Think of the `IRE` as a combination of Zettelkasten à la Luhmann, a Wiki knowledge base with Devonthink Think-like fuzzy finding, and a Scrivener-like writing environment. 
+Think of the `IRE` as a combination of a Zettelkasten à la Luhmann, a Wiki knowledge base with Devonthink Think-like fuzzy finding, and a Scrivener-like writing environment. 
 And all in free, sustainable plain text, granular version control through Github, and running blazinggly fast in the terminal of a 2011 MacBook Air.
 And never mind bloated Emac's org-mode: almost all works in plain-vanilla VIM.
 
