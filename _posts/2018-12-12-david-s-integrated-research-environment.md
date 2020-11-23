@@ -21,7 +21,7 @@ Here's how the environment actually looks like. Notice the syntax highlighting, 
 
 ![The actual IRE.]({{"/assets/david-ire2.jpg" | absolute_url}})
 
-For bibliographic references, the `IRE`has Bibkey auto-completion from my Zotero bibliography via Vim-Pandoc:
+For bibliographic references, the `IRE` has Bibkey auto-completion from my Zotero bibliography via Vim-Pandoc:
 
 ![Autocompletion.]({{"/assets/david-ire5.jpg" | absolute_url}})
 
