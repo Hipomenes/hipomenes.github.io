@@ -1,7 +1,7 @@
 ---
 layout: notes
 permalink: /notes/
-title: "Minutiae"
+title: "minutiae"
 ---
 
 # Alacena de minucias
