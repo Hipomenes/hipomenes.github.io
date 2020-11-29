@@ -1,6 +1,6 @@
 ---
 layout: notes
-permalink: /notes/
+permalink: /minutiae/
 title: "Minutiae"
 ---
 
