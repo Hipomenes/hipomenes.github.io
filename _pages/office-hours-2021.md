@@ -1,5 +1,5 @@
 ---
-layout: galeria 
+layout: page 
 permalink: /horas/
 ---
 
