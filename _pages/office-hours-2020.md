@@ -9,6 +9,4 @@ permalink: /office-hours/
 
 <h2 class="f3">Fall 2020</h2>
 
-Mondays and Wednesdays, 3:30 - 5:30 PM
-
-<a class="f6 link dim br-pill ba bw1 ph3 pv2 mb2 dib black" href="https://calendly.com/dhcg/">Sign Up</a> 
+Mondays and Wednesdays, 3:30 - 5:30 PM <a class="f6 link dim br-pill ba bw1 ph3 pv2 mb2 dib black" href="https://calendly.com/dhcg/">Sign Up</a> 
