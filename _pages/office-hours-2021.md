@@ -19,7 +19,7 @@ permalink: /horas/
 </article>
 
 
-<section class="tc pa3 pa5-ns">
+<section class="tc pa5 pa5-ns">
   <article class="hide-child relative ba b--black-20 mw5 center">
     <img src="https://images.metmuseum.org/CRDImages/dp/original/DP820349.jpg" class="db w-100 br2" alt="My office" />
     <div class="pa2 bt b--black-20">
