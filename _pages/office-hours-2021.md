@@ -30,3 +30,5 @@ permalink: /horas/
     <a class="child absolute top-1 right-1 ba bw1 black-40 grow no-underline br-100 w1 h1 pa2 lh-solid b" href="#">×</a>
   </article>
 </section>
+
+<img src="https://images.metmuseum.org/CRDImages/dp/original/DP820349.jpg" alt="Me in my office." height="800">
