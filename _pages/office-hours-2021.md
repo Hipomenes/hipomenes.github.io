@@ -1,6 +1,6 @@
 ---
 layout: blank
-permalink: /horas/
+permalink: /office-hours/
 ---
 
 <section class="tc pa3 pa5-ns">
