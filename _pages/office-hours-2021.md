@@ -18,3 +18,15 @@ permalink: /horas/
   </div>
 </article>
 
+
+<section class="tc pa3 pa5-ns">
+  <article class="hide-child relative ba b--black-20 mw5 center">
+    <img src="https://images.metmuseum.org/CRDImages/dp/original/DP820349.jpg" class="db" alt="My office" />
+    <div class="pa2 bt b--black-20">
+      <a class="f4 db link dark-blue hover-blue" href="#">Office Hours</a>
+      <p class="f3 gray mv1">5 mutual friends</p>
+      <a class="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="#">Add Friend</a>
+    </div>
+    <a class="child absolute top-1 right-1 ba bw1 black-40 grow no-underline br-100 w1 h1 pa2 lh-solid b" href="#">×</a>
+  </article>
+</section>
