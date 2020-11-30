@@ -1,5 +1,5 @@
 ---
-layout: blank 
+layout: page 
 permalink: /horas/
 ---
 
