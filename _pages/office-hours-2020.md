@@ -7,7 +7,7 @@ permalink: /office-hours/
 
 ![](https://clarkart.files.wordpress.com/2010/12/saint-jerome-in-his-study.jpg)
 
-<h2 class="f3">Office Hours</h2>
+<h2 class="f3">Fall 2020</h2>
 
 Mondays and Wednesdays, 3:30 - 5:30 PM
 
