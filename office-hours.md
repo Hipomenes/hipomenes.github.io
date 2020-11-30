@@ -1,5 +1,5 @@
 ---
-layout: office
+layout: page 
 permalink: /office-hours/
 ---
 
