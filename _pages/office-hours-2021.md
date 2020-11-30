@@ -11,7 +11,7 @@ permalink: /horas/
   <div class="pa3 bt">
     <p class="f6 f5-ns lh-copy measure mv0">
       During the Fall 2021, my office hours are on Mondays and Wednesdays from 3:30 to 5:30 pm. 
-        href="https://calendly.com/dhcg/">Sign Up</a>
+        <a> href="https://calendly.com/dhcg/">Sign Up</a>
     </p>
   </div>
 </article>
