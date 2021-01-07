@@ -1,5 +1,10 @@
 
 
+### 2021
+
+- [**Fiesta y enigma en la literatura del México virreinal**](hipomenes.github.io/novohispana) (LS 576). Spring.
+- [**Colonial/Moderna: imaginaros coloniales en la literatura latinoamericana](https://hipomenes.github.io/colonial-modern/#!index.md). Boston University (LS 350). Spring 
+
 ### 2020
 
 - [**La ciudad y la intemperie**: itinerarios de la literatura novohispana](). Boston University (LS576). Fall
