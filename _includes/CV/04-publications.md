@@ -1,6 +1,7 @@
 ## Publications
 
-- "*Su herencia fue el llanto*. Pathos, memoria y condensación temporal en los *Cantares mexicanos*," *Colonial Latin American Review* (forthcoming, Jan 2021)
+- "*Su herencia fue el llanto*. Pathos, memoria y condensación temporal en los *Cantares mexicanos*," *Colonial Latin American Review* (forthcoming in 2021)
+- "Katherine of Aragon's Divorce Hearing: Dramatic Historiography in Calderón’s *La Cisma de Inglaterra* and Shakespeare's *All is True*." eHumanista (forthcoming) 
 
 ## Manuscripts in Progress
 
