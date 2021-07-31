@@ -5,7 +5,7 @@ permalink: /office-hours/
 
 <section class="tc pa3 pa5-ns">
   <article class="hide-child relative ba b--black-20 mw6 center">
-    <img src="https://images.metmuseum.org/CRDImages/dp/original/DP820349.jpg" class="db w-300 br2" alt="My office" />
+    <img src="/assets/office-hours.jpg" class="db w-300 br2" alt="My office" />
     <div class="pa2 bt b--black-20">
       <a class="f3 db link black grey" href="#">Office Hours</a>
       <p class="f4 gray mv1">During the Spring 2021 semester, my virtual office hours are on Mondays (5-7pm) and Fridays (5-6pm).</p>
