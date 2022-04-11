@@ -4,4 +4,18 @@ permalink: /talks/
 title: "talks"
 ---
 
-{% include CV/06-talks.md %}
+## Invited talks, Conferences and Organized Panels
+
+- “Mexico: an American Egypt.” Invited keynote lecture at the Museum Matters series organized by the International Committee for Egyptology (CIPEG) at  the International Council of Museums (ICOM), North Carolina Museum of Art, 23 April 2022.
+- “Invisible Mediations: Indigenous Intellectuals in Nineteenth-Century Mexico.” Organized session, LASA 2022. Presentation: “‘El último nahuatlato’: Mariano Jacobo Rojas and the Cantares Mexicanos.”
+- “Collation and Persuasion: Knowledge-Making in fray Bernardino de Sahagún’s Nahua Scriptorium.” Accepted paper at RSA 2022, Dublin.
+- “Remember Chapultepec: History of Emotions and Emotive Histories among the Nahua.” ASE 2021. Session: “Emotive Readings of the Aztec/Nahua Codices.” November 12, 2021.
+- “Semantics and Sediments of Time: Historical Time in Nineteenth-Century Spanish America” Organized session, LASA 2021. Presentation: “The First and Last Nahuatlato: Scribal Traditions and Divergent Modernities in 19th-Century Mexico.”
+- “Printed Afterlives: Early Hispanic Books and Manuscripts in the 19th Century.” A one-day virtual symposium at Boston University, May 7, 2021. Co-organized with Dr. Anita Savo
+- “The Plaza and the Court: Popular echoes in Sor Juana’s El Divino Narciso” Talk delivered in the course “Introduction to Theater and Performance Studies”, May 4, 2021 Stanford University, invited by Dr. Aileen Robinson,
+- “The Nican Mopohua.” Talk delivered in the course “Introduction to Hispanic Literature”, Lafayette College, invited by Dr. Adrian Espinoza, March 1, 2021
+- “The Memorialization of Christopher Columbus in the Americas.” CLAS, Boston University, August, 2020; and Villanova University, October 12, 2020
+- “Diachronic Entanglements: Bookish Historiographies in the Long Nineteenth Century.” Organized session, LASA 2020. Presentation: “‘He entrado a la tierra de variadas flores’. El advenimiento intempestivo de la poesía náhuatl.”
+- “The Plaza and the Court: Popular echoes in Sor Juana’s El Divino Narciso” Talk delivered in the course “Introduction to Theater and Performance Studies”, Stanford University, invited by Dr. Aileen Robinson, May 2020
+- “New Lands, New Stars.” Presentation at “From the Earth to the Skies: Celestial Images as Technologies of Cultural Transfer across the Americas,” An international workshop at the John Carter Brown Library from April 6-10, 2020 (re-scheduled)
+- “Mexico 1519. Five centuries, five objects, five perspectives.” Presentation by invitation, John Carter Brown, Providence, November 2019
