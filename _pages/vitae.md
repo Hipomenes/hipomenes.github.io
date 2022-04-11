@@ -4,12 +4,13 @@ permalink: /cv/
 title: "vitae"
 ---
 
-# Education 
-  <ol class="fa-ul">
-    <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>PhD in Latin American and Iberian Cultures, Columbia University (2019) </li>
-    <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>MPhil in Latin American and Iberian Cultures, Columbia University (2012)</li>
+## Education 
+<ol class="fa-ul">
+  <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>PhD in Latin American and Iberian Cultures, Columbia University (2019) </li>
+  <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>MPhil in Latin American and Iberian Cultures, Columbia University (2015)</li>  
+  <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>MA in Latin American and Iberian Cultures, Columbia University (2012)</li>
     <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>MA in Philosophy, Katholieke Universiteit Leuven, Belgium, 2009</li>
-  </ol>
+</ol>
 
 
 I'm **David Horacio Colmenares**, Moorman-Simon Assistant Professor of Spanish at the Department of Romance Studies in Boston University.
