@@ -15,6 +15,16 @@ title: "projects"
     <li><span class="fa-li"><i class="far fa-square"></i></span>in lists</li>
 </ul>
 
+Y otros más:
+
+<ol class="fa-ul">
+    <li><span class="fa-li"><i class="fas fa-check-square"></i></span>List icons can</li>
+    <li><span class="fa-li"><i class="fas fa-check-square"></i></span>be used to</li>
+    <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>replace bullets</li>
+   <li><span class="fa-li"><i class="far fa-square"></i></span>in lists</li>
+</ol>
+
+
 
  
 {% include CV/05-projects.md %}
