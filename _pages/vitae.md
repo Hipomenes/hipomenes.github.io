@@ -12,6 +12,14 @@ title: "vitae"
     <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>MA in Philosophy, Katholieke Universiteit Leuven, Belgium, 2009</li>
 </ol>
 
+## Fellowships and Awards 
+<ol class="fa-ul">
+  <li><span class="fa-li"><i class="fa fa-university"></i></span>Boston University Moorman-Simon Interdisciplinary Career Development Professorship (2020-2023)</li>
+  <li><span class="fa-li"><i class="fa fa-university"></i></span>Dumbarton Oaks Summer Research Fellowship (2019)</li>  
+  <li><span class="fa-li"><i class="fa fa-university"></i></span>Ángel del Río Prize for Excellence in Graduate Spanish Studies for best dissertation chapter (2018)</li>
+    <li><span class="fa-li"><i class="fa fa-university"></i></span>The John Carter Brown Library Short Term Fellowship (2018)</li>
+</ol>
+
 
 I'm **David Horacio Colmenares**, Moorman-Simon Assistant Professor of Spanish at the Department of Romance Studies in Boston University.
 
