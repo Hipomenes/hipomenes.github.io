@@ -4,7 +4,10 @@ permalink: /cv/
 title: "vitae"
 ---
 
-## Current Position
+<br>
+<br>
+
+## Current Appointment
 <ol class="fa-ul">
   <li><span class="fa-li"><i class="fa fa-user-circle"></i></span>Moorman-Simon Assistant Professor of Spanish, Boston University (2019)</li>
 </ol>
@@ -19,6 +22,7 @@ title: "vitae"
 
 ## Fellowships and Awards 
 <ol class="fa-ul">
+  <li><span class="fa-li"><i class="fa fa-university"></i></span>Junior Fellow at Boston University's Humanities Center (Fall 2023)</li>
   <li><span class="fa-li"><i class="fa fa-university"></i></span>Boston University Moorman-Simon Interdisciplinary Career Development Professorship (2020-2023)</li>
   <li><span class="fa-li"><i class="fa fa-university"></i></span>Dumbarton Oaks Summer Research Fellowship (2019)</li>  
   <li><span class="fa-li"><i class="fa fa-university"></i></span>Connecting Art Histories in the Museum Fellow, Kunsthistorisches Institut in Florenz – Max Planck Institut / Staatliche Museen zu Berlin (2015-2016)</li>
