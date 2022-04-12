@@ -6,7 +6,7 @@ title: "vitae"
 
 ## Current Position
 <ol class="fa-ul">
-  <li><span class="fa-li"><i class="fa fa-user-circle"></i></span>Moorman-Simon Assistant Professor of Spanish, 2019</li>
+  <li><span class="fa-li"><i class="fa fa-user-circle"></i></span>Moorman-Simon Assistant Professor of Spanish, Boston University (2019)</li>
 </ol>
 
 ## Education 
