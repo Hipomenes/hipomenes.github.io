@@ -5,14 +5,13 @@ title: "vitae"
 ---
 
 ## Current Position
-
 <ol class="fa-ul">
-  <li><span class="fa-li"><i class="fa-circle-o"></i></span>Moorman-Simon Assistant Professor of Spanish, 2019 </ol>
-
+  <li><span class="fa-li"><i class="fa-circle-o"></i></span>Moorman-Simon Assistant Professor of Spanish, 2019</li>
+</ol>
 
 ## Education 
 <ol class="fa-ul">
-  <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>PhD in Latin American and Iberian Cultures, Columbia University (2019) </li>
+  <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>PhD in Latin American and Iberian Cultures, Columbia University (2019)</li>
   <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>MPhil in Latin American and Iberian Cultures, Columbia University (2015)</li>  
   <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>MA in Latin American and Iberian Cultures, Columbia University (2012)</li>
     <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>MA in Philosophy, Katholieke Universiteit Leuven, Belgium, 2009</li>
