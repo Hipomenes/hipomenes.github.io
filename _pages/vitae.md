@@ -27,3 +27,7 @@ title: "vitae"
 
 [PDF](/assets/dhc-cv-2018.pdf).
 
+<div class="ph3">
+  <h1 class="f6 fw6 ttu tracked">Basic button</h1>
+  <a class="f6 link dim br2 ph3 pv2 mb2 dib white bg-black" href="#0">Download CV</a>
+</div>
