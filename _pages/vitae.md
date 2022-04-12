@@ -25,9 +25,9 @@ title: "vitae"
     <li><span class="fa-li"><i class="fa fa-university"></i></span>The John Carter Brown Library Short Term Fellowship (2018)</li>
 </ol>
 
-[PDF](/assets/dhc-cv-2018.pdf).
+<br>
+<br>
 
 <div class="ph3">
-  <h1 class="f6 fw6 ttu tracked">Basic button</h1>
-  <a class="f6 link dim br2 ph3 pv2 mb2 dib white bg-black" href="#0">Download CV</a>
+  <a class="f6 link dim br2 ph3 pv2 mb2 dib white bg-black" href="/assets/dhc-cv-2018.pdf">Download CV</a>
 </div>
