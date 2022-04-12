@@ -29,5 +29,5 @@ title: "vitae"
 <br>
 
 <div class="ph3">
-  <a class="f6 link dim br2 ph3 pv2 mb2 dib white bg-black" href="/assets/dhc-cv-2018.pdf">Download CV</a>
+  <a class="f6 link dim br2 ph3 pv2 mb2 dib white bg-black" href="/assets/CV-dhc-04-2022.docx.pdf">Download CV</a>
 </div>
