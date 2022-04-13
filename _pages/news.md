@@ -14,6 +14,9 @@ See some of my recent activities:
     </div>
 {% endif %}
 
+
+------
+
 <div class="fl w-100">
 {% for post in site.categories.news %}
     <time class="di-ns f6 ttu tracked gray code">
@@ -21,9 +24,14 @@ See some of my recent activities:
     </time>
 
     <div class="di-ns mb2">
-    <a class="link black hover-red" href="{{ BASE_PATH }}{{ post.url }}">
+    <a class="link black bold hover-red" href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
-    </a><br>
+    </a>
+        <time class="fw8-m black">
+        {{ post.excerpt }}
+    </time> 
     </div>
 {% endfor %}
+<br>
 </div>
+
