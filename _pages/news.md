@@ -25,7 +25,7 @@ See some of my recent activities:
     <a class="link black bold hover-red" href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
     </a>
-        <time class="fw8-m black">
+        <time class="fw8-m grey">
         {{ post.excerpt }}
     </time> 
     </div>
