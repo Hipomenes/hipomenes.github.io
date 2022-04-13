@@ -15,6 +15,7 @@ layout: default
 
 <div class="fl w-100">
 {% for post in site.posts %}
+{% unless post.categories contains 'news' %}
     <time class="di-ns f6 ttu tracked gray code">
         {{ post.date | date_to_string }}
     </time>
@@ -24,5 +25,6 @@ layout: default
         {{ post.title }}
     </a><br>
     </div>
+{% endunless %}
 {% endfor %}
 </div>
