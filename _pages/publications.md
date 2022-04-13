@@ -5,8 +5,13 @@ title: "publications"
 ---
 
 ## Books
-- *A New String for the Mexican Lyre: The Literary Discovery of Nahuatl Poetry (1826-1941)*. Under contract with Vanderbilt University Press in the Critical Mexican Studies series.
-- *Taming Teotl: an Hermeneutical History of the Aztec Gods.* Advanced manuscript.
+<ol class="fa-ul">
+  <li><span class="fa-li"><i class="fa fa-book"></i></span><i>A New String for the Mexican Lyre: The Literary Discovery of Nahuatl Poetry (1826-1941)</i>. Under contract with Vanderbilt University Press in the Critical Mexican Studies series.</li>
+  <li><span class="fa-li"><i class="fa fa-book"></i></span><i>Taming Teotl: an Hermeneutical History of the Aztec Gods.</i> Advanced manuscript.</li>   
+</ol>
+
+- 
+- 
 
 ## Articles
 - David Horacio Colmenares (2021) “‘Su herencia fue el llanto.’ Pathos, memoria y condensación temporal en los Cantares mexicanos.” *Colonial Latin American Review*, 30: 1, 3-24, DOI: 10.1080/10609164.2020.1865721 
