@@ -30,8 +30,10 @@ My research happens at the intersection of early modern and Mesoamerican studies
     <div class="di-ns mb2">
     <a class="link black hover-red" href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
-        {{ post.excerpt }}
     </a><br>
+        <time class="di-ns f6 ttu tracked black">
+        {{ post.excerpt }}
+    </time> 
     </div>
 {% endfor %}
 <br>
