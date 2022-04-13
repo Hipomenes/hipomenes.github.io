@@ -15,8 +15,6 @@ See some of my recent activities:
 {% endif %}
 
 
-------
-
 <div class="fl w-100">
 {% for post in site.categories.news %}
     <time class="di-ns f6 ttu tracked gray code">
