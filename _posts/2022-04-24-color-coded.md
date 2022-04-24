@@ -7,13 +7,24 @@ categories: think
  
 I have used a color code in my hand-written notes since grad school.
 I experimented with several "syntax highlighting" schemes (i.e. definitions of what should be highlighted, such as quotes, references, concepts, etc. ), as well as a color palette to reflect the syntax. These palettes have ranged from as many as five colors, which of course was unwieldy, to a minimum of two, which I still tend to use when writing with fountain pens.
+
+Here's a detailed scheme that I used for several years, already inspired by the famous [Solarized theme](https://ethanschoonover.com/solarized/):
+
+![color codes](/assets/color-code.png)
  
-For several years, I used the same color code in my hand-written notes and in RTF text files, which in retrospect sounds maddening: I had to manually edit the color attribute of every string. (At the time I was frankly obsessive about this, and even used small caps for titles, etc.)
-Here's a recent note with a somewhat lazy color coding:
- 
+When I was writting my dissertation, I used the same color code in my hand-written notes and in RTF text files, which in retrospect sounds maddening: I had to manually edit the color attribute of every string. 
+The thing quickly got out of hand and became utterly impractical. Here are a few examples:
+
+![color codes](/assets/rt1-color1.png)
+
+![color codes](/assets/rt1-color2.png)
+
+I eventually stopped hand-coloring Rich Text Format files, but to this day I use a simplified color coding in my notebooks.  
+Here is a more recent exampple with a minimal color coding:
+
 ![notas](/assets/IMG_0183.jpg)
  
-When I adopted Markdown + Pandoc as my scholarship writing method in 2017, and then learned to use Vim, I abandoned my old color code scheme and settled for Vim-Panoc's beautiful syntax highlighting. (I kept using it, though, in my hand-written notes.)
+When I adopted Markdown + Pandoc in 2017, and then learned to use Vim, I abandoned my old color code scheme and settled for Vim-Panoc's beautiful syntax highlighting. (I kept using it, though, in my hand-written notes.)
 The structured text that this creates by default is good enough, and preserves the immense advantage of color coding, which is to allow you to identify semantically relevant fields at a glance, even if most of these have to do with the Markdown syntax (an exception to this is the default coloring of strings of text in cursive, which tend to be titles; text within footnotes; and block quotes.)
  
 But I recently decided to try my hand at enriching Vim-Pandoc syntax highlighting with some custom definitions that recover part of my original color code.
