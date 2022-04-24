@@ -18,13 +18,13 @@ This should be easy, considering that quoted text is are conventionally written.
 So after a few hours tinkering with Vim I was able to have this working custom syntax added to the standard (and excellent) Vim-Pandoc-Syntax.
 The key is to add this rules to a new file: `~/.vim/after/syntax/pandoc.vim`
 
-!(pandoc.vim)[/assets/sc1.png]
+![pandoc.vim](/assets/sc1.png)
 
 These commands simply define a new highliting group (`inlineQuote`) based on a simple regex. (TODO: simply this regex as much as possible), and then assign it the highliting color `Constant`.
 
 The result is this beatiful combination of markdown syntax highliting (using the Vim's conceal function) plus the fundamental element of my old color code: anything that is a quoted text should be in a different color.
 
-!(pandoc.vim)[/assets/sc2.png]
+![pandoc.vim](/assets/sc2.png)
 
 ## Todo
 
