@@ -7,21 +7,21 @@ categories: think
  
 I have used a color code in my hand-written notes since grad school.
 I experimented with several "syntax highlighting" schemes (i.e. definitions of what should be highlighted, such as quotes, references, concepts, etc. ), as well as a color palette to reflect the syntax. These palettes have ranged from as many as five colors, which of course was unwieldy, to a minimum of two, which I still tend to use when writing with fountain pens.
-
+ 
 Here's a detailed scheme that I used for several years, already inspired by the famous [Solarized theme](https://ethanschoonover.com/solarized/):
-
+ 
 ![color codes](/assets/color-code.png)
  
-When I was writting my dissertation, I used the same color code in my hand-written notes and in RTF text files, which in retrospect sounds maddening: I had to manually edit the color attribute of every string. 
+When I was writing my dissertation, I used the same color code in my hand-written notes and in RTF text files, which in retrospect sounds maddening: I had to manually edit the color attribute of every string. 
 The thing quickly got out of hand and became utterly impractical. Here are a few examples:
-
+ 
 ![color codes](/assets/rtf-color1.png)
-
+ 
 ![color codes](/assets/rtf-color2.png)
-
+ 
 I eventually stopped hand-coloring Rich Text Format files, but to this day I use a simplified color coding in my notebooks.  
-Here is a more recent exampple with a minimal color coding:
-
+Here is a more recent example with a minimal color coding:
+ 
 ![notas](/assets/IMG_0183.jpg)
  
 When I adopted Markdown + Pandoc in 2017, and then learned to use Vim, I abandoned my old color code scheme and settled for Vim-Panoc's beautiful syntax highlighting. (I kept using it, though, in my hand-written notes.)
@@ -45,5 +45,4 @@ The result is a beautiful combination of markdown syntax highlighting (using the
  
 - Simplify regex as much as possible, have it ignore the actual quote signs, and try to avoid potential conflict with Markdown's footnote syntax.
 - Maybe implement a highlighting group that identifies proper names (technically, two or three words in a row that begin with a capital letter), the second most important element of my note-taking color code.
- 
  
