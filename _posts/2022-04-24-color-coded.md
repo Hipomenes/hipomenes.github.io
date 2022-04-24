@@ -15,9 +15,9 @@ Here's a detailed scheme that I used for several years, already inspired by the 
 When I was writting my dissertation, I used the same color code in my hand-written notes and in RTF text files, which in retrospect sounds maddening: I had to manually edit the color attribute of every string. 
 The thing quickly got out of hand and became utterly impractical. Here are a few examples:
 
-![color codes](/assets/rt1-color1.png)
+![color codes](/assets/rtf-color1.png)
 
-![color codes](/assets/rt1-color2.png)
+![color codes](/assets/rtf-color2.png)
 
 I eventually stopped hand-coloring Rich Text Format files, but to this day I use a simplified color coding in my notebooks.  
 Here is a more recent exampple with a minimal color coding:
