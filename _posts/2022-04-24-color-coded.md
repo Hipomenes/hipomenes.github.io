@@ -23,6 +23,8 @@ I eventually stopped hand-coloring Rich Text Format files, but to this day I use
 Here is a more recent example with a minimal color coding:
  
 ![notas](/assets/IMG_0183.jpg)
+
+## Enter Vim
  
 When I adopted Markdown + Pandoc in 2017, and then learned to use Vim, I abandoned my old color code scheme and settled for Vim-Panoc's beautiful syntax highlighting. (I kept using it, though, in my hand-written notes.)
 The structured text that this creates by default is good enough, and preserves the immense advantage of color coding, which is to allow you to identify semantically relevant fields at a glance, even if most of these have to do with the Markdown syntax (an exception to this is the default coloring of strings of text in cursive, which tend to be titles; text within footnotes; and block quotes.)
@@ -41,7 +43,7 @@ The result is a beautiful combination of markdown syntax highlighting (using the
  
 ![pandoc.vim](/assets/sc2.png)
  
-## Todo
+## ToDo
  
 - Simplify regex as much as possible, have it ignore the actual quote signs, and try to avoid potential conflict with Markdown's footnote syntax.
 - Maybe implement a highlighting group that identifies proper names (technically, two or three words in a row that begin with a capital letter), the second most important element of my note-taking color code.
