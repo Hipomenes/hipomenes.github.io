@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Automatic Color Coded Notes in Vim"
+published: true
+categories: think
+---
+
 I have used a color code in my hand written notes since the grad school.
 I experimented with several "syntax highlighting" schemes (i.e. definitions of what should be highligted in ), as well as colors to reflect this syntax: from as many as 5, which of course was unwieldy, to as minimum of two, which I still tend to use when writing with fountain pens.
 For several years, I used the same color code in my hand written notes and in RTF text files, which in retrospective sounds maddeing: I had to manually edit the color attribute of text files. 
