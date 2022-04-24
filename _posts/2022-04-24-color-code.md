@@ -7,9 +7,12 @@ categories: think
 
 I have used a color code in my hand written notes since the grad school.
 I experimented with several "syntax highlighting" schemes (i.e. definitions of what should be highligted in ), as well as colors to reflect this syntax: from as many as 5, which of course was unwieldy, to as minimum of two, which I still tend to use when writing with fountain pens.
-For several years, I used the same color code in my hand written notes and in RTF text files, which in retrospective sounds maddeing: I had to manually edit the color attribute of text files. 
+For several years, I used the same color code in my hand written notes and in RTF text files, which in retrospective sounds maddeing: I had to manually edit the color attribute of text files.
+Here's a somewhat lazy note that I have at hand:
 
-When I adopted Markdown + Pandoc method around 2016, and then learned to use VIM, I abondend my old color code scheme and settled for Vim-Panoc's beautiful syntax highligting. 
+![notas](/assets/IMG_0183.jpg)
+
+When I adopted Markdown + Pandoc method around 2017, and then learned to use VIM, I abondend my old color code scheme and settled for Vim-Panoc's beautiful syntax highligting. 
 The structure text that these creates by default is good enough, and preserves the inmense advantage of color coding, which is to allow you identify semantically relevant fields at a glance, even if most of them have to do with the Markdown syxtax (an exception to this is the default coloring of strings of text in cursive, which tend to be titles, text within foonotes, and block quotes.)
 
 But I recently decided to try my hand at enriching vim-Pandoc syntax highlighting with some custom definitions that recover part of my original color code.
