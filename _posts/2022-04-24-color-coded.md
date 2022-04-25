@@ -2,7 +2,7 @@
 layout: post
 title: "Automatic Color Coded Notes in Vim"
 published: true
-categories: think
+categories: tools
 ---
  
 I have used a color code in my hand-written notes since grad school.
