@@ -1,6 +1,6 @@
 html *
 {
-    font-family: 'Garamond', serif;
+    font-family: 'Calisto', serif;
     text-rendering: optimizeLegibility;
     font-feature-settings: "kern";
     font-kerning: normal;
@@ -31,7 +31,7 @@ article {
 }
 
 blockquote {
-    font-family: 'Garamond', serif;
+    font-family: 'Calisto', serif;
     font-size: 1.4rem;
     margin: 0.25rem 0;
     padding: 0.25em 40px;
