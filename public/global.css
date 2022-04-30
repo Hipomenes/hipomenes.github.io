@@ -1,6 +1,6 @@
 html *
 {
-    font-family: athelas, serif;
+    font-family: "Bodoni MT", serif;
     text-rendering: optimizeLegibility;
     font-feature-settings: "kern";
     font-kerning: normal;
@@ -31,7 +31,7 @@ article {
 }
 
 blockquote {
-    font-family: athelas, serif;
+    font-family: "Bodoni MT", serif;
     font-size: 1.4rem;
     margin: 0.25rem 0;
     padding: 0.25em 40px;
