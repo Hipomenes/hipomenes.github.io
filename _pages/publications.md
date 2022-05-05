@@ -6,7 +6,9 @@ title: "publications"
 
 <br>
 <br>
+
 ## Books
+
 <ol class="fa-ul">
   <li><span class="fa-li"><i class="fa fa-book"></i></span><i>A New String for the Mexican Lyre: The Literary Discovery of Nahuatl Poetry (1826-1941)</i>. Under contract with Vanderbilt University Press in the Critical Mexican Studies series.</li>
   <li><span class="fa-li"><i class="fa fa-book"></i></span><i>Taming Teotl: an Hermeneutical History of the Aztec Gods.</i> Advanced manuscript.</li>   
