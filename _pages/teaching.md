@@ -4,8 +4,8 @@ permalink: /teaching/
 title: "teaching"
 ---
 
-## Teaching and Advising
-
+# Teaching and Advising
+<br>
 
 ### 2022
 - [Sor Juana y sus mundos](https://dhcolmenares.net/sorjuana/). Boston University, LS 454. Spring
