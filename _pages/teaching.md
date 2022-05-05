@@ -7,13 +7,17 @@ title: "teaching"
 ## Teaching and Advising
 
 
+### 2022
+- [Sor Juana y sus mundos](https://dhcolmenares.net/sorjuana/). Boston University, LS 454. Spring
+- [*Colonial/Modern*. Imaginarios precolombinos y coloniales en Latinoamérica](https://hipomenes.github.io/colonial-modern/#!index.md). Boston University, LS 350. Spring. 
+
 
 ### 2021
 
-- [Conquistadors and Castaways in Colonial Latin American Literature]() Boston University, LS 454. Fall. 
-- [From Literary Theory to Theories of Culture]() Boston University, (Graduate Seminar) LS 850. Fall.
-- [Fiesta y enigma en la literatura del México virreinal](hipomenes.github.io/novohispana) Boston University, LS 576. Spring.
-- [*Colonial/Modern*. Imaginarios precolombinos y coloniales en Latinoamérica](https://hipomenes.github.io/colonial-modern/#!index.md). Boston University, LS 350. Spring. 
+- [Conquistadors and Castaways in Colonial Latin American Literature](https://dhcolmenares.net/ls452/) Boston University, LS 454. Fall. 
+- [From Literary Theory to Theories of Culture](https://dhcolmenares.net/theory/). Boston University, (Graduate Seminar) LS 850. Fall.
+- [Fiesta y enigma en la literatura del México virreinal](hipomenes.github.io/novohispana). Boston University, LS 576. Spring.
+- [*Hijas de Coatlicue*](https://hipomenes.github.io/colonial-modern/#!index.md). Boston University, LS 350. Spring. 
 
 ### 2020
 
