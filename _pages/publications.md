@@ -12,7 +12,7 @@ title: "publications"
   <li><span class="fa-li"><i class="fa fa-book"></i></span><i>Taming Teotl: an Hermeneutical History of the Aztec Gods.</i> Advanced manuscript.</li>   
 </ol>
 
-## Articles
+## Recent articles
 <ol class="fa-ul">
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2021) “‘Su herencia fue el llanto.’ Pathos, memoria y condensación temporal en los Cantares mexicanos.” <i>Colonial Latin American Review</i>, 30: 1, 3-24</li>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2021) “Katherine of Aragon’s Divorce Hearing: Dramatic Historiography in Calderón’s La Cisma de Inglaterra and Shakespeare’s All is True.” <i>eHumanista</i> 47, 141-156</li>   
