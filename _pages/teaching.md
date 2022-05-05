@@ -14,7 +14,7 @@ title: "teaching"
 
 ### 2021
 
-- [Conquistadors and Castaways in Colonial Latin American Literature](https://dhcolmenares.net/ls452/) Boston University, LS 454. Fall. 
+- [Conquistadors and Castaways in Colonial Latin American Literature](https://dhcolmenares.net/ls452/). Boston University, LS 454. Fall. 
 - [From Literary Theory to Theories of Culture](https://dhcolmenares.net/theory/). Boston University, (Graduate Seminar) LS 850. Fall.
 - [Fiesta y enigma en la literatura del México virreinal](hipomenes.github.io/novohispana). Boston University, LS 576. Spring.
 - [*Hijas de Coatlicue*](https://hipomenes.github.io/colonial-modern/#!index.md). Boston University, LS 350. Spring. 
