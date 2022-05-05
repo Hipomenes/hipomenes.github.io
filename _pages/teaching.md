@@ -4,14 +4,12 @@ permalink: /teaching/
 title: "teaching"
 ---
 
-## Teaching and Advising
-<br>
+# Courses
 
-## Boston University
+## At Boston University
 ### 2022
 - [Sor Juana y sus mundos](https://dhcolmenares.net/sorjuana/). LS 454. Spring
 - [*Colonial/Modern*. Imaginarios precolombinos y coloniales en Latinoamérica](https://hipomenes.github.io/colonial-modern/#!index.md). LS 350. Spring. 
-
 
 ### 2021
 - [Conquistadors and Castaways in Colonial Latin American Literature](https://dhcolmenares.net/ls452/). LS 454. Fall. 
