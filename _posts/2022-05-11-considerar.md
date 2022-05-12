@@ -5,7 +5,7 @@ published: true
 categories: minutiae
 ---
 
-![el astrologo](https://media.sciencephoto.com/c0/11/12/16/c0111216-800px-wm.jpg)
+![el astrologo](https://i.pinimg.com/originals/3c/07/0d/3c070da33c97d10899a0bb9e40e12576.jpg)
 
 Dos lecturas enteramente inconexas llamaron mi atención sobre el sentido olvidado de un término familiar: *considerar* ('con-*siderar*').
 Esta casualidad me obliga a dar cuenta de ambos pasajes.
