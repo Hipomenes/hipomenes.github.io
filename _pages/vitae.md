@@ -9,7 +9,7 @@ title: "vitae"
 
 ## Current Appointment
 <ol class="fa-ul">
-  <li><span class="fa-li"><i class="fa fa-user-circle"></i></span>Moorman-Simon Assistant Professor of Spanish, Boston University (2019)</li>
+  <li><span class="fa-li"><i class="fa fa-user-circle"></i></span>Assistant Professor of Comparative Literature, University of California, Irvine (2022)</li>
 </ol>
 
 ## Education 
