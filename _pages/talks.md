@@ -8,7 +8,7 @@ title: "talks"
 
 - “Mexico: an American Egypt.” Invited keynote lecture at the Museum Matters series organized by the International Committee for Egyptology (CIPEG) at  the International Council of Museums (ICOM), North Carolina Museum of Art, 23 April 2022.
 - “Invisible Mediations: Indigenous Intellectuals in Nineteenth-Century Mexico.” Organized session, LASA 2022. Presentation: “‘El último nahuatlato’: Mariano Jacobo Rojas and the Cantares Mexicanos.”
-- “Collation and Persuasion: Knowledge-Making in fray Bernardino de Sahagún’s Nahua Scriptorium.” Accepted paper at RSA 2022, Dublin.
+- “Collation and Persuasion: Knowledge-Making in fray Bernardino de Sahagún’s Nahua Scriptorium.” In the “Culture” and its Discontents in Early Modern Iberian Studies" symposium, Stanford University, May 27, 2022.
 - “Remember Chapultepec: History of Emotions and Emotive Histories among the Nahua.” ASE 2021. Session: “Emotive Readings of the Aztec/Nahua Codices.” November 12, 2021.
 - “Semantics and Sediments of Time: Historical Time in Nineteenth-Century Spanish America” Organized session, LASA 2021. Presentation: “The First and Last Nahuatlato: Scribal Traditions and Divergent Modernities in 19th-Century Mexico.”
 - “Printed Afterlives: Early Hispanic Books and Manuscripts in the 19th Century.” A one-day virtual symposium at Boston University, May 7, 2021. Co-organized with Dr. Anita Savo
