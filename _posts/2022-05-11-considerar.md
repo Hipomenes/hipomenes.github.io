@@ -16,7 +16,7 @@ En *Landmarks*, demorada meditación británica sobre lenguaje y paisaje, Robert
 Pero el caso más memorable de esta etimología y sus reverberaciones literarias la encontré en el librito *Cómo ordenar una biblioteca* de Roberto Calasso.
 La referencia aparece en el contexto de un comentario sobre la anotación de los libros.
 Calasso refiere algunos ejemplos de las anotaciones, prácticamente pequeños índices, que Borges acostumbraba escribir en su diminuta caligrafía en las guardas de sus libros.
-Entre estos, Calasso cita una anotación a *The Royal Art of Astrology* de Robret Eisler (1946, adquirido por Borges en año siguiente).
+Entre estos, Calasso cita una anotación a *The Royal Art of Astrology* de Robret Eisler (1946, adquirido por Borges al año siguiente).
 La glosa dice "Contemplation, considerartion, 261".
 Calasso cita a continuación el pasaje de Eisler que mereció la entrada en el índice personal de Borges:
 
@@ -24,5 +24,5 @@ Calasso cita a continuación el pasaje de Eisler que mereció la entrada en el �
 
 La etimología es, naturalmente, irresistible. 
 Pero el OED recomienda precaución:
-la idea de que 'considerar', que entra al inglés hasta el siglo XIV, deriva de *sīdus*, *sīder* (estrella, constelación) y por tanto forma parte del vocabulario astrológico es atribuible al gramático latino Festus, si bien "such a use is not known in the Lat. writers".
-Sin embargo, la intuición emersoniana permanece en pie: nada confirma mejor el hecho de que el lenguaje es poesía fosilizada que le hecho de que aún los escritores latinos ignoraran el sentido primigenio de sus términos.
+la idea de que 'considerar'---que entra al inglés hasta el siglo XIV---deriva de *sīdus*, *sīder* (estrella, constelación) y por tanto forma parte del vocabulario astrológico es atribuible al gramático latino Festus, si bien "such a use is not known in the Lat. writers".
+Por lo demás, la intuición emersoniana permanece incólume: nada confirma mejor el hecho de que el lenguaje es poesía fosilizada que le hecho de que aún los escritores latinos ignoraran el sentido primigenio de sus términos.
