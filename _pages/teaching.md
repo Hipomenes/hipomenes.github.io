@@ -4,9 +4,9 @@ permalink: /teaching/
 title: "teaching"
 ---
 
-# Courses
+## Courses
 
-## At Boston University
+At Boston University
 ### 2022
 - [Sor Juana y sus mundos](https://dhcolmenares.net/sorjuana/). LS 454. Spring
 - [*Colonial/Modern*. Imaginarios precolombinos y coloniales en Latinoamérica](https://hipomenes.github.io/colonial-modern/#!index.md). LS 350. Spring. 
@@ -28,7 +28,7 @@ title: "teaching"
 - [*Colonial/Modern*: Imaginarios precolombinos y coloniales en Latinoamérica](https://hipomenes.github.io/colonial-modern/#!index.md). LS350. Fall
 - [*Iberian Encounters*: Dialogue and Exchange in Colonial Latin America](https://hipomenes.github.io/iberian-encounters/#!index.md). LS 450. Fall
 
-## At Columbia University 
+At Columbia University 
 
 ### 2019
 - [Primary Texts of Latin American Civilization](). Columbia University's Core Curriculum. Spring.
