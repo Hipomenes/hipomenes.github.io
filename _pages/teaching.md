@@ -19,8 +19,7 @@ title: "teaching"
 - [*Colonial/Modern*: Imaginarios precolombinos y coloniales en Latinoamérica](https://hipomenes.github.io/colonial-modern/#!index.md). LS350. Fall 2019.
 - [*Iberian Encounters*: Dialogue and Exchange in Colonial Latin America](https://hipomenes.github.io/iberian-encounters/#!index.md). LS 450. Fall 2019.
 
-At Columbia University 
-
+### At Columbia University 
 - [Primary Texts of Latin American Civilization](). Columbia University's Core Curriculum. Spring 2019.
 - [Hispanic Cultures II. Forging the Past in Spain and Hispanic America](). Columbia University. Fall 2019.
 - [*Enseñar deleitando*: Learning and Thinking through Narrative Technologies in the Iberian Worlds before 1700](). Columbia University. Spring 2017.
