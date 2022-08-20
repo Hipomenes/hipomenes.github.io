@@ -4,14 +4,14 @@ permalink: /lecturas/
 title:
 ---
 
-Listas de lectura.
+# Listas de lectura
 
 <br>
 
 Here is a collection of the reading lists that I use to keep track of the books I read for pleasure (mostly literature.
 
 <div class="fl w-100">
-{% for post in site.categories.news %}
+{% for post in site.categories.lecturas %}
     <time class="di-ns f6 ttu tracked gray code">
         {{ post.date | date_to_string }}
     </time>
@@ -21,7 +21,6 @@ Here is a collection of the reading lists that I use to keep track of the books 
         {{ post.title }}
     </a>
         <time class="fw8-m grey">
-        {{ post.excerpt }}
     </time> 
     </div>
 {% endfor %}
