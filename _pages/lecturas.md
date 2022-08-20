@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /lecturas/
-title: 
+title: ""
 ---
 
 ## Reading Lists
