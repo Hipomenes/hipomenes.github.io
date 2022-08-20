@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /lecturas/
-title: ""
+title:
 ---
 
 ## Reading Lists
