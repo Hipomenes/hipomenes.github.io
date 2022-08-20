@@ -1,11 +1,14 @@
 ---
 layout: default
 permalink: /lecturas/
-title: "Reading Lists"
+title:
 ---
 
+## Reading Lists
+
 <br>
-These are some of my on-going reading lists.
+
+A way to keep track of books.
 
 {% if page.url contains page.title %}
 {% else %}
