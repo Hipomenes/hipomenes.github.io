@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Portugueses"
+title: "Senderos de Sintra"
 published: true
 categories: lecturas
 ---
