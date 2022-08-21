@@ -8,7 +8,7 @@ title:
 
 <br>
 
-Here is a collection of the reading lists that I use to keep track of the books I read for pleasure (mostly literature.
+Here is a collection of thematic lists that I use to keep track of the books I read for pleasure (mostly literature).
 
 <div class="fl w-100">
 {% for post in site.categories.lecturas %}
