@@ -4,7 +4,7 @@ permalink: /lecturas/
 title:
 ---
 
-<h1 class="f3 f1-m f-headline-l">Title</h1>
+<h1 class="f2 f1-m f-headline-l">Title</h1>
 
 <br>
 
