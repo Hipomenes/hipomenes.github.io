@@ -5,9 +5,7 @@ published: true
 categories: lecturas
 ---
 
-![Generacao1870](https://fotos.web.sapo.io/i/G430264b6/17398507_EpPuk.jpeg)
-
-Escritores en lengua portuguesa, principalmente de Portugal y Brasil.
+![Generacao1870](https://fotos.web.sapo.io/i/G430264b6/17398507_EpPuk.jpeg) 
 
 ## José Maria de Eça de Queiroz
 1. *El mandarín*
