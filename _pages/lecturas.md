@@ -10,7 +10,6 @@ title:
 
 Here is a collection of the reading lists that I use to keep track of the books I read for pleasure (mostly literature.
 
-<br>
 <div class="fl w-100">
 {% for post in site.categories.lecturas %}
     <time class="di-ns f6 ttu tracked gray code">
@@ -18,13 +17,9 @@ Here is a collection of the reading lists that I use to keep track of the books 
     </time>
 
     <div class="di-ns mb2">
-    <a class="link black bold hover-red" href="{{ BASE_PATH }}{{ post.url }}">
+    <a class="link black hover-red" href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
-    </a>
-        <time class="fw8-m grey">
-    </time> 
+    </a><br>
     </div>
 {% endfor %}
-<br>
-<br>
 </div>
