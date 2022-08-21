@@ -6,7 +6,7 @@ title:
 
 <h1 class="f2 lh-title">Reading Lists</h1>
 
-<br>
+![iago](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsucedioenoaxaca.com%2Fwp-content%2Fuploads%2F2016%2F12%2Fbioiago-1050x700.jpg&f=1&nofb=1)
 
 Here is a collection of thematic lists that I use to keep track of the books I read for pleasure (mostly literature).
 
