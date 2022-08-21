@@ -4,12 +4,13 @@ permalink: /lecturas/
 title:
 ---
 
-### Reading lists!
+<h1 class="f3 f1-m f-headline-l">Title</h1>
 
 <br>
 
 Here is a collection of the reading lists that I use to keep track of the books I read for pleasure (mostly literature.
 
+<br>
 <div class="fl w-100">
 {% for post in site.categories.lecturas %}
     <time class="di-ns f6 ttu tracked gray code">
@@ -24,5 +25,6 @@ Here is a collection of the reading lists that I use to keep track of the books 
     </time> 
     </div>
 {% endfor %}
+<br>
 <br>
 </div>
