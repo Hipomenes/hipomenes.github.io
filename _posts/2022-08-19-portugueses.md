@@ -5,7 +5,7 @@ published: true
 categories: lecturas
 ---
 
-![Mitteleuropa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.artrevealmagazine.com%2Fwp-content%2Fuploads%2F2016%2F04%2Favvoltoio-787-624x620.jpg&f=1&nofb=1)
+![Generacao1870](https://fotos.web.sapo.io/i/G430264b6/17398507_EpPuk.jpeg)
 
 Escritores en lengua portuguesa, principalmente de Portugal y Brasil.
 
