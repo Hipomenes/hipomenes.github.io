@@ -6,6 +6,8 @@ title: "talks"
 
 ## Invited talks, Conferences and Organized Panels
 
+- "Traces and Prefigurations: Evidentiary Pictography in Sixteenth-Century New Spain." Invited lecture at the Sign & Symbol Research Group Seminar, directed by Dr. Katarzyna Mikulska, University of Warsaw, 14 Oct 2022.
+- "Rastros y prefiguraciones: el Códice Vaticano A y el anticuarismo sacro novohispano." Presentation at the "Itineraries of an Artifact: The Codex Vaticanus A and the Intellectual Spheres of the Sixteenth Century" (UNAM-La Sapienza), Rome, 29 Sep 2022.   
 - “Mexico: an American Egypt.” Invited keynote lecture at the Museum Matters series organized by the International Committee for Egyptology (CIPEG) at  the International Council of Museums (ICOM), North Carolina Museum of Art, 23 April 2022.
 - “Invisible Mediations: Indigenous Intellectuals in Nineteenth-Century Mexico.” Organized session, LASA 2022. Presentation: “‘El último nahuatlato’: Mariano Jacobo Rojas and the Cantares Mexicanos.”
 - “Collation and Persuasion: Knowledge-Making in fray Bernardino de Sahagún’s Nahua Scriptorium.” In the “Culture” and its Discontents in Early Modern Iberian Studies" symposium, Stanford University, May 27, 2022.
