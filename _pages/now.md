@@ -6,7 +6,22 @@ title:
 
 <h1 class="f2 lh-title">Now_</h1>
 
-This is what I'm doing now: 
+October 10:
+
+Writing: 
+- "Traces and Prefigurations"
+- Book proposal
+
+Reading:
+- Articles on the Dominicans in NS (Tavarez, Dominici, Burgoa...)
+
+In my spare time:
+- Re-reading J. G. Farrell's *The Siege of Krishnapur* and hopefully the whole Empire Triology.
+
+---
+
+
+September 10: 
 
 I'm writting:
 - "Nueva España Figurada: nuevas hipótesis sobre el plano-mapa de Tenochtitlan"
