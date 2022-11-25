@@ -12,15 +12,8 @@ title: "publications"
 <ol class="fa-ul">
   <li><span class="fa-li"><i class="fa fa-book"></i></span><i>A New String for the Mexican Lyre: The Literary Discovery of Nahuatl Poetry (1826-1941)</i>. Under contract with Vanderbilt University Press in the Critical Mexican Studies series.</li>
   <li><span class="fa-li"><i class="fa fa-book"></i></span><i>Taming Teotl: an Hermeneutical History of the Aztec Gods.</i> Advanced manuscript.</li>
-  <li><span class="fa-li"><i class="fa fa-book"></i></span><i>Lira indiana: de la poesía aztequista al canto nahua (1826-1936). Antología anotada.</i> Advanced manuscript.</li>
+  <li><span class="fa-li"><i class="fa fa-book"></i></span><i>Lira indiana: de la poesía aztequista al canto nahua, 1826-1936. Antología comentada.</i>Under review by Artes de México.</li>
 </ol>
-
-Lira indiana
- 
-De la poesía aztequista al canto nahua
- 
-1828 - 1936
-
 
 ## Recent articles
 <ol class="fa-ul">
