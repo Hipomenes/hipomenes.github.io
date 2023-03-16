@@ -10,7 +10,7 @@ title: "teaching"
   - [Mexico City: Lived and Imagined]() Upper division. Winter 2023.
 
 ### At Boston University
-- [Sor Juana y sus mundos](https://ddhcg.xyz/sorjuana/). Upper division. Spring 2022.
+- [Sor Juana y sus mundos](https://dhcg.xyz/sorjuana/). Upper division. Spring 2022.
 - [*Colonial/Modern*. Imaginarios precolombinos y coloniales en Latinoamérica](https://dhcg.xyz/colonial-modern/#!index.md). Lower division.. Spring 2022. 
 - [Conquistadors and Castaways in Colonial Latin American Literature](https://dhcg.xyz/ls452/). Upper division. Fall 2021. 
 - [From Literary Theory to Theories of Culture](https://dhcg.xyz/theory/). Graduate Seminar. Fall 2021.
