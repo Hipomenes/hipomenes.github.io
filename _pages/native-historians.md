@@ -1,6 +1,6 @@
 --- 
 layout: 
-permalink: /beyond/
+permalink: /native-historians/
 title:
 ---
 
