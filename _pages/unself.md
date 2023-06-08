@@ -1,6 +1,6 @@
 --- 
 layout: 
-permalink: /unsel/
+permalink: /unself/
 title:
 ---
 
