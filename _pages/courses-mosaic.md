@@ -9,7 +9,7 @@ title:
 <article class="cf pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
     <h2 class="lh-title f3 b mt0 helvetica">
-      Teaching at UCI
+      Teaching at UCI.
       Beginners and amateurs alike overestimate the importance of the
       so-called brain wave, the sudden brilliant idea.
     </h2>
