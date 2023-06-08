@@ -5,7 +5,7 @@ title:
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
-<article class="vh-100 dt w-100 bg-purple">
+<article class="vh-100 dt w-100 bg-hot-pink">
   <div class="dtc v-mid tc yellow ph3 ph4-l">
     <h1 class="f6 f2-m f-subheadline-l fw6 tc helvetica">Writing Beyond the Self</h1>
     <h2 class="f5 f2-m f-subheadline-l white fw5 tc garamond">St. Teresa of Ávila, Clarice Lispector</h2>
