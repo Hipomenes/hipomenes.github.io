@@ -1,6 +1,6 @@
 --- 
 layout: 
-permalink: /self/
+permalink: /beyond-self/
 title:
 ---
 
