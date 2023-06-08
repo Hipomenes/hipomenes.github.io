@@ -15,9 +15,9 @@ title:
   <section class="fl w-100">
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        Perfect typography depends on perfect harmony between all of its elements. 
-        Harmony is determined by relationships
-        or proportions. Proportions are hidden everywhere. words themselves. 
+        All my teaching involves finding critical pathways within a loosely 
+        defined Iberian archive, that is, the textual and visual culture produced
+        in the overseas territories dominated by the Habsburg empire. 
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
