@@ -1,5 +1,6 @@
 --- 
-permalink: /lecturas/
+layout: 
+permalink: /now/
 title:
 ---
 
