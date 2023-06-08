@@ -1,6 +1,6 @@
 --- 
 layout: 
-permalink: /unself/
+permalink: /self/
 title:
 ---
 
@@ -12,5 +12,3 @@ title:
             <h3 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">Comparative Literature. Winter 2024</h3>
   </div>
 </article>
-
-    
