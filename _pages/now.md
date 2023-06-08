@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /now/
 title:
 ---
