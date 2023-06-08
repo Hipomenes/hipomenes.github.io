@@ -1,4 +1,5 @@
 ---
+layout: blank
 permalink: /now/
 title:
 ---
