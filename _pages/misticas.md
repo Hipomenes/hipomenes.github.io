@@ -107,7 +107,7 @@ title:
 </article>
 
 <footer class="pv4 ph3 ph5-m ph6-l mid-gray">
-  <small class="f6 db ttutc">David H. Colmenares, CC BY-SA 2023.</small>
+  <small class="f6 db ttu tc">David H. Colmenares, CC BY-SA 2023.</small>
   <div class="tc mt3">
     <a href="//" title="Home" class="f6 dib ph2 link mid-gray dim">Home</a>
     <a href="/courses/" title="Courses" class="f6 dib ph2 link mid-gray dim">Courses</a>
