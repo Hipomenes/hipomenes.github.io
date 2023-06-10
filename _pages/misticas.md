@@ -19,6 +19,7 @@ title:
       The cast
     </h2>
   </header>
+  
   <section class="fl w-100">
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
@@ -36,7 +37,6 @@ title:
         The latter work represents what many critics consider 
         as the first feminist tract written by a Spanish woman.  
       </p>
-    </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
