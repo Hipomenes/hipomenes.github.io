@@ -15,7 +15,7 @@ title:
 
 <article class="cf pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
-    <h2 class="lh-title f3 b mt0">
+    <h2 class="lh-title f3 b helvetica mt0">
       The cast.
     </h2>
   </header>
@@ -27,7 +27,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        <strong>Teresa de Cartagena (Burgos, c.1425–?) </strong> was a Spanish writer, 
+        <strong>Teresa de Cartagena</strong> (Burgos, c.1425–?) was a Spanish writer, 
         mystic and nun who is considered to be the first Spanish 
         female writer and mystic.[1] She became deaf between 1453 and 1459.
         Her experience of deafness influenced her two known 
