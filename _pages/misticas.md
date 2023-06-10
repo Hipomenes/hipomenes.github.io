@@ -19,7 +19,6 @@ title:
       The cast
     </h2>
   </header>
-  
   <section class="fl w-100">
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
@@ -40,7 +39,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(http://mrmrs.github.io/images/0012.jpg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Feverydaycatholicwoman.com%2Fwp-content%2Fuploads%2F2018%2F10%2FSanta_Teresa_de_%25C3%2581vila._Museo_del_Prado.jpg%3Ffit%3D1441%252C1800%26ssl%3D1&f=1&nofb=1&ipt=965679154068a3d300e37a1ea0f5cd43352bbdc45a3788baf94676f5fca1a6dc&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Feverydaycatholicwoman.com%2Fwp-content%2Fuploads%2F2018%2F10%2FSanta_Teresa_de_%25C3%2581vila._Museo_del_Prado.jpg%3Ffit%3D1441%252C1800%26ssl%3D1&f=1&nofb=1&ipt=965679154068a3d300e37a1ea0f5cd43352bbdc45a3788baf94676f5fca1a6dc&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
