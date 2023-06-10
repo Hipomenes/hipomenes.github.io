@@ -61,6 +61,46 @@ title:
     </div>  
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.javiersierra.com%2Fwp-content%2Farchivos%2FMaria-de-Agreda-among-the-Indians-682x1024-682x1024.jpg&f=1&nofb=1&ipt=99063032c9e088b2e5ee3c3699359adb49dcb10dc170ec7146045874663a20d7&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy garamond measure">
+        <strong>María de Jesús de Ágreda</strong> (1602 – 1665), was a 
+        Franciscan abbess and spiritual writer, known especially 
+        for her extensive correspondence with King Philip IV 
+        of Spain and reports of her bilocation between Spain and New Mexico. 
+        She was a noted mystic of her era. A member of the Order of the 
+        Immaculate Conception, also known as Conceptionists, Mary of Jesus 
+        wrote 14 books, including a series of revelations about the 
+        life of the Blessed Virgin Mary. Her bilocation activity is said to 
+        have occurred between her cloistered monastery in rural Spain 
+        and the Jumano Indians of central New Mexico and West Texas, 
+        as well as Tucson, and inspired many Franciscan missionaries 
+        in the New World. In popular culture since the 17th century, 
+        she has been dubbed the Lady in Blue and the Blue Nun, 
+        after the color of her order's habit.  
+      </p>
+    </div>
+         <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Ffemmesicietailleurs.com%2Fwp-content%2Fuploads%2F2021%2F03%2Fchristine-de-pisan-%25C2%25A9-Master-of-the-Cite-Des-Dames.jpg%3Ffit%3D1024%252C1468%26ssl%3D1&f=1&nofb=1&ipt=dee7cf02095cf6edc3382707c368ef7d98273f474a6278a68111febf90a73382&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy garamond measure">
+        <strong>Teresa de Cartagena</strong> (Burgos, c.1425–?) was a Spanish writer, 
+        mystic and nun who is considered to be the first Spanish 
+        female writer and mystic. She became deaf between 1453 and 1459.
+        Her experience of deafness influenced her two known 
+        works Arboleda de los enfermos (Grove of the Infirm) and 
+        Admiraçión operum Dey (Wonder at the Works of God). 
+        The latter work represents what many critics consider 
+        as the first feminist tract written by a Spanish woman.  
+      </p>
+    </div>
+         <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Ffemmesicietailleurs.com%2Fwp-content%2Fuploads%2F2021%2F03%2Fchristine-de-pisan-%25C2%25A9-Master-of-the-Cite-Des-Dames.jpg%3Ffit%3D1024%252C1468%26ssl%3D1&f=1&nofb=1&ipt=dee7cf02095cf6edc3382707c368ef7d98273f474a6278a68111febf90a73382&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
