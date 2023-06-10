@@ -47,6 +47,11 @@ title:
         as innovations. 
       </p>
     </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(http://mrmrs.github.io/images/0012.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
         Only through constant practice and strictest self-criticism may we
