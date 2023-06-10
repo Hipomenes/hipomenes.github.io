@@ -46,10 +46,17 @@ title:
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
        <strong>Saint Teresa of Ávila</strong> (1515–82), 
-          was one of the great mystics and is a patron saint of Spain. 
+         was one of the great mystics and is a patron saint of Spain. 
          She was the foundress of the reformed, or Discalced, Carmelites. 
          She was born in Avila, in Castile, into an aristocratic family, 
-         and in her childhood showed a strong religious bent. Her decision to become a nun was inspired by reading the letters of S. Jerome when recovering from an illness, and after gaining her father's unwilling consent she entered the Carmelite convent of the Incarnation in 1535. From 1536 to 1539 she lived at home during an illness, but then returned to the cloister. Her convent was of the relaxed discipline, and she began to practise mental prayer. In 1555 she experienced an inner conversion which profoundly changed her spiritual life. Her visions and mystical experiences became known, and led to much unhappiness and some persecution. She was encouraged by S. Peter of Alcantara, a Franciscan of extreme asceticism, who for a time was her confessor, and eventually in the teeth of opposition from religious and civic authorities she founded her first reformed convent in 1562. The thirteen nuns of this small foundation were bound to a life of strict enclosure, poverty, manual labour, and prayer, depending on what they could grow in their garden and on unsolicited alms. Mother Theresa's reformed houses eventually numbered seventeen. The struggle for reform in her Order was paralleled by that of S. John of the Cross, whom she advised and encouraged in his efforts at similar reform of the Carmelite Friars; they met with opposition and persecution from the unreformed branches of both their Orders, until finally they were given independent status.
+         and in her childhood showed a strong religious bent. 
+        Her decision to become a nun was inspired by reading the letters 
+        of S. Jerome when recovering from an illness, and after gaining
+        her father's unwilling consent she entered the Carmelite convent 
+        of the Incarnation in 1535. From 1536 to 1539 she lived at home
+        during an illness, but then returned to the cloister. 
+        Her convent was of the relaxed discipline, and she began to 
+        practise mental prayer. In 1555 she experienced an inner conversion which profoundly changed her spiritual life. 
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
