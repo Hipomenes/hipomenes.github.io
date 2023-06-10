@@ -16,7 +16,7 @@ title:
 <article class="cf pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
     <h2 class="lh-title f b helvetica mt0">
-      The cast
+      The cast of early modern Spanish writers.
     </h2>
   </header>
   <section class="fl w-100">
