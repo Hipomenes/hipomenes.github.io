@@ -22,13 +22,12 @@ title:
   <section class="fl w-100">
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://brill.com/cover/covers/9789004406490.jpg);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Ffemmesicietailleurs.com%2Fwp-content%2Fuploads%2F2021%2F03%2Fchristine-de-pisan-%25C2%25A9-Master-of-the-Cite-Des-Dames.jpg%3Ffit%3D1024%252C1468%26ssl%3D1&f=1&nofb=1&ipt=dee7cf02095cf6edc3382707c368ef7d98273f474a6278a68111febf90a73382&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        Teresa de Cartagena
-        Teresa de Cartagena (Burgos, c.1425–?) was a Spanish writer, 
+        <strong>Teresa de Cartagena (Burgos, c.1425–?) </strong> was a Spanish writer, 
         mystic and nun who is considered to be the first Spanish 
         female writer and mystic.[1] She became deaf between 1453 and 1459.
         Her experience of deafness influenced her two known 
