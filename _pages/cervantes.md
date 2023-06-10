@@ -21,17 +21,19 @@ title:
     </h2>
   </header>
   <section class="fl w-100">
-    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
-        Perfect typography depends on perfect harmony between all of its elements. 
-        Harmony is determined by relationships
-        or proportions. Proportions are hidden everywhere. words themselves. 
-      </p>
-    </div>
-    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fredhistoria.com%2Fwp-content%2Fuploads%2F2014%2F03%2Fmiguel-de-cervantes.jpg&f=1&nofb=1&ipt=98cf754269e81938996e7394c5323d91e3abbd0c5146d18ef099ba3484d60505&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy measure">
+        Miguel de Cervantes Saavedra.
+        An Early Modern Spanish writer widely regarded as the greatest 
+        writer in the Spanish language and one of the world's 
+        pre-eminent novelists. He is best known for his novel Don Quixote, 
+        a work often cited as the first modern novel. 
+      </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
