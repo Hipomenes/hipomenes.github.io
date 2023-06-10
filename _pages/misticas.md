@@ -26,7 +26,7 @@ title:
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
-      <p class="f6 lh-copy athelas measure">
+      <p class="f6 lh-copy garamond measure">
         <strong>Teresa de Cartagena</strong> (Burgos, c.1425–?) was a Spanish writer, 
         mystic and nun who is considered to be the first Spanish 
         female writer and mystic. She became deaf between 1453 and 1459.
