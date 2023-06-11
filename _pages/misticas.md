@@ -107,8 +107,8 @@ title:
 </article>
 
 <footer class="pv4 ph3 ph5-m bg-orange ph6-l mid-gray">
-  <small class="f6 db ttu white code tc">David H. Colmenares, CC BY-SA 2023.</small>
-  <div class="tc serif mt3">
+  <small class="f6 db ttu light-gray code tc">David H. Colmenares, CC BY-SA 2023.</small>
+  <div class="tc code mt3">
     <a href="dhcg.xyz" title="Home" class="f6 dib ph2 link white dim">Home</a>
     <a href="/courses/" title="Courses" class="f6 dib ph2 link white dim">Teaching</a>
     <a href="https://www.humanities.uci.edu/complit"  title="UCI" class="f6 dib ph2 link white dim">UCI Com Lit</a>
