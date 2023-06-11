@@ -107,7 +107,7 @@ title:
 </article>
 
 <footer class="pv4 ph3 ph5-m bg-orange ph6-l mid-gray">
-  <small class="f6 db ttu code tc">David H. Colmenares, CC BY-SA 2023.</small>
+  <small class="f6 db ttu white code tc">David H. Colmenares, CC BY-SA 2023.</small>
   <div class="tc helvetica mt3">
     <a href="dhcg.xyz" title="Home" class="f6 dib ph2 link mid-gray dim">Home</a>
     <a href="/courses/" title="Courses" class="f6 dib ph2 link mid-gray dim">Teaching</a>
