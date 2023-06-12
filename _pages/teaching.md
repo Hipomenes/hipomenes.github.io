@@ -16,15 +16,16 @@ In upper division courses revolve around the close reading of philosophical and 
 - [Latin American Cityscapes]()
 
 ### Upper Division
-- [Mexico City: Lived and Imagined](). W2023
+- [Mexico City: Lived and Imagined](). [W2023]
 - [Mystics and Visionary Women](/misticas/).
 - [Modernity and the Self](/modern-self/).
 - [Native Intellectuals from Colonial Latin America](/native-historians/).
 - [Stream of Life: Writing Beyond the Self](/beyond-self/).
+- [Cervantes and Philosophy](/cervantes/).
 
 ### Graduate Seminars
-- [Indigenous Inscription: Alternative Literacies in the Americas](). S2023
-- [Critical Theory Workshop: Flowering Voices](). 2024
+- [Indigenous Inscription: Alternative Literacies in the Americas](). [S2023]
+- [Critical Theory Workshop: Flowering Voices](). [2024]
 
 --- 
 
