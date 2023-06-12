@@ -4,7 +4,6 @@ permalink: /past-courses/
 title:
 ---
 
-# Past Courses
 
 ### At Boston University
 - [Sor Juana y sus mundos](https://dhcg.xyz/sorjuana/). Upper division. Spring 2022.
