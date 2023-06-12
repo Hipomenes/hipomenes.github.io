@@ -27,73 +27,38 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>Fernando de Alvarado Tezozomoc</strong> (c. 1525-c. 1610) This historian from Mexico-Tenochtitlan, commonly known as Tezozomoc, wrote two narratives on pre-conquest Mexico. His works, published during the nineteenth and twentieth centuries, are important sources on the history of Tenochtitlan, the most important center of the so-called Aztec Empire. Tezozomoc was a grandson of Motecuzoma Xocoyotl, tlatoani (ruler) of Tenochtitlan (c. 1502–1520), and son of don Diego de Alvarado Huanitzin, tlatoani of Ecatepec (1520–1539) and later governor of Tenochtitlan (1539–1542). He served as a nahuatlato, or Nahuatl interpreter, under the viceroy don Gaspar de Zúñiga y Acevedo (1595–1603). Although no sources exist that document Tezozomoc's formal education, his scholarly knowledge is patent in his Cronica Mexicana (c. 1598), written in Spanish. Composed of 112 chapters, in the format of a European chronicle, focuses on the rise and fall of Tenochtitlan. It creates a hybrid genre in which alphabetic writing is used to transcribe oral and pictographic ancient accounts. An ambivalent discourse of admiration and abjection emerges, as a result of narrating native practices that at times conflict with Christian principles.
+        <strong>Fernando de Alvarado Tezozomoc</strong> (c. 1525-c. 1610) This historian from Mexico-Tenochtitlan, commonly known as Tezozomoc, wrote two narratives on pre-conquest Mexico. His works, published during the nineteenth and twentieth centuries, are important sources on the history of Tenochtitlan, the most important center of the so-called Aztec Empire. Although no sources exist that document Tezozomoc's formal education, his scholarly knowledge is patent in his Cronica Mexicana (c. 1598), written in Spanish. Composed of 112 chapters, in the format of a European chronicle, focuses on the rise and fall of Tenochtitlan. It creates a hybrid genre in which alphabetic writing is used to transcribe oral and pictographic ancient accounts. An ambivalent discourse of admiration and abjection emerges, as a result of narrating native practices that at times conflict with Christian principles.
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Feverydaycatholicwoman.com%2Fwp-content%2Fuploads%2F2018%2F10%2FSanta_Teresa_de_%25C3%2581vila._Museo_del_Prado.jpg%3Ffit%3D1441%252C1800%26ssl%3D1&f=1&nofb=1&ipt=965679154068a3d300e37a1ea0f5cd43352bbdc45a3788baf94676f5fca1a6dc&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.thehistoryblog.com%2Fwp-content%2Fuploads%2F2014%2F09%2FCodex-Chimalpahin-first-page.jpg&f=1&nofb=1&ipt=3be9798b2b79677273ac23eeea19409f9e5fce367c9d92537605c73af2b5fd63&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        <strong>Saint Teresa of Ávila</strong> (1515–82), 
-         was one of the great mystics and is a patron saint of Spain. 
-         She was the foundress of the reformed, or Discalced, Carmelites. 
-         She was born in Avila, in Castile, into an aristocratic family, 
-         and in her childhood showed a strong religious bent. 
-        Her decision to become a nun was inspired by reading the letters 
-        of S. Jerome when recovering from an illness, and after gaining
-        her father's unwilling consent she entered the Carmelite convent 
-        of the Incarnation in 1535. From 1536 to 1539 she lived at home
-        during an illness, but then returned to the cloister. 
-        Her convent was of the relaxed discipline, and she began to 
-        practise mental prayer. In 1555 she experienced an inner conversion 
-        which profoundly changed her spiritual life. 
+        <strong>Domingo Francisco de San Antón Muñón Chimalpahin Quauhtlehuanitzin</strong> (1579–1660), was a Nahua historian from Chalco. He was the grandson of the late Don Domingo Hernández Ayopochtzin, a seventh-generation descendant of the founding king of the polity. Don Domingo was learned and esteemed, especially for his education and his record-keeping skills in the ancient tradition. He wrote on the history of Mexico and other neighboring nations in the Nahuatl and Spanish languages.[2] The most important of his surviving works is the Relaciones or Anales. This Nahuatl work was compiled in the early seventeenth century, and is based on testimony from indigenous people.
       </p>
     </div>  
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.javiersierra.com%2Fwp-content%2Farchivos%2FMaria-de-Agreda-among-the-Indians-682x1024-682x1024.jpg&f=1&nofb=1&ipt=99063032c9e088b2e5ee3c3699359adb49dcb10dc170ec7146045874663a20d7&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/2/25/Felipe_Guam%C3%A1n_Poma_de_Ayala.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>María de Jesús de Ágreda</strong> (1602 – 1665), was a 
-        Franciscan abbess and spiritual writer, known especially 
-        for her extensive correspondence with King Philip IV 
-        of Spain and reports of her bilocation between Spain and New Mexico. 
-        She was a noted mystic of her era. A member of the Order of the 
-        Immaculate Conception, also known as Conceptionists, Mary of Jesus 
-        wrote 14 books, including a series of revelations about the 
-        life of the Blessed Virgin Mary. Her bilocation activity is said to 
-        have occurred between her cloistered monastery in rural Spain 
-        and the Jumano Indians of central New Mexico and West Texas, 
-        as well as Tucson, and inspired many Franciscan missionaries 
-        in the New World. In popular culture since the 17th century, 
-        she has been dubbed the Lady in Blue and the Blue Nun, 
-        after the color of her order's habit.  
+        <strong>Felipe Guaman Poma de Ayala</strong> (1535 – 1616)Also known as Huamán Poma or Wamán Poma, was a Quechua nobleman known for chronicling and denouncing the ill treatment of the natives of the Andes by the Spanish after their conquest.[2] Today, Guamán Poma is noted for his illustrated chronicle, Nueva corónica y buen gobierno.
       </p>
     </div>
          <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-dfgvmbEjbi8%2FWxxXWJKSRQI%2FAAAAAAAAZcc%2F7zaXLehrMVQ3-zsTu21M79uoDKOiRprAACK4BGAYYCw%2Fs1600%2FURSULA%252BJESUS-724467.jpg&f=1&nofb=1&ipt=6b201536732cb95229e2662e3795b6051344b878cf2b40e6cb0ca159f75507f3&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-_qez2aRZcv0%2FV3xl_uHXdqI%2FAAAAAAAABe0%2FGE-7j1p_WNs1SEmj_uYWfCfJLbrF7IJNwCLcB%2Fs1600%2Finca-garcilaso-de-la-vega.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>Ursula de Jesús</strong> (1604–1668) was a Roman 
-        Catholic mystic of African descent in 17-century Peru. 
-        She was born in Lima, Peru, and was the legitimate daughter 
-        of Juan Castilla and Isabel de los Rios. 
-        Isabel de los Rios was a slave, leaving Ursula to inherit 
-        her mother's status. Ursula de Jesus was an African Peruvian 
-        who rose out of slavery to become a donada (religious servant) 
-        in the Roman Catholic Church. She lived under her mother's owner, 
-        Gerónima de los Rios, until she was roughly eight years old. 
-        The daughter of slaves, her first experience with mysticism 
-        was when she became the property of Luisa de Melgarejo Sotomayor, 
-        a mystic and beata, lay pious woman, in Lima. 
+        <strong>Inca Garcilaso de la Vega</strong> (1539 – 1616), born Gómez Suárez de Figueroa and known as El Inca, was a chronicler and writer born in the Viceroyalty of Peru.[1] Sailing to Spain at 21, he was educated informally there, where he lived and worked the rest of his life. The natural son of a Spanish conquistador and an Inca noblewoman born in the early years of the conquest, he is known primarily for his chronicles of Inca history, culture, and society. His work was widely read in Europe, influential and well received.[2] It was the first literature by an author born in the Americas to enter the western canon.[3]
+After his father's death in 1559, Vega moved to Spain in 1561, seeking official acknowledgement as his father's son. His paternal uncle became a protector, and he lived in Spain for the rest of his life, where he wrote his histories of the Inca culture and Spanish conquest, as well as an account of De Soto's expedition in Florida. 
       </p>
     </div>
   </section>
