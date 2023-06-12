@@ -4,9 +4,10 @@ permalink: /teaching/
 title: "teaching"
 ---
 
-My course 
+# Iberian Pathways 
 
-All my teaching involves finding critical pathways within a loosely defined Iberian archive, that is, the textual and visual culture produced in the overseas territories dominated by the Habsburg empire.
+All my teaching involves finding critical pathways within a broadly-defined Iberian archive---that is, the textual and visual culture produced in Spain and Colonial Latin America during the three centuries of Spanish domination, with a special focus on New Spain (Mexico). This archive includes not only the literature of the Peninsula, but also the earliest critical discourses elicited by imperial expansion, as well as a wide range of pictographic and textual sources produced by Indigenous peoples. At the same time, my  
+
 My lower division courses, organized as lectures, focus on cultural studies and visual culture.
 In upper division courses revolve around the close reading of philosophical and literary texts.
 
