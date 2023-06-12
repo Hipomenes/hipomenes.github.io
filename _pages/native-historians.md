@@ -16,7 +16,7 @@ title:
 <article class="cf pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
     <h2 class="lh-title f b helvetica mt0">
-      The cast of early modern Spanish writers.
+      The cast of early modern Indigenous historians.
     </h2>
   </header>
   <section class="fl w-100">
@@ -25,9 +25,10 @@ title:
         <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faws.admagazine.com%2Fprod%2Fdesigns%2Fv1%2Fassets%2F620x818%2F65497.jpg&f=1&nofb=1&ipt=aa2f49307861332c48c3af109efdbe99475c3a7840d7dc114536d2d2c1646f18&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
+    
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>Fernando de Alvarado Tezozomoc</strong> (c. 1525-c. 1610) This historian from Mexico-Tenochtitlan, commonly known as Tezozomoc, wrote two narratives on pre-conquest Mexico. His works, published during the nineteenth and twentieth centuries, are important sources on the history of Tenochtitlan, the most important center of the so-called Aztec Empire. Although no sources exist that document Tezozomoc's formal education, his scholarly knowledge is patent in his Cronica Mexicana (c. 1598), written in Spanish. Composed of 112 chapters, in the format of a European chronicle, focuses on the rise and fall of Tenochtitlan. It creates a hybrid genre in which alphabetic writing is used to transcribe oral and pictographic ancient accounts. An ambivalent discourse of admiration and abjection emerges, as a result of narrating native practices that at times conflict with Christian principles.
+        <strong>Fernando de Alvarado Tezozomoc</strong> (c. 1525-c. 1610) This historian from Mexico-Tenochtitlan, commonly known as Tezozomoc, wrote two narratives on pre-conquest Mexico. His works, published during the nineteenth and twentieth centuries, are important sources on the history of Tenochtitlan, the most important center of the so-called Aztec Empire. Although no sources exist that document Tezozomoc's formal education, his scholarly knowledge is patent in his Cronica Mexicana (c. 1598), written in Spanish. Composed of 112 chapters, in the format of a European chronicle, focuses on the rise and fall of Tenochtitlan. It creates a hybrid genre in which alphabetic writing is used to transcribe oral and pictographic ancient accounts. 
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
