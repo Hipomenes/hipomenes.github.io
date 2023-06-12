@@ -1,7 +1,7 @@
 ---
 layout: cats
 permalink: /past-courses/
-title: "Past Courses"
+title:
 ---
 
 ### At Boston University
