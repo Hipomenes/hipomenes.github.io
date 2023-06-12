@@ -110,7 +110,7 @@ title:
     </div>
         <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>Luz Jim</strong> (1602 – 1665), was a 
+        <strong>Luz Jiménez</strong> (1602 – 1665), was a 
         Franciscan abbess and spiritual writer, known especially 
         for her extensive correspondence with King Philip IV 
         of Spain and reports of her bilocation between Spain and New Mexico. 
