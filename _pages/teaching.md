@@ -16,7 +16,7 @@ In upper division courses revolve around the close reading of philosophical and 
 - [Latin American Cityscapes]()
 
 ### Upper Division
-- [Mexico City: Lived and Imagined](). <p class="fw1 dark-green code">S2023, F2024</p?
+- [Mexico City: Lived and Imagined](). <p style="color: skyblue">s2023</p>
 - [Mystics and Visionary Women](/misticas/).
 - [Modernity and the Self](/modern-self/).
 - [Native Intellectuals from Colonial Latin America](/native-historians/).
