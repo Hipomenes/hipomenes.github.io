@@ -33,14 +33,14 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2Fa16f94b0-7b3c-4181-a8e3-b660b6110b76.8173831b22e354ada5a53628f72b1f90.jpeg%3FodnWidth%3D1000%26odnHeight%3D1000%26odnBg%3Dffffff&f=1&nofb=1&ipt=f24b577ad8566ea305ee9fcfbeebf773ee59cfa96f5620b054971717e9840447&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/d/d6/Ixtolinque.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        <strong>Domingo Francisco de San Antón Muñón Chimalpahin Quauhtlehuanitzin</strong> (1579–1660), was a Nahua historian from Chalco. He was the grandson of the late Don Domingo Hernández Ayopochtzin, a seventh-generation descendant of the founding king of the polity. Don Domingo was learned and esteemed, especially for his education and his record-keeping skills in the ancient tradition. He wrote on the history of Mexico and other neighboring nations in the Nahuatl and Spanish languages.[2] The most important of his surviving works is the Relaciones or Anales. This Nahuatl work was compiled in the early seventeenth century, and is based on testimony from indigenous people.
+        <strong>Domingo Francisco de San Antón Muñón Chimalpahin Quauhtlehuanitzin</strong> (1579–1660), was a Nahua historian from Chalco. He was the grandson of the late Don Domingo Hernández Ayopochtzin, a seventh-generation descendant of the founding king of the polity. Don Domingo was learned and esteemed, especially for his education and his record-keeping skills in the ancient tradition. He wrote on the history of Mexico and other neighboring nations in the Nahuatl and Spanish languages. 
       </p>
-    </div>  
+    </div> 
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/2/25/Felipe_Guam%C3%A1n_Poma_de_Ayala.jpg);" class="cover bg-center aspect-ratio--object"></span>
@@ -51,6 +51,7 @@ title:
         <strong>Felipe Guaman Poma de Ayala</strong> (1535 – 1616)Also known as Huamán Poma or Wamán Poma, was a Quechua nobleman known for chronicling and denouncing the ill treatment of the natives of the Andes by the Spanish after their conquest.[2] Today, Guamán Poma is noted for his illustrated chronicle, Nueva corónica y buen gobierno.
       </p>
     </div>
+    
          <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-_qez2aRZcv0%2FV3xl_uHXdqI%2FAAAAAAAABe0%2FGE-7j1p_WNs1SEmj_uYWfCfJLbrF7IJNwCLcB%2Fs1600%2Finca-garcilaso-de-la-vega.jpg);" class="cover bg-center aspect-ratio--object"></span>
