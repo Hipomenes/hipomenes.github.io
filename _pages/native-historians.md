@@ -27,7 +27,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>Teresa de Cartagena</strong> (Burgos, c.1425–?) was a Spanish writer, 
+        <strong>Fernando Alvarado Tezozomoc</strong> (Burgos, c.1425–?) was a Spanish writer, 
         mystic and nun who is considered to be the first Spanish 
         female writer and mystic. She became deaf between 1453 and 1459.
         Her experience of deafness influenced her two known 
@@ -44,7 +44,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        <strong>Saint Teresa of Ávila</strong> (1515–82), 
+        <strong>Anton Munoz Chimalpahin</strong> (1515–82), 
          was one of the great mystics and is a patron saint of Spain. 
          She was the foundress of the reformed, or Discalced, Carmelites. 
          She was born in Avila, in Castile, into an aristocratic family, 
@@ -61,12 +61,12 @@ title:
     </div>  
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.javiersierra.com%2Fwp-content%2Farchivos%2FMaria-de-Agreda-among-the-Indians-682x1024-682x1024.jpg&f=1&nofb=1&ipt=99063032c9e088b2e5ee3c3699359adb49dcb10dc170ec7146045874663a20d7&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://www.ccincagarcilaso.gob.pe/wp-content/uploads/2021/03/camina-el-autor-rojo.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>María de Jesús de Ágreda</strong> (1602 – 1665), was a 
+        <strong>Guaman Poma de Ayala</strong> (1602 – 1665), was a 
         Franciscan abbess and spiritual writer, known especially 
         for her extensive correspondence with King Philip IV 
         of Spain and reports of her bilocation between Spain and New Mexico. 
@@ -84,12 +84,12 @@ title:
     </div>
          <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://www.ccincagarcilaso.gob.pe/wp-content/uploads/2021/03/camina-el-autor-rojo.jpg);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://3.bp.blogspot.com/-_qez2aRZcv0/V3xl_uHXdqI/AAAAAAAABe0/GE-7j1p_WNs1SEmj_uYWfCfJLbrF7IJNwCLcB/s1600/inca-garcilaso-de-la-vega.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>Ursula de Jesús</strong> (1604–1668) was a Roman 
+        <strong>El Inca Garcila de la Vega</strong> (1604–1668) was a Roman 
         Catholic mystic of African descent in 17-century Peru. 
         She was born in Lima, Peru, and was the legitimate daughter 
         of Juan Castilla and Isabel de los Rios. 
