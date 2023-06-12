@@ -103,8 +103,7 @@ title:
         a mystic and beata, lay pious woman, in Lima. 
       </p>
     </div>
-         <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
-      <div class="aspect-ratio aspect-ratio--3x4">
+         <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://media.pri.org/s3fs-public/styles/original_image/public/embed/2018/03/6_luz%20w%20concha%20a.jpg?itok=a_EsFVMD);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
