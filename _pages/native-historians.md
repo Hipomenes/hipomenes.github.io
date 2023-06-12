@@ -32,7 +32,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.thehistoryblog.com%2Fwp-content%2Fuploads%2F2014%2F09%2FCodex-Chimalpahin-first-page.jpg&f=1&nofb=1&ipt=3be9798b2b79677273ac23eeea19409f9e5fce367c9d92537605c73af2b5fd63&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2Fa16f94b0-7b3c-4181-a8e3-b660b6110b76.8173831b22e354ada5a53628f72b1f90.jpeg%3FodnWidth%3D1000%26odnHeight%3D1000%26odnBg%3Dffffff&f=1&nofb=1&ipt=f24b577ad8566ea305ee9fcfbeebf773ee59cfa96f5620b054971717e9840447&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
