@@ -22,7 +22,7 @@ title:
   <section class="fl w-100">
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Ffemmesicietailleurs.com%2Fwp-content%2Fuploads%2F2021%2F03%2Fchristine-de-pisan-%25C2%25A9-Master-of-the-Cite-Des-Dames.jpg%3Ffit%3D1024%252C1468%26ssl%3D1&f=1&nofb=1&ipt=dee7cf02095cf6edc3382707c368ef7d98273f474a6278a68111febf90a73382&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://www.noticonquista.unam.mx/sites/default/files/2020-11/nezahualpilli.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
@@ -39,7 +39,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Feverydaycatholicwoman.com%2Fwp-content%2Fuploads%2F2018%2F10%2FSanta_Teresa_de_%25C3%2581vila._Museo_del_Prado.jpg%3Ffit%3D1441%252C1800%26ssl%3D1&f=1&nofb=1&ipt=965679154068a3d300e37a1ea0f5cd43352bbdc45a3788baf94676f5fca1a6dc&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/d/d6/Ixtolinque.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
@@ -84,7 +84,7 @@ title:
     </div>
          <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-dfgvmbEjbi8%2FWxxXWJKSRQI%2FAAAAAAAAZcc%2F7zaXLehrMVQ3-zsTu21M79uoDKOiRprAACK4BGAYYCw%2Fs1600%2FURSULA%252BJESUS-724467.jpg&f=1&nofb=1&ipt=6b201536732cb95229e2662e3795b6051344b878cf2b40e6cb0ca159f75507f3&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://www.ccincagarcilaso.gob.pe/wp-content/uploads/2021/03/camina-el-autor-rojo.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
@@ -106,7 +106,7 @@ title:
   </section>
 </article>
 
-<footer class="pv4 ph3 ph5-m bg-orange ph6-l mid-gray">
+<footer class="pv4 ph3 ph5-m bg-light-blue ph6-l mid-gray">
   <small class="f6 db light-gray code tc">David H. Colmenares, CC BY-SA 2023.</small>
   <div class="tc code mt3">
     <a href="http://dhcg.xyz" title="Home" class="f6 dib ph2 link white dim">Home</a>
