@@ -4,54 +4,29 @@ permalink: /teaching/
 title: "teaching"
 ---
 
-## Selected Courses
-<div class="pa4">
-  <div class="overflow-auto">
-    <table class="f6 w-100 mw8 center" cellspacing="0">
-      <thead>
-        <tr class="stripe-dark">
-          <th class="fw6 tl pa3 bg-white">Name</th>
-          <th class="fw6 tl pa3 bg-white">Username</th>
-          <th class="fw6 tl pa3 bg-white">Email</th>
-          <th class="fw6 tl pa3 bg-white">ID</th>
-        </tr>
-      </thead>
-      <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">Hassan Johnson</td>
-          <td class="pa3">@hassan</td>
-          <td class="pa3">hassan@companywithalongdomain.co</td>
-          <td class="pa3">14419232532474</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Taral Hicks</td>
-          <td class="pa3">@hicks</td>
-          <td class="pa3">taral@companywithalongdomain.co</td>
-          <td class="pa3">72326219423551</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Tyrin Turner</td>
-          <td class="pa3">@tt</td>
-          <td class="pa3">ty@companywithalongdomain.co</td>
-          <td class="pa3">92325170324444</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Oliver Grant</td>
-          <td class="pa3">@oli</td>
-          <td class="pa3">oliverg@companywithalongdomain.co</td>
-          <td class="pa3">71165170352909</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Dean Blanc</td>
-          <td class="pa3">@deanblanc</td>
-          <td class="pa3">dean@companywithalongdomain.co</td>
-          <td class="pa3">71865178111909</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
+My course 
 
+All my teaching involves finding critical pathways within a loosely defined Iberian archive, that is, the textual and visual culture produced in the overseas territories dominated by the Habsburg empire.
+My lower division courses, organized as lectures, focus on cultural studies and visual culture.
+In upper division courses revolve around the close reading of philosophical and literary texts.
 
-  - [Past courses](/past-courses/)
+### Lower Division
+
+- [Conquistadors and Castaways](/castaways/).
+- [Latin American Cityscapes]()
+
+### Upper Division
+- [Mexico City: Lived and Imagined](). W2023
+- [Mystics and Visionary Women](/misticas/).
+- [Modernity and the Self](/modern-self/).
+- [Native Intellectuals from Colonial Latin America](/native-historians/).
+- [Stream of Life: Writing Beyond the Self](/beyond-self/).
+
+### Graduate Seminars
+- [Indigenous Inscription: Alternative Literacies in the Americas](). S2023
+- [Critical Theory Workshop: Flowering Voices](). 2024
+
+--- 
+
+[Past courses](/past-courses/)
 
