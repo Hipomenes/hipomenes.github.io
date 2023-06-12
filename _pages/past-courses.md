@@ -1,3 +1,4 @@
+---
 layout: cats
 permalink: /past-courses/
 title: "Past Courses"
