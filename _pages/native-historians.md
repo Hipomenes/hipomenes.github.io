@@ -25,7 +25,6 @@ title:
         <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faws.admagazine.com%2Fprod%2Fdesigns%2Fv1%2Fassets%2F620x818%2F65497.jpg&f=1&nofb=1&ipt=aa2f49307861332c48c3af109efdbe99475c3a7840d7dc114536d2d2c1646f18&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
-    
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
         <strong>Fernando de Alvarado Tezozomoc</strong> (c. 1525-c. 1610) This historian from Mexico-Tenochtitlan, commonly known as Tezozomoc, wrote two narratives on pre-conquest Mexico. His works, published during the nineteenth and twentieth centuries, are important sources on the history of Tenochtitlan, the most important center of the so-called Aztec Empire. Although no sources exist that document Tezozomoc's formal education, his scholarly knowledge is patent in his Cronica Mexicana (c. 1598), written in Spanish. Composed of 112 chapters, in the format of a European chronicle, focuses on the rise and fall of Tenochtitlan. It creates a hybrid genre in which alphabetic writing is used to transcribe oral and pictographic ancient accounts. 
@@ -40,18 +39,7 @@ title:
       <p class="f6 lh-copy measure">
         <strong>Domingo Francisco de San Antón Muñón Chimalpahin Quauhtlehuanitzin</strong> (1579–1660), was a Nahua historian from Chalco. He was the grandson of the late Don Domingo Hernández Ayopochtzin, a seventh-generation descendant of the founding king of the polity. Don Domingo was learned and esteemed, especially for his education and his record-keeping skills in the ancient tradition. He wrote on the history of Mexico and other neighboring nations in the Nahuatl and Spanish languages. 
       </p>
-    </div> 
-     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
-      <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/2/25/Felipe_Guam%C3%A1n_Poma_de_Ayala.jpg);" class="cover bg-center aspect-ratio--object"></span>
-      </div>
     </div>
-    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
-      <p class="f6 lh-copy garamond measure">
-        <strong>Felipe Guaman Poma de Ayala</strong> (1535 – 1616)Also known as Huamán Poma or Wamán Poma, was a Quechua nobleman known for chronicling and denouncing the ill treatment of the natives of the Andes by the Spanish after their conquest.[2] Today, Guamán Poma is noted for his illustrated chronicle, Nueva corónica y buen gobierno.
-      </p>
-    </div>
-    
          <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-_qez2aRZcv0%2FV3xl_uHXdqI%2FAAAAAAAABe0%2FGE-7j1p_WNs1SEmj_uYWfCfJLbrF7IJNwCLcB%2Fs1600%2Finca-garcilaso-de-la-vega.jpg);" class="cover bg-center aspect-ratio--object"></span>
