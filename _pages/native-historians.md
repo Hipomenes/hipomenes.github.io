@@ -8,7 +8,7 @@ title:
 <article class="vh-100 dt w-100 bg-light-blue">
   <div class="dtc v-mid tc navy ph3 ph4-l">
     <h1 class="f6 f2-m f-subheadline-l fw6 tc helvetica">Native Historians from Colonial Latin America</h1>
-    <h2 class="f5 f2-m f-subheadline-l washed-blue fw5 tc athelas">Tezozomoc, Chimalpahin, Guamán Poma, Inca Garcilaso</h2>
+    <h2 class="f5 f2-m f-subheadline-l washed-blue fw5 tc athelas">Tezozomoc, Chimalpahin, Guamán Poma, Inca Garcilaso, Luz Jim</h2>
             <h3 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">Comparative Literature. Spring 2024</h3>
   </div>
 </article>
@@ -101,6 +101,52 @@ title:
         The daughter of slaves, her first experience with mysticism 
         was when she became the property of Luisa de Melgarejo Sotomayor, 
         a mystic and beata, lay pious woman, in Lima. 
+      </p>
+    </div>
+         <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(https://www.ccincagarcilaso.gob.pe/wp-content/uploads/2021/03/camina-el-autor-rojo.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy garamond measure">
+        <strong>Guaman Poma de Ayala</strong> (1602 – 1665), was a 
+        Franciscan abbess and spiritual writer, known especially 
+        for her extensive correspondence with King Philip IV 
+        of Spain and reports of her bilocation between Spain and New Mexico. 
+        She was a noted mystic of her era. A member of the Order of the 
+        Immaculate Conception, also known as Conceptionists, Mary of Jesus 
+        wrote 14 books, including a series of revelations about the 
+        life of the Blessed Virgin Mary. Her bilocation activity is said to 
+        have occurred between her cloistered monastery in rural Spain 
+        and the Jumano Indians of central New Mexico and West Texas, 
+        as well as Tucson, and inspired many Franciscan missionaries 
+        in the New World. In popular culture since the 17th century, 
+        she has been dubbed the Lady in Blue and the Blue Nun, 
+        after the color of her order's habit.  
+      </p>
+    </div>
+         <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(https://media.pri.org/s3fs-public/styles/original_image/public/embed/2018/03/6_luz%20w%20concha%20a.jpg?itok=a_EsFVMD);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+        <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy garamond measure">
+        <strong>Luz Jim</strong> (1602 – 1665), was a 
+        Franciscan abbess and spiritual writer, known especially 
+        for her extensive correspondence with King Philip IV 
+        of Spain and reports of her bilocation between Spain and New Mexico. 
+        She was a noted mystic of her era. A member of the Order of the 
+        Immaculate Conception, also known as Conceptionists, Mary of Jesus 
+        wrote 14 books, including a series of revelations about the 
+        life of the Blessed Virgin Mary. Her bilocation activity is said to 
+        have occurred between her cloistered monastery in rural Spain 
+        and the Jumano Indians of central New Mexico and West Texas, 
+        as well as Tucson, and inspired many Franciscan missionaries 
+        in the New World. In popular culture since the 17th century, 
+        she has been dubbed the Lady in Blue and the Blue Nun, 
+        after the color of her order's habit.  
       </p>
     </div>
   </section>
