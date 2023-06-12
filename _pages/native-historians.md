@@ -39,8 +39,8 @@ title:
       <p class="f6 lh-copy measure">
         <strong>Domingo Francisco de San Antón Muñón Chimalpahin Quauhtlehuanitzin</strong> (1579–1660), was a Nahua historian from Chalco. He was the grandson of the late Don Domingo Hernández Ayopochtzin, a seventh-generation descendant of the founding king of the polity. Don Domingo was learned and esteemed, especially for his education and his record-keeping skills in the ancient tradition. He wrote on the history of Mexico and other neighboring nations in the Nahuatl and Spanish languages. 
       </p>
-    </div>
-         <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+    </div>    
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-_qez2aRZcv0%2FV3xl_uHXdqI%2FAAAAAAAABe0%2FGE-7j1p_WNs1SEmj_uYWfCfJLbrF7IJNwCLcB%2Fs1600%2Finca-garcilaso-de-la-vega.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
