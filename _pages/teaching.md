@@ -30,6 +30,7 @@ All my teaching at UC Irvine involves unearthing critical pathways within a broa
 ### Doctoral Seminars
 - [Indigenous Inscription: Alternative Literacies in the Americas](). sS2023.
 - [Critical Theory Workshop: Flowering Voices](). swf2024.
+- ["Tupi or not Tupi": Translating Otherness in Colonial Latin America](/translation-seminar/)
 
 --- 
 
