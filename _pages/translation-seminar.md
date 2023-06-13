@@ -14,7 +14,9 @@ title:
 </article>
 
 <article class="cf pa3 mw9 center">
-  <p class="f6 f4-ns lh-copy measure center navy helvetica">
+ <div class="pa3 pa5-ns">
+   <p class="f5 lh-copy measure-wide navy helvetica">
     The course traces a double movement: on the one hand, it explores the translation of Amerindian verbal arts that emerged from Iberian expansion in the sixteenth-century; on the other, it examines the theoretical and critical reverberations that Amerindian verbal arts continue to have in translation theory and literary practice to this day. During the first two centuries Spanish colonial rule, missionary lexicographers, following the trailblazing model of Antonio de Nebrija’s <i>Gramática de la lengua castellana</i> (1492)—the first grammatical treatise on an European vernacular—created a vast corpus of artes (grammars) and bilingual dictionaries of Amerindian languages such as Nahuatl, Zapotec, Mayan, Quechua, Aymara, but also Philippine languages such as Tagalog and Visayan. Spanish mendicant linguists even pioneered the European study of languages such as Japanese, Chinese and Malay. In the process of amassing materials for these dictionaries, Spanish and indigenous lenguas (translators) unwittingly preserved for posterity what Daniel G. Brinton called “the great literary monuments of the Americas”: works like the <i>Popol Vuj</i>, the <i>Cantares mexicanos</i>, the <i>Rabinal Achí</i> or the <i>Manuscript of Huarochirí</i>. By challenging the very foundations of European textuality and logocentrism, the translation of Amerindian verbal arts has posed seemingly insurmountable challenges since the sixteenth century, which perhaps explains the theoretical productivity that some of these works continue to have to this day. The course explores contending translation practices and forays into Amerindian verbal arts—but also works in Chinese and Tagalog—in light of contemporary debates and critical turns.
-    </p>
-  </article>
+   </p>
+ </div>
+</article>
