@@ -1,7 +1,7 @@
 ---
-layout: default
+title: ""
+layout: page
 permalink: /past-courses/
-title:
 ---
 
 
