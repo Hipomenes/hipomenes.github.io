@@ -16,7 +16,7 @@ title:
   <div class="f6 lh-copy fl w-100 mb4">
     <div class="fl-ns w-100 w-20-l pr3-m pr5-l">
       <p>
-        UCI <small class="fw6">2023/4</small>
+        UCI <small class="fw6">2023-4</small>
       </p> 
     </div>
     <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
