@@ -15,29 +15,29 @@ title:
     </h1>
   </div>
   <div class="f6 lh-copy fl w-100 mb4">
-    <div class="fl-ns w-100 w-20-l  helveticapr3-m pr5-l">
+    <div class="fl-ns w-100 w-20-l helvetica pr3-m pr5-l">
       <p>
         UCI <small class="fw6 helvetica">2023-4</small>
       </p> 
     </div>
-    <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
+    <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
       <p>
-        Institut suisse pour l'étude de l'art
+        Cicadas, Sirens and the Anamnesis of Voice
       </p> 
     </div>
-    <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
+    <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
       <p>
-        Schweizerisches<br class="dn db-l"> Institut für Kunstwissenschaft
+        Sound, <br class="dn helvetica db-l"> Music and Anthropogenesis
       </p> 
     </div>
-    <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
+    <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
       <p>
-        Istituto svizzero di studi d'arte
+        Cantos Bífidos (Bifid songs)
       </p>
     </div>
     <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
       <p>
-        Swiss Institute for Art Research
+        Contact
       </p>
     </div>
   </div>
