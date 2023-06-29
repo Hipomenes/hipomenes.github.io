@@ -4,6 +4,7 @@ permalink: /voice/
 title:
 ---
 
+<link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
 <main class="cf pa3 pa4-m pa5-l mw9 center">
   <div class="fr w-100 w-80-l">
     <p class="f6">
