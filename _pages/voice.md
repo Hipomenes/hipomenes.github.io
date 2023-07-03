@@ -16,8 +16,8 @@ title:
   </div>
   <div class="f6 lh-copy fl w-100 mb4">
     <div class="fl-ns w-100 w-20-l helvetica pr3-m pr5-l">
-      <p>
-        UCI 2023-4
+      <p> 
+        UCI 2023-4 
       </p> 
     </div>
     <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
@@ -35,7 +35,7 @@ title:
         III. Bifid Songs
       </p>
     </div>
-    <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
+    <div class="fl-ns w-50-m helvetica w-20-l pr3-m pr5-l">
       <p>
         Contact
       </p>
