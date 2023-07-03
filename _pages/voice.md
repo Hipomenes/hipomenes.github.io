@@ -17,22 +17,22 @@ title:
   <div class="f6 lh-copy fl w-100 mb4">
     <div class="fl-ns w-100 w-20-l helvetica pr3-m pr5-l">
       <p>
-        UCI <small class="fw6 helvetica">2023-4</small>
+        UCI 2023-4
       </p> 
     </div>
     <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
       <p>
-        Cicadas, Sirens and the Anamnesis of Voice
+        I. Cicadas, Sirens and the Anamnesis of Voice
       </p> 
     </div>
     <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
       <p>
-        Sound, <br class="dn helvetica db-l"> Music and Anthropogenesis
+        II. Sound, <br class="dn helvetica db-l"> Music and Anthropogenesis
       </p> 
     </div>
     <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
       <p>
-        Cantos Bífidos (Bifid songs)
+        III. Bifid Songs
       </p>
     </div>
     <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
