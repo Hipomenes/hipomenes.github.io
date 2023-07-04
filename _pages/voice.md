@@ -20,24 +20,24 @@ title:
         UCI 2023-4 
       </p> 
     </div>
-    <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
+    <div class="fl-ns w-50-m w-20-l b helvetica pr3-m pr5-l">
       <p>
         I. Cicadas, Sirens and the Anamnesis of Voice
       </p> 
     </div>
-    <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
+    <div class="fl-ns w-50-m w-20-l b helvetica pr3-m pr5-l">
       <p>
         II. Sound, <br class="dn helvetica db-l"> Music and Anthropogenesis
       </p> 
     </div>
-    <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
+    <div class="fl-ns w-50-m w-20-l b helvetica pr3-m pr5-l">
       <p>
         III. Bifid Songs
       </p>
     </div>
-    <div class="fl-ns w-50-m helvetica w-20-l pr3-m pr5-l">
+    <div class="fl-ns w-50-m w-20-l helvetica pr3-m pr5-l">
       <p>
-        Contact
+        About
       </p>
     </div>
   </div>
