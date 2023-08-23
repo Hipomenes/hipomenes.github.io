@@ -5,6 +5,7 @@ title:
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+<script src="https://kit.fontawesome.com/7d0f951e32.js" crossorigin="anonymous"></script>
 <article class="vh-100 dt w-100 bg-orange">
   <div class="dtc v-mid tc navy ph3 ph4-l">
     <h1 class="f6 f2-m f-subheadline-l fw6 tc helvetica">Language Speaks | The Voice in Philosophy and Theory</h1>
