@@ -14,9 +14,9 @@ title:
   </div>
 </article>
 
- <div class="tl bt b--black-10 pa3 pa5-ns bg-lightest-blue navy" id="principles">
+ <div class="tl bt b--black-10 pa3 pa5-ns helvetica bg-lightest-blue navy" id="first-module">
             <div class="mw9 center">
-              <h1 class="f5 ttu tracked fw6">Principles</h1>
+              <h1 class="f5 ttu tracked fw6">How Philosophy Lost its Voice</h1>
               <section class="lh-copy">
                 <div class="cf">
                   <article class="fl pv2 w-100 w-third-l pr4-l">
