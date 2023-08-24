@@ -20,10 +20,9 @@ title:
               <section class="lh-copy">
                 <div class="cf">
                   <article class="fl pv2 w-100 w-third-l pr4-l">
-                    <h2 class="f5 f4-ns fw6 mb0">Responsive</h2>
+                    <h2 class="f5 f4-ns fw6 mb0">Introduction</h2>
                     <p class="f6 f5-ns measure lh-copy mt0">
-                      Everything should be 100% responsive. Your website should work regardless of a user’s
-                      device or screensize.
+                      Introduction to the module: how philosophy lost it's voice. Preliminary readings include Plato's Chratylus.
                     </p>
                   </article>
                   <article class="pv2 fl w-100 w-third-l ph3-l">
