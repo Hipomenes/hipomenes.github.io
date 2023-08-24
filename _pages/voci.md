@@ -102,7 +102,7 @@ title:
 
 <article class="cf pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
-    <h2 class="lh-title f3 b mt0">
+    <h2 class="lh-title b helvetica f3 mt0">
 Noise | Musicality 
     </h2>
   </header>
