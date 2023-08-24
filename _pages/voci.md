@@ -100,7 +100,7 @@ title:
   </section>
 </article>
 
-<article class="vh-100 dt w-100 bg-lightest-blue">
+<article class="vh-100 dt w-100 center bg-lightest-blue">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
     <h2 class="lh-title b helvetica f3 mt0">
 Noise | Musicality / Anthropogenesis
