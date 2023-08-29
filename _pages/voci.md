@@ -43,8 +43,9 @@ title:
                     </p>
                   </article>
 </div>
+                
 <div class="cf w-100">
-                  <article class="pv2 fl w-100 w-third-l pl0 pr4-l">
+                  <article class="pv2 fl w-100 w-50-l pl0 pr4-l">
                     <h2 class="f5 f4-ns fw6 mb0">The house of being</h2>
                     <p class="f6 f5-ns measure lh-copy mt0">
                       We end this module reading two instances in which Philosophy went public. The first is Heidegger's  <strong>Letter on Humanism </strong>strong> (1946). The second is a public lecture by Peter Sloterdijk titled "The Domestication of Being: The Clarification of the Clearing", originally delivered on a colloquium on biotechnology in the Centre Georges Pompidou in Paris, March 2000.         </p>
