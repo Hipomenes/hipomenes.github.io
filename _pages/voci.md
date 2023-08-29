@@ -19,13 +19,13 @@ title:
               <h1 class="f3 ttu tracked fw6">How Philosophy Lost its Voice</h1>
               <section class="lh-copy">
                 <div class="cf">
-                  <article class="fl pv2 w-100 w-third-l pr4-l">
+                  <article class="fl pv2 w-100 w-50-l pr4-l">
                     <h2 class="f4 f4-ns fw6 mb0">Introduction</h2>
                     <p class="f6 f5-ns measure lh-copy mt0">
                       Introduction to the module: how philosophy lost it's voice. Preliminary readings include Plato's Chratylus.
                     </p>
                   </article>
-                  <article class="pv2 fl w-100 w-third-l ph3-l">
+                  <article class="pv2 fl w-100 w-50-l ph3-l">
                     <h2 class="f5 f4-ns fw6 mb0">Readable</h2>
                     <p class="f6 f5-ns measure lh-copy mt0">
                       No matter the lighting, or the device, font-sizes should be
@@ -33,7 +33,7 @@ title:
                       users to easily read your content.
                     </p>
                   </article>
-                  <article class="pv2 fl w-100 w-third-l pl4-l">
+                  <article class="pv2 fl w-100 w-50-l pl4-l">
                     <h2 class="f5 f4-ns  fw6 mb0">
                       Modular
                     </h2>
