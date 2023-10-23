@@ -8,16 +8,17 @@ title: "teaching"
 
 ![Mapa Coazcalco, 1580](https://materialescartografiamexicana.files.wordpress.com/2014/04/1186-oyb-7272-a.jpg)
 
-Most of my teaching at UC Irvine involves unearthing critical pathways within a broadly-defined Iberian archive---that is, the textual and visual culture produced in Spain and Colonial Latin America during the three centuries of Spanish domination, with a special focus on New Spain (Mexico). This archive includes not only the literatures of the Iberian Peninsula, but also the earliest critical discourses elicited by imperial expansion, as well as a wide range of pictographic and textual sources produced by Indigenous peoples. The pathways I seek to uncover reconnect the Iberian archive with wider currents of early modern thought, particularly philosophy and political theory. Lower division courses, organized as lectures, focus on cultural studies and visual culture. Upper division courses center on the close reading of philosophical, historical accounts, and literary texts.
+Most of my teaching at UC Irvine involves unearthing critical pathways within a broadly-defined Iberian archive---that is, the textual, visual and sensorial culture produced within the context of Iberian expansion in Spanish America and other territories during the three centuries of Spanish domination. Within this archive, I'm particularly intersted in the earliest critical discourses elicited by imperial expansion, as well as a wide range of discourses---textual, aural, pictographic---produced by Indigeneous peoples. The pathways I seek to recuperate are also those that connect the Iberian archive with wider currents of early modern intelectual history, particularly philosophy and political theory. Lower division courses, organized as lectures, focus on cultural studies and visual culture. Upper division courses center on the close reading of philosophical and theological texts, historical accounts, and literary texts.
 
 ---
 
 ### Lower Division Courses
 
 - [Conquistadors and Castaways](/castaways/).
+- [Mexico City, Lived and Imagined]()
 - [Latin American Cityscapes]()
-- [Visual Narrative: From Codices to Comics]()
-- [Greater Mexico in 10 images]()
+- [Latin American through Comics: From Sahagun to Jodorwsky]()
+- [Greater Mexico in 20 images]()
 
 ### Upper Division Courses
 - [Mexico City: Lived and Imagined](). s2023.
@@ -28,8 +29,8 @@ Most of my teaching at UC Irvine involves unearthing critical pathways within a 
 - [Cervantes and Philosophy](/cervantes/).
 
 ### Doctoral Seminars
-- [Indigenous Inscription: Alternative Literacies in the Americas](). sS2023.
-- [Critical Theory Workshop: Flowering Voices](). swf2024.
+- [Indigenous Inscription: Alternative Literacies in the Americas](). s23.
+- [Critical Theory Workshop: Flowering Voices](). swf24.
 - ["Tupi or not Tupi": Translating Otherness in Colonial Latin America](/translation-seminar/)
 
 --- 
