@@ -8,17 +8,17 @@ title: "teaching"
 
 ![Mapa Coazcalco, 1580](https://materialescartografiamexicana.files.wordpress.com/2014/04/1186-oyb-7272-a.jpg)
 
-Most of my teaching at UC Irvine involves unearthing critical pathways within a broadly-defined Iberian archive---that is, the textual, visual and sensorial culture produced within the context of Iberian expansion in Spanish America and other territories during the three centuries of Spanish domination. Within this archive, I'm particularly intersted in the earliest critical discourses elicited by imperial expansion, as well as a wide range of discourses---textual, aural, pictographic---produced by Indigeneous peoples. The pathways I seek to recuperate are also those that connect the Iberian archive with wider currents of early modern intelectual history, particularly philosophy and political theory. Lower division courses, organized as lectures, focus on cultural studies and visual culture. Upper division courses center on the close reading of philosophical and theological texts, historical accounts, and literary texts.
+Most of my teaching at UC Irvine involves unearthing critical pathways within a broadly-defined Iberian archive---that is, the intellectual, visual and sensorial culture produced within the context of Iberian expansion in Spanish America and other territories during the three and half centuries of Spanish domination. Within this archive, I'm particularly interested in the earliest critical discourses on modernity elicited as a response to imperial expansion, as well as a wide range of critical discourses---textual, aural, pictographic---produced by Indigeneous peoples. The pathways I seek to recuperate are also those that connect the Iberian archive with wider currents of early modern intelectual history, particularly in philosophy and political theory. Lower division courses, organized as lectures, focus on cultural studies and visual culture. Upper division courses and graduate seminars center on the critical reading of philosophical and theological texts, historical accounts, and literary texts.
 
 ---
 
 ### Lower Division Courses
 
 - [Conquistadors and Castaways](/castaways/).
-- [Mexico City, Lived and Imagined]()
-- [Latin American Cityscapes]()
-- [Latin American through Comics: From Sahagun to Jodorwsky]()
-- [Greater Mexico in 20 images]()
+- [Mexico City, Lived and Imagined]().
+- [Latin American Cityscapes]().
+- [Latin American through Comics: From Sahagun to Jodorwsky]().
+- [Greater Mexico in 20 images]().
 
 ### Upper Division Courses
 - [Mexico City: Lived and Imagined](). s2023.
