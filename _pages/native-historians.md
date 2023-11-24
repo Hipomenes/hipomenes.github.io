@@ -8,7 +8,7 @@ title:
 <article class="vh-100 dt w-100 bg-light-blue">
   <div class="dtc v-mid tc navy ph3 ph4-l">
     <h1 class="f6 f2-m f-subheadline-l fw6 tc helvetica">Indigenous Historians from Colonial Latin America</h1>
-    <h2 class="f5 f2-m f-subheadline-l washed-blue fw5 tc athelas">Tezozomoc, Chimalpahin, Guamán Poma, Inca Garcilaso</h2>
+    <h2 class="f5 f2-m f-subheadline-l washed-blue fw5 tc athelas">Tezozomoc, Chimalpahin, Alva Ixtlilxóchitl, Guamán Poma, Inca Garcilaso</h2>
             <h3 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">Comparative Literature. Spring 2024</h3>
   </div>
 </article>
