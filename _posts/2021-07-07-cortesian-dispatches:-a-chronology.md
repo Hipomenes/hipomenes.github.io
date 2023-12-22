@@ -49,8 +49,8 @@ May 15 | Cortés signs the Tercera Carta in Coyoacán. Mentions the map sent wit
 May  | Shipment of objects and inventories: (22) "Relación del oro" (Coyoacán, May 19), (23 )"Memorial de piezas, joyas y plumajes" (gifts for the Emperor, acc. to Martínez), (24) "Memoria de los plumajes" (Coyoacán, May 19). This is famous inventory detailen 117 objects for 13 churches and monasteries and 23 dignitaries. 
 Jul | Ávila and Quiñones sail from Veracruz bringing Cortesian gifts and the 3rd Letter. Treasure is seized by French pirates.
 Jul-Nov | Juan de Rivera sails from Veracruz (acc. to Anghiera, shortly after Ávila and Quiñones.) Acc. to Wagner (1969), he brings his own collection of curioisities. Anghiera mentions objects not mentioned in the inventory.
+October 15 | In Valladolid, Charles V confirms Cortés gobernador, capitan general and justicia mayor. The Cédula Real mentions "donde está la gran laguna donde está edificada la gran cibdad de Temixtitlán-México."
 Nov 8 | Rivera arrives acc. to Wagner (1969, double check.) 
 Nov 8 | Second Letter is printed in Sevilla.
-October 15 | In Valladolid, Charles V confirms Cortés gobernador, capitan general and justicia mayor. The Cédula Real mentions "donde está la gran laguna donde está edificada la gran cibdad de Temixtitlán-México."
-Nov | Rivera arrives to Sevilla with objects and the 2nd Letter.???
-
+Nov?? | Rivera arrives to Sevilla with objects and the 2nd Letter.???
+Nov 15ca | El autor anónimo de la gaceta publicada en Augsburgo a principos 1523 (*Ein Schone Newe Zeytung...*) y que según Wagner se basó en la 2a original y quizá en la carta de Zuazo o de alguien más) pudor ver algunos objetos cortesianos
