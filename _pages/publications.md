@@ -17,15 +17,7 @@ title: "publications"
 
 ## Recent articles
 <ol class="fa-ul">
+    <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2024), “José Revueltas: una estética de la deformación.” <i>Nuevas poligrafías</i>forthcoming</li>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares, “‘Postreros acentos de la lira indiana’: the Protracted Literary Discovery of the Cantares Mexicanos in the 19th Century,”<i>Hispanic American Historical Review</i> (2022) 102 (3): 415–448.</li>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2021) “‘Su herencia fue el llanto.’ Pathos, memoria y condensación temporal en los Cantares mexicanos.” <i>Colonial Latin American Review</i>, 30: 1, 3-24</li>
-  <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares, “José Revueltas: una estética de la deformación.” <i>Nuevas poligrafías</i>forthcoming</li>   
-  <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares, “The Bibliographic Muse: Mexican Literature and the Colonial Archive” in a <i>A History of the Mexican Novel</i> (ed. by I. Sánchez Prado, A. M. Nogar and J. R. Ruisánchez), Cambridge University Press, forthcoming Winter 2022</li>  
-</ol>
-
-## Articles in progress
-<ol class="fa-ul">
-  <li><span class="fa-li"><i class="fa fa-pencil"></i></span>“Republica Gentilica: Aztec Rulership and Infra-Sovereignty in the Nuremberg Map of Tenochtitlan”</li>
-  <li><span class="fa-li"><i class="fa fa-pencil"></i></span>“Mexico,” in <i>National Epics</i> (ed. by David Wallace), under contract with Oxford University Press</li>   
-  <li><span class="fa-li"><i class="fa fa-pencil"></i></span>“Nueva España Figurada: nuevas hipótesis sobre el plano-mapa de Tenochtitlán (1524)”</li>
 </ol>
