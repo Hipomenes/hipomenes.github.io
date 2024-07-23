@@ -17,7 +17,7 @@ title: "publications"
 
 ## Recent articles
 <ol class="fa-ul">
-    <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2024), “José Revueltas: una estética de la deformación.” <i>Nuevas poligrafías</i>forthcoming</li>
+    <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2024), “José Revueltas: una estética de la deformación.” <i>Nuevas poligrafías</i>, forthcoming</li>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares, “‘Postreros acentos de la lira indiana’: the Protracted Literary Discovery of the Cantares Mexicanos in the 19th Century,”<i>Hispanic American Historical Review</i> (2022) 102 (3): 415–448.</li>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2021) “‘Su herencia fue el llanto.’ Pathos, memoria y condensación temporal en los Cantares mexicanos.” <i>Colonial Latin American Review</i>, 30: 1, 3-24</li>
 </ol>
