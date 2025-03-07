@@ -19,6 +19,23 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+    /* Custom styles to fix bold font issue */
+    strong, b, .fw6, .fw7, .fw8, .fw9 {
+      font-weight: 700 !important;
+    }
+    
+    /* Ensure EB Garamond is properly applied */
+    body {
+      font-family: 'EB Garamond', serif;
+    }
+    
+    /* Override any font weights that might be causing issues */
+    .normal {
+      font-weight: 400;
+    }
+  </style>
   
   <title>
     {% if page.title == "Home" %}
