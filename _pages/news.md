@@ -21,14 +21,15 @@ See some of my recent activities:
         {{ post.date | date_to_string }}
     </time>
 
-    <div class="di-ns mb2">
-    <a class="link black bold hover-red" href="{{ BASE_PATH }}{{ post.url }}">
+<div class="di-ns mb2">
+    <a class="link black b hover-red" href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
     </a>
         <time class="fw8-m grey">
         {{ post.excerpt }}
     </time> 
     </div>
+    
 {% endfor %}
 <br>
 </div>
