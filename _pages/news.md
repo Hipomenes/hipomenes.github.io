@@ -22,7 +22,7 @@ See some of my recent activities:
     </time>
 
 <div class="di-ns mb2">
-    <a class="link black fw7 hover-red" href="{{ BASE_PATH }}{{ post.url }}">
+    <a class="link black fw7 hover-bg-yellow hover-black" href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
     </a>
         <time class="fw8-m grey">
