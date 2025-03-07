@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/public/global.css">
+  <link rel="stylesheet" href="/public/tachyons/css/tachyons.min.css">
+  
+  <!-- github serves feed.xml in ASCII instead of UTF8. Change file extenstion and indicate here. -->
+  <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Feed" href="{{ site.url }}/feed.atom" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.url }}" />
+  <!-- Fonts -->  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.ico?v=1">
+  
+  <!-- Custom styles for Alegreya -->
+  <style>
+    .alegreya {
+      font-family: 'Alegreya', serif;
+    }
+    
+    /* Optional: Improve typographic details */
+    .heading-spacing {
+      letter-spacing: 0.01em;
+    }
+  </style>
+</head>
+<body class="alegreya center bg-washed-yellow f4 fw1 mw9 mw7-ns near-black normal pa3 ph4-ns lh-copy">
+    <div class="bt bw2 mb3 mt0 pt2 ph2 tc tl-ns">
+       <span class="fw7 tracked-tight">david h. colmenares</span>
+       
+        {% if page.title %}
+            <a href="{{ site.url }}" class="black code fw2 hover-red no-underline">⨳</a>
+        {% else %}
+            <a href="{{ site.url }}" class="code fw2 no-underline red">⨳</a>
+        {% endif %}
+        {% assign sorted_pages = site.pages | sort:"title" %}
+        {% for node in sorted_pages %}
+        {% if node.title != null %}
+            <a class="silver fw2 hover-red system-sans-serif ttc
+                {% if node.url == page.url %}red
+                {% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+        {% endfor %}
+    </div>
+    
+    <!-- Example content section to demonstrate various font weights -->
+    <div class="measure-wide center">
+        <h1 class="f2 fw8 lh-title mt4 mb3">Welcome to my website</h1>
+        <p class="f4 lh-copy">This is regular Alegreya text that demonstrates the beautiful typography of this serif font. The font features elegant letterforms that work well for both body text and headings.</p>
+        <p class="f4 fw6 lh-copy">This paragraph uses semi-bold (fw6) weight to <strong>emphasize</strong> important information.</p>
+        <p class="f4 lh-copy">You can use <span class="fw7">bold text (fw7)</span> for stronger emphasis or <span class="fw8">extra-bold (fw8)</span> for even more attention.</p>
+        
+        <h2 class="f3 fw7 lh-title mt4 mb3">Typography Examples</h2>
+        <p class="f4 lh-copy">The <em>italic version</em> of Alegreya is particularly elegant for emphasizing text within paragraphs.</p>
+        <p class="f4 lh-copy fw4">Regular weight (fw4) is perfect for body text.</p>
+        <p class="f4 lh-copy fw7">Bold weight (fw7) works well for subheadings and emphasis.</p>
+        <p class="f4 lh-copy fw9">Black weight (fw9) creates maximum impact for very important elements.</p>
+    </div>
+</body>
+</html>
