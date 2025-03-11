@@ -6,6 +6,11 @@ title: "talks"
 
 ## Invited talks, Conferences and Organized Panels
 
+- “Interpolation and Codigofagia in the Cantares mexicanos”, International Symposium on the Cantares mexicanos, Library of Congress, May 2025.
+- “Convexity and Sovereignty: The Nuremberg Map of Tenochtitlan at 500.” Winter webinar, Colonial Section of the Latin American Studies Association, Dec 16, 2024
+- “‘Biblias de solas figuras’: nuevas hipótesis sobre el Códice Vaticano A”. Invited talk at Universidad Nacional Autónoma de México’s Instituto de Investigaciones Filológicas, Dec 10, 2023. 
+= “The Burned Pochote: Sacred Trees in Mesoamerica during the Conquest.” Invited talk at Patricia A. Dailey’s Trees course at Columbia University, Nov 14, 2023.
+- “Pictorial Conjectures: A Vernacular Antiquarianism in New Spain.” Invited talk at Stanford’s Center for Medieval and Early Modern Studies, Nov  8, 2023.
 - "Traces and Prefigurations: Evidentiary Pictography in Sixteenth-Century New Spain." Invited lecture at the Sign & Symbol Research Group Seminar, directed by Dr. Katarzyna Mikulska, University of Warsaw, 14 Oct 2022.
 - "Rastros y prefiguraciones: el Códice Vaticano A y el anticuarismo sacro novohispano." Presentation at the "Itineraries of an Artifact: The Codex Vaticanus A and the Intellectual Spheres of the Sixteenth Century" (UNAM-La Sapienza), Rome, 29 Sep 2022.   
 - “Mexico: an American Egypt.” Invited keynote lecture at the Museum Matters series organized by the International Committee for Egyptology (CIPEG) at  the International Council of Museums (ICOM), North Carolina Museum of Art, 23 April 2022.
