@@ -17,6 +17,8 @@ title: "publications"
 
 ## Recent articles
 <ol class="fa-ul">
+
+  <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Tenochtitlán figurada: Nuevas hipótesis sobre el plano-mapa de Núremberg, 1524.” <i>Latin American and Latinx Visual Culture</i>, forthcoming</li>
     <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Arrebato de Iván Zulueta: una ascesis del tiempo vivido.” <i>Ética y cine</i>, forthcoming</li>
     <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Estruendos de la mirada: José Revueltas y la anamorfosis.” <i>Nuevas poligrafías</i>, forthcoming</li>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares, “‘Postreros acentos de la lira indiana’: the Protracted Literary Discovery of the Cantares Mexicanos in the 19th Century,”<i>Hispanic American Historical Review</i> (2022) 102 (3): 415–448.</li>
