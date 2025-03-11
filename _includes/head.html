@@ -64,7 +64,7 @@
         {% assign sorted_pages = site.pages | sort:"title" %}
         {% for node in sorted_pages %}
         {% if node.title != null %}
-            <a class="silver fw2 helvetica hover-red system-sans-serif ttc
+            <a class="pink fw2 helvetica hover-red system-sans-serif ttc
                 {% if node.url == page.url %}red
                 {% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}
