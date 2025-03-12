@@ -70,10 +70,4 @@
         {% endif %}
         {% endfor %}
       
-      {% for node in sorted_pages %}
-{% if node.title != null %}
-    <a class="nav-link {% if node.url == page.url %}active{% endif %}" 
-       href="{{ node.url }}">{{ node.title }}</a>
-{% endif %}
-{% endfor %}
     </div>
