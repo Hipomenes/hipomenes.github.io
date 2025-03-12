@@ -17,11 +17,28 @@ html *
     -webkit-text-size-adjust: 100%;
 }
 
+/* Style for all links */
 a {
-    color: slategray;
-    text-decoration: none;
     font-weight: 500;
     font-variant: small-caps;
+    color: slategray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: silver;
+}
+
+/* Override styles for links within headings */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-weight: inherit;
+    font-variant: normal;
+    color: inherit;
+    text-decoration: inherit;
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+    color: inherit;
 }
 
 article {
