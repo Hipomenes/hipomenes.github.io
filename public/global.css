@@ -17,7 +17,6 @@ html *
     -webkit-text-size-adjust: 100%;
 }
 
-/* Create a specific class for navigation links */
 .nav-link {
     font-weight: 500;
     font-variant: small-caps;
@@ -26,7 +25,11 @@ html *
 }
 
 .nav-link:hover {
-    color: pink;
+    color: silver;
+}
+
+.nav-link.active {
+    color: red;
 }
 
 article {
