@@ -17,19 +17,11 @@ html *
     -webkit-text-size-adjust: 100%;
 }
 
-.nav-link {
-    font-weight: 500;
-    font-variant: small-caps;
+a {
     color: slategray;
     text-decoration: none;
-}
-
-.nav-link:hover {
-    color: silver;
-}
-
-.nav-link.active {
-    color: red;
+    font-weight: 500;
+    font-variant: small-caps;
 }
 
 article {
