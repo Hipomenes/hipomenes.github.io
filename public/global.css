@@ -17,15 +17,16 @@ html *
     -webkit-text-size-adjust: 100%;
 }
 
-a {
-    color: slategray;
-    text-decoration: none;
+* Create a specific class for navigation links */
+.nav-link {
     font-weight: 500;
     font-variant: small-caps;
+    color: slategray;
+    text-decoration: none;
 }
 
-a:hover {
-    color: red;
+.nav-link:hover {
+    color: pink;
 }
 
 article {
