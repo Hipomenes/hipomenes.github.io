@@ -17,33 +17,26 @@ html *
     -webkit-text-size-adjust: 100%;
 }
 
-/* Style for all links */
-a {
+/* Style for all links that are not headings */
+a:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
     font-weight: 500;
     font-variant: small-caps;
     color: slategray;
     text-decoration: none;
 }
 
-a:hover {
+a:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):hover {
     color: silver;
 }
 
-/* Override styles for heading elements */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: inherit;
-    font-variant: normal;
-}
-
-/* Override styles for headings that are also links */
-h1[href], h2[href], h3[href], h4[href], h5[href], h6[href],
+/* Specific override for links inside headings */
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     font-weight: inherit;
     font-variant: normal;
     color: inherit;
+    text-decoration: inherit;
 }
 
-h1[href]:hover, h2[href]:hover, h3[href]:hover, h4[href]:hover, h5[href]:hover, h6[href]:hover,
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     color: inherit;
 }
