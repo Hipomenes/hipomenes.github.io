@@ -35,6 +35,19 @@ h1, h2, h3, h4, h5, h6 {
     font-variant: normal;
 }
 
+/* Override styles for headings that are also links */
+h1[href], h2[href], h3[href], h4[href], h5[href], h6[href],
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-weight: inherit;
+    font-variant: normal;
+    color: inherit;
+}
+
+h1[href]:hover, h2[href]:hover, h3[href]:hover, h4[href]:hover, h5[href]:hover, h6[href]:hover,
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+    color: inherit;
+}
+
 article {
    margin-top: 1em;
 }
