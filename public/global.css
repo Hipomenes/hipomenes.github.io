@@ -19,10 +19,7 @@ html *
 
 a {
     font-weight: 500;
-    color: pink;
-    text-decoration: none;
-    font-variant: small-caps;
-    
+    color: pink;    
 }
 
 article {
