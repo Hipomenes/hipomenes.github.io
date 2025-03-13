@@ -19,7 +19,9 @@ html *
 
 a {
     color: pink;
-    text-decoration: none;   
+    text-decoration: underline-hover;
+    font-variant: small-caps;
+    
 }
 
 article {
