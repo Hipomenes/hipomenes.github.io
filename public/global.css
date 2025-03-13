@@ -20,7 +20,7 @@ html *
 a {
     font-weight: 500;
     color: pink;
-    text-decoration: underline-hover;
+    text-decoration: none;
     font-variant: small-caps;
     
 }
