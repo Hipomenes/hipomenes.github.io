@@ -2,7 +2,7 @@
 author: dhc 
 layout: post
 categories: news
-title: New article on José Revuelas
+title: New article: José Revueltas and Anamorphism
 ---
 
 My new article, "Estruendos de la mirada: José Revueltas y la anamorfosis", just appeared in UNAM's *Nuevas Poligrafías: Revista de Teoría Literaria y Literatura Comparada*.
