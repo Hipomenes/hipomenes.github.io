@@ -5,9 +5,11 @@ categories: news
 title: New article on José Revuelas
 ---
 
-My new article, "Estruendos de la mirada: José Revueltas y la anamorfosis", has just been published in *Nuevas Poligrafías*.
+My new article, "Estruendos de la mirada: José Revueltas y la anamorfosis", just appeared in UNAM's *Nuevas Poligrafías: Revista de Teoría Literaria y Literatura Comparada*.
 
-> This article proposes a study of the gaze and the vis-
+![nuevas-poligrafias](https://revistas.filos.unam.mx/public/journals/2/cover_issue_123_es_ES.png)
+
+> This article proposes a study of the gaze and the vis
 ible in the work of the Mexican writer José Revueltas
 (1914-1976) based on an analysis of some of the most
 recurrent optical devices in his narrative: convex
@@ -16,17 +18,17 @@ These “depraved perspectives” will lead, in the late
 work written in confinement, to a visual device with
 deep baroque roots: anamorphosis, a visual device
 that requires the decentring of the point of view in
-order to restore the meaning of the image. This tech-
+order to restore the meaning of the image. This tech
 nique underlines the situated and arbitrary nature of
 perception, destabilising all ideological coherence.
 Far from being a mere “metaphysical impertinence,”
 the aesthetics of anamorphic deformation constitutes
 one of the main driving forces of Revueltas’ narrative,
-by positing an irresolvable tension between the im-
+by positing an irresolvable tension between the im
 perative of political action and literary imagination.
 Finally, the article analyses the political and aesthetic
 implications of these optical devices, proposing that
-anamorphosis offers a dialectical solution to the ten-
+anamorphosis offers a dialectical solution to the ten
 sion between political commitment and fascination
 with the criminal underworld. Revueltas’s oeuvre,
 an unavowed heir to baroque aesthetics, destabilises
