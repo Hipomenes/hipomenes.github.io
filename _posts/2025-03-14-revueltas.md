@@ -35,7 +35,7 @@ world, articulating a tragic knowledge that resists the euclidean geometries of 
 
 ### Reference
 
-<div class="ba b--black bw2 pa3 br2 ma2">
+<div class="ba b--black bw1 pa3 br2 ma2">
   <p class="mv0">
     Colmenares González, D. H. (2025). <a href="#">Estruendos de la mirada: José Revueltas y la anamorfosis.</a> <em>Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada</em>, (11), 105–129.
   </p>
