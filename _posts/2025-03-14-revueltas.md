@@ -7,9 +7,7 @@ title: New article on José Revuelas
 
 My new article, "Estruendos de la mirada: José Revueltas y la anamorfosis", has just been published in *Nuevas Poligrafías*.
 
-> Este artículo propone un estudio de la mirada y lo visible en la obra del escritor mexicano José Revueltas (1914-1976) a partir del análisis de algunos de los dispositivos ópticos más recurrentes en su narrativa: los espejos convexos, la mirada torva y el ojo del cíclope. Estas “perspectivas depravadas” desembocarán, en la obra tardía escrita en el encierro, en un dispositivo visual de honda raigambre barroca: la anamorfosis, dispositivo visual que precisa del descentramiento del punto de vista para restaurar el sentido de la imagen. Esta técnica subraya el carácter situado y arbitrario de la percepción, desestabilizando toda coherencia ideológica. Lejos de ser una mera “impertinencia metafísica”, la estética de la deformación anamórfica constituye uno de los motores principales de la narrativa revueltiana, al plantear una tensión irresoluble entre el imperativo de la acción política y la imaginación literaria. Finalmente, el artículo analiza las implicaciones políticas y estéticas de estos dispositivos ópticos, proponiendo que la anamorfosis ofrece una solución dialéctica a la tensión entre el compromiso político y la fascinación por los bajos mundos delincuenciales. La obra de Revueltas, secreta heredera de la estética barroca, desestabiliza el campo visual y expone la fractura de lo social, articulando un saber trágico que resiste las geometrías euclidianas del poder y la ideología.
-
-> *This article proposes a study of the gaze and the vis-
+> This article proposes a study of the gaze and the vis-
 ible in the work of the Mexican writer José Revueltas
 (1914-1976) based on an analysis of some of the most
 recurrent optical devices in his narrative: convex
@@ -38,4 +36,9 @@ world, articulating a tragic knowledge that resists the euclidean geometries of 
 ### Referencia
 
 Colmenares González, D. H. (2025). [Estruendos de la mirada: José Revueltas y la anamorfosis.](https://doi.org/10.22201/ffyl.29544076.2025.11.2136) *Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada*, (11), 105–129. 
- 
+
+<div class="ba b--black-20 pa3 br2 ma2">
+  <p class="mv0">
+    Colmenares González, D. H. (2025). <a href="https://revistas.filos.unam.mx/index.php/nuevaspoligrafias/article/view/2136">Estruendos de la mirada: José Revueltas y la anamorfosis.</a> <em>Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada</em>, (11), 105–129.
+  </p>
+</div> 
