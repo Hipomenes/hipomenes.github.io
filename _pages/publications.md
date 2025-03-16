@@ -18,10 +18,10 @@ title: "publications"
 ## Recent articles
 <ol class="fa-ul">
 
-  <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Estruendos de la mirada: José Revueltas y la anamorfosis.” <i>Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada</i> (11), 105–129.
+<li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), "Estruendos de la mirada: José Revueltas y la anamorfosis." <i>Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada</i> (11), 105–129. <span class="dib bg-yellow black ph2 pv1 br2 f7 fw6 ttu tracked">New</span></li>  
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Tenochtitlán figurada: Nuevas hipótesis sobre el plano-mapa de Núremberg, 1524.” <i>Latin American and Latinx Visual Culture</i>, forthcoming</li>
     <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Arrebato de Iván Zulueta: una ascesis del tiempo vivido.” <i>Ética y cine</i>, forthcoming</li>
     <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), ““The Bibliographic Muse: Mexican Literature and the Colonial Archive.” in <i>A History of the Mexican Novel</i> (ed. by I. Sánchez-Prado, A. M. Nogar and J. R. Ruisánchez), Cambridge University Press, forthcoming</li>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares, “‘Postreros acentos de la lira indiana’: the Protracted Literary Discovery of the Cantares Mexicanos in the 19th Century,”<i>Hispanic American Historical Review</i> (2022) 102 (3): 415–448.</li>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2021) “‘Su herencia fue el llanto.’ Pathos, memoria y condensación temporal en los Cantares mexicanos.” <i>Colonial Latin American Review</i>, 30: 1, 3-24</li>
-</ol>
+  
