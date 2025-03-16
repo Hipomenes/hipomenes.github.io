@@ -33,12 +33,10 @@ an unavowed heir to baroque aesthetics, destabilises
 the visual field and exposes the fracture of the social
 world, articulating a tragic knowledge that resists the euclidean geometries of power and ideology.
 
-### Referencia
+### Reference
 
-Colmenares González, D. H. (2025). [Estruendos de la mirada: José Revueltas y la anamorfosis.](https://doi.org/10.22201/ffyl.29544076.2025.11.2136) *Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada*, (11), 105–129. 
-
-<div class="ba b--black-20 pa3 br2 ma2">
+<div class="ba b--black bw2 pa3 br2 ma2">
   <p class="mv0">
-    Colmenares González, D. H. (2025). <a href="https://revistas.filos.unam.mx/index.php/nuevaspoligrafias/article/view/2136">Estruendos de la mirada: José Revueltas y la anamorfosis.</a> <em>Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada</em>, (11), 105–129.
+    Colmenares González, D. H. (2025). <a href="#">Estruendos de la mirada: José Revueltas y la anamorfosis.</a> <em>Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada</em>, (11), 105–129.
   </p>
-</div> 
+</div>
