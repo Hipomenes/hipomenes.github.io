@@ -7,8 +7,6 @@ title: New article on José Revuelas
 
 My new article, "Estruendos de la mirada: José Revueltas y la anamorfosis", just appeared in UNAM's *Nuevas Poligrafías: Revista de Teoría Literaria y Literatura Comparada*.
 
-![nuevas-poligrafias](https://revistas.filos.unam.mx/public/journals/2/cover_issue_123_es_ES.png)
-
 > This article proposes a study of the gaze and the vis
 ible in the work of the Mexican writer José Revueltas
 (1914-1976) based on an analysis of some of the most
@@ -36,6 +34,8 @@ the visual field and exposes the fracture of the social
 world, articulating a tragic knowledge that resists the euclidean geometries of power and ideology.
 
 ### Reference
+
+![nuevas-poligrafias](https://revistas.filos.unam.mx/public/journals/2/cover_issue_123_es_ES.png)
 
 <div class="ba b--black bw1 pa3 br2 ma2">
   <p class="mv0">
