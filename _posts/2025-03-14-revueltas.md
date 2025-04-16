@@ -33,9 +33,9 @@ an unavowed heir to baroque aesthetics, destabilises
 the visual field and exposes the fracture of the social
 world, articulating a tragic knowledge that resists the euclidean geometries of power and ideology.
 
-### Reference
-
 ![nuevas-poligrafias](https://revistas.filos.unam.mx/public/journals/2/cover_issue_123_es_ES.png)
+
+### Reference
 
 <div class="ba b--black bw1 pa3 br2 ma2">
   <p class="mv0">
