@@ -8,4 +8,4 @@ This is a collection of notes, minutiae, quotes and book lists that are "too tri
 
 This notebook can thus be regarded as a cyber-punk tribute to Andrés Henestrosa's endlessly entertaining *Alacena de minucias*, itself a tribute to [Lizardi's *Alacena de frioleras*](/assets/alacena.png), a column that ran weekly from June 1951 to Feb 1969 in Mexico's *El Nacional*.
 
-New: Check out my [reading lists!](/lecturas/)
+I also keep a set of [reading lists](/lecturas/).
