@@ -60,6 +60,18 @@ title:
         <strong>Ursula de Jesús</strong> (1604–1668) was a Black mystic who lived in 17th century Lima, Peru, where she spent forty-three years as a slave, including twenty-eight years in the Franciscan Convent of Santa Clara. After being freed, she became a donada—a servant who took religious vows but wasn't granted full status as a nun. Beginning in 1650, her confessors ordered her to record her numerous visions, particularly of souls in purgatory, creating a diary that reveals both her spiritual experiences and everyday concerns. Though she practiced extreme physical penances typical of Spanish mystics, including wearing a hair shirt and crown of thorns while performing manual labor, her plainspoken diary articulates a theology that subtly challenged colonial Lima's racial hierarchies, particularly when she questioned whether Black women could go to heaven. Her writings navigate the complex relationship between Christian humility and self-worth in the context of slavery and racism, as she struggled to reconcile her belief in her own lowliness with her visions affirming the equal value of all souls in God's eyes.
       </p>
     </div>
+    
+ <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(https://images.ctfassets.net/ssn6gmzvvg61/2pgyNmAACXw3s1BsHmhWfV/21af894d3f3f1330ed71f424fc38b869/MughalArtistDetail2.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy garamond measure">
+        <strong>Catarina de San Juan</strong> (Burgos, c.1425– after 1478) was a groundbreaking Spanish writer, mystic, and nun who emerged as the first female Spanish-language writer and mystic in late medieval Castile. Born into a prominent converso family (Christians of Jewish lineage) in Burgos, she likely received an exceptional education for a woman of her time, possibly studying at the University of Salamanca as she mentions in her writing. Teresa initially entered the Franciscan Monastery of Santa Clara in Burgos around 1440, but later transferred to the Cistercian Abbey of Santa María la Real de Las Huelgas in 1449, possibly due to growing hostility toward conversos. It was during this period that Teresa became deaf, an affliction that profoundly shaped her spiritual and intellectual life, leading her to compose two significant works: "Arboleda de los enfermos" (Grove of the Infirm), which explored her spiritual journey through illness and solitude, and "Admiraçión operum Dey" (Wonder at the Works of God), written shortly after as a defense against male critics who doubted a woman could have authored such an eloquent text, boldly arguing for women's intellectual equality and claiming that if God could bestow gifts of intellect on men, He could equally bestow them on women.
+      </p>
+    </div>
+    
   </section>
 </article>
 
