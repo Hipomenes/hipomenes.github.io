@@ -47,20 +47,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>María de Jesús de Ágreda</strong> (1602 – 1665), was a 
-        Franciscan abbess and spiritual writer, known especially 
-        for her extensive correspondence with King Philip IV 
-        of Spain and reports of her bilocation between Spain and New Mexico. 
-        She was a noted mystic of her era. A member of the Order of the 
-        Immaculate Conception, also known as Conceptionists, Mary of Jesus 
-        wrote 14 books, including a series of revelations about the 
-        life of the Blessed Virgin Mary. Her bilocation activity is said to 
-        have occurred between her cloistered monastery in rural Spain 
-        and the Jumano Indians of central New Mexico and West Texas, 
-        as well as Tucson, and inspired many Franciscan missionaries 
-        in the New World. In popular culture since the 17th century, 
-        she has been dubbed the Lady in Blue and the Blue Nun, 
-        after the color of her order's habit.  
+        <strong>María de Jesús de Ágreda</strong> (1602-1665) was a Spanish Conceptionist abbess, mystic, and prolific spiritual writer who gained renown in the 17th century. Born in Ágreda, Spain, she became abbess of the Monastery of the Immaculate Conception at just 25 years of age and maintained this leadership role until her death. She authored 14 books, most notably the extensive "Mystical City of God," an eight-book series detailing revelations about the Virgin Mary's life that she claimed to have received directly from the Blessed Virgin herself. Among her lesser-known but significant works is the "Tratado de la redondez de la tierra" (Treatise on the Roundness of the Earth), a cosmological and geographical essay born from what was called "infused science" or divine knowledge, in which she described the world as seen from space. Her writings, which follow the Franciscan theologian Duns Scotus, are characterized by their ascetic and mystical nature, with a strong defense of the Immaculate Conception. Beyond her literary contributions, Sor María maintained a remarkable correspondence with King Philip IV of Spain spanning over twenty years and more than 600 letters, in which she served as both spiritual and political advisor to the monarch. 
       </p>
     </div>
          <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
