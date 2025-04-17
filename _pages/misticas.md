@@ -39,7 +39,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
-        <span style="background-image:url(https://the-public-domain-review.imgix.net/essays/the-reluctant-levitator/01-Santa_Teresa_de_Avila._(Museo_del_Prado)-edit.jpg);" class="cover bg-center aspect-ratio--object"></span>
+        <span style="background-image:url(https://www.leafletonline.com/wp/wp-content/uploads/2024/10/StTeresaOfAvila.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
