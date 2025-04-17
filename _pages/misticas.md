@@ -89,18 +89,7 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
-        <strong>Ursula de Jesús</strong> (1604–1668) was a Roman 
-        Catholic mystic of African descent in 17-century Peru. 
-        She was born in Lima, Peru, and was the legitimate daughter 
-        of Juan Castilla and Isabel de los Rios. 
-        Isabel de los Rios was a slave, leaving Ursula to inherit 
-        her mother's status. Ursula de Jesus was an African Peruvian 
-        who rose out of slavery to become a donada (religious servant) 
-        in the Roman Catholic Church. She lived under her mother's owner, 
-        Gerónima de los Rios, until she was roughly eight years old. 
-        The daughter of slaves, her first experience with mysticism 
-        was when she became the property of Luisa de Melgarejo Sotomayor, 
-        a mystic and beata, lay pious woman, in Lima. 
+        <strong>Ursula de Jesús</strong> (1604–1668) was a Black mystic who lived in 17th century Lima, Peru, where she spent forty-three years as a slave, including twenty-eight years in the Franciscan Convent of Santa Clara. After being freed, she became a donada—a servant who took religious vows but wasn't granted full status as a nun. Beginning in 1650, her confessors ordered her to record her numerous visions, particularly of souls in purgatory, creating a diary that reveals both her spiritual experiences and everyday concerns. Though she practiced extreme physical penances typical of Spanish mystics, including wearing a hair shirt and crown of thorns while performing manual labor, her plainspoken diary articulates a theology that subtly challenged colonial Lima's racial hierarchies, particularly when she questioned whether Black women could go to heaven. Her writings navigate the complex relationship between Christian humility and self-worth in the context of slavery and racism, as she struggled to reconcile her belief in her own lowliness with her visions affirming the equal value of all souls in God's eyes.
       </p>
     </div>
   </section>
