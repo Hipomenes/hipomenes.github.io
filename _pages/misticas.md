@@ -37,19 +37,9 @@ title:
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        <strong>Saint Teresa of Ávila</strong> (1515–82), 
-         was one of the great mystics and is a patron saint of Spain. 
-         She was the foundress of the reformed, or Discalced, Carmelites. 
-         She was born in Avila, in Castile, into an aristocratic family, 
-         and in her childhood showed a strong religious bent. 
-        Her decision to become a nun was inspired by reading the letters 
-        of S. Jerome when recovering from an illness, and after gaining
-        her father's unwilling consent she entered the Carmelite convent 
-        of the Incarnation in 1535. From 1536 to 1539 she lived at home
-        during an illness, but then returned to the cloister. 
-        Her convent was of the relaxed discipline, and she began to 
-        practise mental prayer. In 1555 she experienced an inner conversion 
-        which profoundly changed her spiritual life. 
+        <strong>Saint Teresa of Ávila</strong> (1515–1582) was a prominent Spanish mystic, Carmelite nun, and religious reformer who became a central figure in the Counter-Reformation. Born in Ávila, Spain, to a converso family (her grandfather was a Jewish convert to Christianity), Teresa entered the Carmelite Order at age 20 despite her father's disapproval. Her literary accomplishments are particularly remarkable given the restrictions on women's education and intellectual activity in 16th-century Spain. Teresa's writings, composed during a period of intense religious reform and amid frequent illness and opposition, established her as one of the most important prose authors in Spanish literary history. After experiencing a profound spiritual conversion through illness and mystical experiences—including visions, ecstasies, and what she described as a transverberation of her heart—Teresa began writing as a means of explaining and defending her interior spiritual life. Her autobiography, "The Life of Teresa of Jesus," written between 1562 and 1565 but published posthumously, is considered a masterpiece of spiritual literature and Spanish prose, notable for its detailed introspection and accessible style.
+Her major works also include "The Way of Perfection" (1566), written to instruct her nuns in prayer, and "The Interior Castle" (1577), a sophisticated spiritual guide that uses the metaphor of a castle with seven mansions to describe the soul's journey toward union with God. Teresa's writing is characterized by its vivid imagery, psychological insight, practical wisdom, and a distinctive, conversational tone that often employs domestic metaphors to explain complex mystical concepts. She wrote not in Latin, the language of theological discourse, but in Castilian Spanish, making her spiritual teachings accessible to a wider audience.
+Canonized in 1622, Teresa was proclaimed the first female Doctor of the Church by Pope Paul VI in 1970, recognizing not only her saintly life but also her extraordinary contributions to Christian spirituality and mystical theology through her writings. Her literary legacy has influenced religious thought, feminist discourse, and Spanish literature for centuries, making her one of the most significant women writers in Western history.
       </p>
     </div>  
      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
