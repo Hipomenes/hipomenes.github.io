@@ -9,9 +9,9 @@ title:
 <!-- Header Section -->
 <article class="vh-100 dt w-100 bg-orange">
   <div class="dtc v-mid tc navy ph3 ph4-l">
-    <h1 class="f6 f2-m f-subheadline-l fw6 tc helvetica">Mystics and Visionary Women</h1>
+    <h1 class="f6 f2-m f-subheadline-l fw6 tc helvetica">Mystics and Visionaries from the Hispanic World</h1>
     <h2 class="f5 f2-m f-subheadline-l white fw5 garamond tc">Teresa de Cartagena, St. Teresa of Ávila, Sor María de Agreda, Úrsula de Jesús, Catarina de San Juan, Sor Juana Inés de la Cruz</h2>
-    <h3 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">Comparative Literature. Winter 2024</h3>
+    <h3 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">COM LIT 130. Fall 2025</h3>
   </div>
 </article>
 
@@ -19,7 +19,7 @@ title:
 <article class="cf pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
     <h2 class="lh-title f b helvetica mt0">
-      The cast of early modern Spanish writers.
+      The cast of Hispanic mystic writers.
     </h2>
   </header>
   
