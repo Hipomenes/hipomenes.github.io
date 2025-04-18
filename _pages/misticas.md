@@ -72,6 +72,16 @@ title:
       </p>
     </div>
 
+ <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/79/Sor_Juana_In%C3%A9s_de_la_Cruz_%281772%29.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy garamond measure">
+        <strong>Sor Juana Inés de la Cruz</strong> (1651-1695), also known as "The Tenth Muse," was a renowned Jeronymite nun and Mexican literary figure considered one of the most important writers of the Spanish Golden Age. Born in San Miguel Nepantla, New Spain (now Mexico), she displayed remarkable intellectual abilities from an early age, teaching herself to read and write by age three. Despite restrictions on women's education, she mastered Latin in just twenty lessons and accumulated extensive knowledge in theology, philosophy, mathematics, and natural sciences. Sor Juana produced an impressive body of work spanning various genres: lyric poetry, religious and secular plays, philosophical essays, and theological critiques. Her most celebrated works include "Los empeños de una casa" (The House of Trials), "Amor es más laberinto" (Love is a Greater Labyrinth), "El divino Narciso" (The Divine Narcissus), and her philosophical poem "Primero sueño" (First Dream)—the only work she claimed to have written for personal pleasure rather than by commission. She boldly defended women's intellectual rights in her famous "Respuesta a Sor Filotea" (Response to Sister Philotea), challenging the patriarchal restrictions of her time. Her mastery of the Baroque style, incorporating complex wordplay, sophisticated metaphors, and multilingual elements including Nahuatl, established her as a literary pioneer whose influence extends well beyond her brief 47 years of life.
+      </p>
+    </div>
     
   </section>
 </article>
