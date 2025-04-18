@@ -67,7 +67,14 @@ title:
         <span style="background-image:url(https://images.ctfassets.net/ssn6gmzvvg61/2pgyNmAACXw3s1BsHmhWfV/21af894d3f3f1330ed71f424fc38b869/MughalArtistDetail2.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
-    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+
+<div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy garamond measure">
+        <strong>Sor Juana Inés de la Cruz</strong> (1651-1695), also known as "The Tenth Muse," was a renowned Jeronymite nun and Mexican literary figure considered one of the most important writers of the Spanish Golden Age. Born in San Miguel Nepantla, New Spain (now Mexico), she displayed remarkable intellectual abilities from an early age, teaching herself to read and write by age three. Despite restrictions on women's education, she mastered Latin in just twenty lessons and accumulated extensive knowledge in theology, philosophy, mathematics, and natural sciences. Sor Juana produced an impressive body of work spanning various genres: lyric poetry, religious and secular plays, philosophical essays, and theological critiques. She boldly defended women's intellectual rights in her famous "Respuesta a Sor Filotea" (Response to Sister Philotea), challenging the patriarchal restrictions of her time. Her mastery of the Baroque style, incorporating complex wordplay, sophisticated metaphors, and multilingual elements including Nahuatl, established her as a literary pioneer whose influence extends well beyond her brief 47 years of life.
+      </p>
+    </div>  
+    
+  <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy garamond measure">
         <strong>Catarina de San Juan</strong> (c. 1607-1688) was born as Mirra in Mughal India. After being baptized in Kochi, she was taken to Manila in the Philippines, where she was purchased by a Spanish merchant named Miguel de Sosa who brought her to Mexico in 1621 as part of the transpacific slave trade. After being freed upon her master's death, Catarina devoted herself to an ascetic religious life in Puebla, where she gained renown for her spiritual visions, prophecies, and mystical experiences, including regular conversations with Jesus Christ (whom she considered her celestial husband) and the Virgin Mary. Though illiterate, her religious experiences were extensively documented by her Jesuit confessor Alonso Ramos, who produced a three-volume hagiography. These writings described profound spiritual journeys, including astral projections to Asia, prophecies about notable deaths, and visions of her parents traveling from India to Mexico on their knees. She became a venerated spiritual icon in Puebla, with followers converting her humble cell into an altar, until the Spanish Inquisition intervened in 1691, censoring her writings and prohibiting her cult on charges of blasphemy.
       </p>
@@ -77,11 +84,7 @@ title:
         <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/79/Sor_Juana_In%C3%A9s_de_la_Cruz_%281772%29.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
     </div>
-    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
-      <p class="f6 lh-copy garamond measure">
-        <strong>Sor Juana Inés de la Cruz</strong> (1651-1695), also known as "The Tenth Muse," was a renowned Jeronymite nun and Mexican literary figure considered one of the most important writers of the Spanish Golden Age. Born in San Miguel Nepantla, New Spain (now Mexico), she displayed remarkable intellectual abilities from an early age, teaching herself to read and write by age three. Despite restrictions on women's education, she mastered Latin in just twenty lessons and accumulated extensive knowledge in theology, philosophy, mathematics, and natural sciences. Sor Juana produced an impressive body of work spanning various genres: lyric poetry, religious and secular plays, philosophical essays, and theological critiques. She boldly defended women's intellectual rights in her famous "Respuesta a Sor Filotea" (Response to Sister Philotea), challenging the patriarchal restrictions of her time. Her mastery of the Baroque style, incorporating complex wordplay, sophisticated metaphors, and multilingual elements including Nahuatl, established her as a literary pioneer whose influence extends well beyond her brief 47 years of life.
-      </p>
-    </div>
+  
   </section>
 </article>
 
