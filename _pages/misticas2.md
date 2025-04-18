@@ -23,8 +23,8 @@ title:
     </h2>
   </header>
   
-  <!-- Biographies Section -->
-  <section class="fl w-100">
+<!-- Biographies Section -->
+<section class="fl w-100">
     <!-- Teresa de Cartagena -->
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
@@ -37,8 +37,8 @@ title:
       </p>
     </div>
 
-    <!-- St. Teresa of Ávila -->
-    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+<!-- St. Teresa of Ávila -->
+<div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://www.leafletonline.com/wp/wp-content/uploads/2024/10/StTeresaOfAvila.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
@@ -49,8 +49,8 @@ title:
       </p>
     </div>
 
-    <!-- María de Jesús de Ágreda -->
-    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+<!-- María de Jesús de Ágreda -->
+<div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://mariadeagreda.org/wp-content/uploads/Retrato-de-Sor-M%C2%AA-de-Jes%C3%BAs.Siglo-XVII.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
@@ -61,8 +61,8 @@ title:
       </p>
     </div>
 
-    <!-- Ursula de Jesús -->
-    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+<!-- Ursula de Jesús -->
+<div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-dfgvmbEjbi8%2FWxxXWJKSRQI%2FAAAAAAAAZcc%2F7zaXLehrMVQ3-zsTu21M79uoDKOiRprAACK4BGAYYCw%2Fs1600%2FURSULA%252BJESUS-724467.jpg&f=1&nofb=1&ipt=6b201536732cb95229e2662e3795b6051344b878cf2b40e6cb0ca159f75507f3&ipo=images);" class="cover bg-center aspect-ratio--object"></span>
       </div>
@@ -73,8 +73,8 @@ title:
       </p>
     </div>
 
-    <!-- Catarina de San Juan -->
-    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+<!-- Catarina de San Juan -->
+<div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://images.ctfassets.net/ssn6gmzvvg61/2pgyNmAACXw3s1BsHmhWfV/21af894d3f3f1330ed71f424fc38b869/MughalArtistDetail2.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
@@ -85,8 +85,8 @@ title:
       </p>
     </div>
 
-    <!-- Sor Juana Inés de la Cruz -->
-    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+<!-- Sor Juana Inés de la Cruz -->
+<div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <div class="aspect-ratio aspect-ratio--3x4">
         <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/79/Sor_Juana_In%C3%A9s_de_la_Cruz_%281772%29.jpg);" class="cover bg-center aspect-ratio--object"></span>
       </div>
