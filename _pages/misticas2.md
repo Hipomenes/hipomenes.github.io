@@ -1,6 +1,6 @@
 --- 
 layout: 
-permalink: /misticas/
+permalink: /misticas2/
 title:
 ---
 
