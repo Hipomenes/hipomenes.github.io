@@ -6,7 +6,7 @@ title: "talks"
 
 ## Invited talks, Conferences and Organized Panels
 
-- “Interpolation and Codigofagia in the Cantares mexicanos”, International Symposium on the Cantares mexicanos, Library of Congress, May 2025.
+- “The First and Last Nahuatlato: Nahua Scribal Practices in Nineteenth-century Mexico”, International Symposium on the Cantares mexicanos, Library of Congress, May 2025.
 - “Convexity and Sovereignty: The Nuremberg Map of Tenochtitlan at 500.” Winter webinar, Colonial Section of the Latin American Studies Association, Dec 16, 2024
 - “The Burned Pochote: Sacred Trees in Mesoamerica during the Conquest.” Invited talk at Patricia A. Dailey’s Trees course at Columbia University, Nov 14, 2023.
 - “Pictorial Conjectures: A Vernacular Antiquarianism in New Spain.” Invited talk at Stanford’s Center for Medieval and Early Modern Studies, Nov  8, 2023.
