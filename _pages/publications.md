@@ -18,7 +18,7 @@ title: "publications"
 ## Recent articles
 <ol class="fa-ul">
   
-  <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Arrebato de Iván Zulueta: una ascesis del tiempo vivido.” <i>Ética y cine</i>, 15, no. 2, July. </li> <span class="dib bg-yellow black ph2 pv1 br2 f7 fw6 ttu tracked" style="font-family: Helvetica, sans-serif;" >New!</span></li>
+  <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Arrebato de Iván Zulueta: una ascesis del tiempo vivido.” <i>Ética y cine</i>, 15,  no. 2, Jul 2025 - Oct 2025, 73-81</li> <span class="dib bg-yellow black ph2 pv1 br2 f7 fw6 ttu tracked" style="font-family: Helvetica, sans-serif;" >New!</span>
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), "Estruendos de la mirada: José Revueltas y la anamorfosis." <i>Nuevas Poligrafías. Revista de Teoría Literaria y Literatura Comparada</i> (11), 105–129. <span class="dib bg-yellow black ph2 pv1 br2 f7 fw6 ttu tracked" style="font-family: Helvetica, sans-serif;" >New!</span></li>  
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), Brahms en Huasingo" <i>Revista de la Universidad de México</i> no. 917, Feb (and as a Prologue to Kurt Hackbarth, <i>Sinfonía N° 1</i>, 2nd. ed., Matanga!, 2025).   
   <li><span class="fa-li"><i class="fa fa-paperclip"></i></span>David Horacio Colmenares (2025), “Tenochtitlán figurada: Nuevas hipótesis sobre el plano-mapa de Núremberg, 1524.” <i>Latin American and Latinx Visual Culture</i>, forthcoming</li>
