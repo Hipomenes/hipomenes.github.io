@@ -4,8 +4,8 @@ permalink: /notes/
 title: "notes"
 ---
 
-This is a collection of notes, minutiae, quotes and book lists that are "too trifle, humble and trivial" to be worthy of a formal piece, but still worth preserving from oblivion. More recently, it also includes technical notes about my Linux machine (Ubuntu+i3w) and what I call DIRE (David's Integrated Research Environment), a set of configs and conventions that create a research and writing environment centered on the use of plain text files (and the glorious Vim editor).  
+This is a collection of notes, minutiae, quotes and [reading lists](/lecturas/). It also includes technical notes about my Linux configuration (Ubunuty+Sway) and DIRE (David's Integrated Research Environment), a set of configs and conventions, held together with glue and spare string, that work as a research and writing environment centered on the use of plain text files (and Vim).  
 
-This notebook can thus be regarded as a cyber-punk tribute to Andrés Henestrosa's endlessly entertaining *Alacena de minucias*, itself a tribute to [Lizardi's *Alacena de frioleras*](/assets/alacena.png), a column that ran weekly from June 1951 to Feb 1969 in Mexico's *El Nacional*.
+This notebook is a tribute to Andrés Henestrosa's endlessly entertaining *Alacena de minucias*, itself a tribute to Lizardi's even greater [*Alacena de frioleras*].
 
-I also keep a set of [reading lists](/lecturas/).
+By the way, if you're curious about my looks, I also keep a series of [recent portraits](https://ia801301.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/losmexicanospint00mexi/losmexicanospint00mexi_jp2.zip&file=losmexicanospint00mexi_jp2/losmexicanospint00mexi_0144.jp2&id=losmexicanospint00mexi&scale=1&rotate=0).
