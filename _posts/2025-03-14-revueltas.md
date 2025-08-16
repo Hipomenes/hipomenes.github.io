@@ -7,8 +7,7 @@ title: 'New article: José Revueltas and Anamorphism'
 
 My new article, "Estruendos de la mirada: José Revueltas y la anamorfosis", just appeared in UNAM's *Nuevas Poligrafías: Revista de Teoría Literaria y Literatura Comparada*.
 
-> This article proposes a study of the gaze and the vis
-ible in the work of the Mexican writer José Revueltas
+> This article proposes a study of the gaze and the visible in the work of the Mexican writer José Revueltas
 (1914-1976) based on an analysis of some of the most
 recurrent optical devices in his narrative: convex
 mirrors, the oblique gaze and the eye of the cyclops.
