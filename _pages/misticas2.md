@@ -10,8 +10,8 @@ title:
 <article class="vh-100 dt w-100 bg-orange">
   <div class="dtc v-mid tc navy ph3 ph4-l">
     <h1 class="f6 f2-m f-subheadline-l fw6 tc helvetica">Mystics and Visionaries from the Hispanic World</h1>
-    <h2 class="f5 f2-m f-subheadline-l white fw5 garamond tc">Teresa de Cartagena, St. Teresa of Ávila, Sor María de Agreda, Úrsula de Jesús, Catarina de San Juan, Sor Juana Inés de la Cruz</h2>
-    <h3 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">COM LIT 130. Fall 2025</h3>
+    <h2 class="f5 f2-m f-subheadline-l white fw5 garamond tc">Teresa de Cartagena, St. Teresa of Ávila, Sor María de Agreda, Úrsula de Jesús, Catharina de San Juan</h2>
+    <h3 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">COM LIT 130 | REL STD 150. Fall 2025</h3>
   </div>
 </article>
 
@@ -109,14 +109,6 @@ title:
           <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/79/Sor_Juana_In%C3%A9s_de_la_Cruz_%281772%29.jpg);" class="cover bg-center aspect-ratio--object"></span>
         </div>
       </div>
-      
-      <!-- Sor Juana Inés de la Cruz - Bio -->
-      <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
-        <p class="f6 lh-copy garamond measure">
-          <strong>Sor Juana Inés de la Cruz</strong> (1651-1695) was a renowned Jeronymite nun and Mexican literary figure considered one of the most important writers of the Spanish Golden Age. Born in San Miguel Nepantla, New Spain (now Mexico), she displayed remarkable intellectual abilities from an early age, teaching herself to read and write by age three. Despite restrictions on women's education, she mastered Latin in just twenty lessons and accumulated extensive knowledge in theology, philosophy, mathematics, and natural sciences. Sor Juana produced an impressive body of work spanning various genres: lyric poetry, religious and secular plays, philosophical essays, and theological critiques. She boldly defended women's intellectual rights in her famous "Respuesta a Sor Filotea" (Response to Sister Philotea), challenging the patriarchal restrictions of her time. Her mastery of the Baroque style, incorporating complex wordplay, sophisticated metaphors, and multilingual elements including Nahuatl, established her as a literary pioneer whose influence extends well beyond her brief 47 years of life.
-        </p>
-      </div>
-    </div>
   </section>
 </article>
 
