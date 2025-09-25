@@ -103,12 +103,6 @@ title:
         </p>
       </div>
 
-      <!-- Sor Juana Inés de la Cruz - Image -->
-      <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
-        <div class="aspect-ratio aspect-ratio--3x4">
-          <span style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/79/Sor_Juana_In%C3%A9s_de_la_Cruz_%281772%29.jpg);" class="cover bg-center aspect-ratio--object"></span>
-        </div>
-      </div>
   </section>
 </article>
 
