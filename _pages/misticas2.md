@@ -102,11 +102,7 @@ title:
           <strong>Catarina de San Juan</strong> (c. 1607-1688) was born as Mirra in Mughal India. After being baptized in Kochi, she was taken to Manila in the Philippines, where she was purchased by a Spanish merchant named Miguel de Sosa who brought her to Mexico in 1621 as part of the transpacific slave trade. After being freed upon her master's death, Catarina devoted herself to an ascetic religious life in Puebla, where she gained renown for her spiritual visions, prophecies, and mystical experiences, including regular conversations with Jesus Christ (whom she considered her celestial husband) and the Virgin Mary. Though illiterate, her religious experiences were extensively documented by her Jesuit confessor Alonso Ramos, who produced a three-volume hagiography. These writings described profound spiritual journeys, including astral projections to Asia, prophecies about notable deaths, and visions of her parents traveling from India to Mexico on their knees. She became a venerated spiritual icon in Puebla, with followers converting her humble cell into an altar, until the Spanish Inquisition intervened in 1691, censoring her writings and prohibiting her cult on charges of blasphemy.
         </p>
       </div>
-      </div>
-
-  </section>
-</article>
-
+    
 <!-- Footer -->
 <footer class="pv4 ph3 ph5-m bg-orange ph6-l mid-gray">
   <small class="f6 db light-gray code tc">David H. Colmenares, CC BY-SA 2025.</small>
