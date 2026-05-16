@@ -4,7 +4,7 @@ permalink: /cv/
 title: "vitae"
 ---
 
-![David H. Colmenares](/assets/me.png)
+![David H. Colmenares](/assets/dhc.png)
 
 <br>
 <br>
