@@ -4,9 +4,8 @@ permalink: /cv/
 title: "vitae"
 ---
 
-![David H. Colmenares](/assets/dhc.png)
-
 <br>
+![David H. Colmenares](/assets/dhc2.png)
 <br>
 
 ## Current Appointment
