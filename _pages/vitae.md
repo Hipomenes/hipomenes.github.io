@@ -5,7 +5,7 @@ title: "vitae"
 ---
 
 <br>
-![David H. Colmenares](/assets/dhc2.png)
+![David H. Colmenares](/assets/dhc1.png)
 <br>
 
 ## Current Appointment
